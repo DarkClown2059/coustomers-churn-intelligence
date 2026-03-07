@@ -1,7 +1,33 @@
+# Virtual environment
 .venv/
+venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-.DS_Store
+*.pyo
+*.pyd
+.Python
+
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dev containers
 .devcontainer/
+
+# Optional: Uncomment to exclude model files (large)
+# models/*.pkl
+
+# Optional: Uncomment to exclude generated reports
+# reports/

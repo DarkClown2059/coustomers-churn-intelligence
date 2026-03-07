@@ -1,121 +1,53 @@
-# 🏥 Patient Churn Intelligence System
+# Customer Churn Prediction
 
-A machine learning web application that predicts patient churn risk and provides business-driven retention insights.
+ML project that predicts which customers are likely to cancel their subscription. Uses Random Forest and has a Streamlit dashboard for easy predictions.
 
----
+## What it does
+- Predicts churn probability for each customer
+- Groups customers into High/Medium/Low risk
+- Shows key business metrics and charts
+- Lets you input customer info and get instant predictions
 
-## 🚀 Project Overview
+## Quick Start
 
-This project analyzes patient engagement data to predict churn probability using a Random Forest classifier.  
-
-The system enables hospitals to:
-
-- Identify high-risk patients
-- Estimate churn probability
-- Assess potential revenue at risk
-- Support proactive retention strategies
-
----
-
-## 🌍 Live Demo
-
-The application is deployed using Streamlit Cloud.
-
-🔗 **Access the Live App:**  
-👉 https://sahil-patient-churn-app.streamlit.app
-
-
-## 🧠 Features
-
-- Interactive Streamlit dashboard
-- Gender & Insurance dropdown encoding
-- Risk probability visualization
-- Revenue risk estimation
-- Real-time model inference
-- Feature-based churn prediction
-
----
-
-## 📊 Machine Learning Model
-
-- Model: Random Forest Classifier
-- Task: Binary Classification (Churn / No Churn)
-- Evaluation Metrics:
-  - Precision
-  - Recall
-  - F1 Score
-  - ROC-AUC
-
----
-
-## 🖥️ Tech Stack
-
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
-- Joblib
-
----
-
-## 📂 Project Structure
-
-```
-patient_churn_app/
-│
-├── churn_model.pkl
-├── model_columns.pkl
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
-## ⚙️ Run Locally
-
-1. Clone the repository:
-
-```
-git clone <your-repo-url>
-cd patient_churn_app
-```
-
-2. Create virtual environment:
-
-```
+```bash
+# clone and setup
+git clone https://github.com/yourusername/customer-churn-prediction.git
+cd customer-churn-prediction
 python -m venv .venv
-source .venv/bin/activate   # Mac/Linux
-.venv\Scripts\activate      # Windows
-```
-
-3. Install dependencies:
-
-```
+source .venv/bin/activate
 pip install -r requirements.txt
+
+# train the model
+python train_model.py
+
+# launch dashboard
+streamlit run dashboard.py
 ```
 
-4. Run the app:
+## Model Results
 
-```
-streamlit run app.py
-```
+- Accuracy: ~74%
+- ROC-AUC: ~71%
+- Main churn drivers: monthly charges, tenure, contract type
 
----
+## Files
 
-## 🌍 Deployment
+- `train_model.py` - trains the model
+- `dashboard.py` - streamlit web app
+- `src/model.py` - ChurnModel class
+- `src/preprocessing.py` - data cleaning
+- `src/analysis.py` - business metrics
+- `src/visualizations.py` - charts
 
-Deployed using Streamlit Cloud.
+## Tech Stack
 
----
+- Python 3.8+
+- scikit-learn
+- pandas, numpy
+- streamlit
+- plotly
 
-## 📈 Business Value
+## Notes
 
-This system demonstrates how predictive analytics can be applied to healthcare operations to reduce churn and improve revenue stability.
-
----
-
-## 👤 Author
-
-Sahil Narula  
-B.Tech CSE – 3rd Year  
+The dataset is synthetic. To generate new data run `python generate_realistic_data.py`.

@@ -1,0 +1,2001 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,TechSupport,Churn,churn_probability,risk_category
+1,47,Female,8,33.03,Month-to-Month,None,264.24,No,No,0.2681096237324105,Low Risk
+2,40,Male,19,75.32,Month-to-Month,Fiber Optic,1431.08,No,No,0.7104847346175629,Medium Risk
+3,49,Female,39,47.85,Month-to-Month,None,1866.15,Yes,No,0.11898893271534967,Low Risk
+4,60,Male,3,70.93,Month-to-Month,Fiber Optic,212.79,No,Yes,0.7719417034387562,High Risk
+5,39,Male,20,70.07,Two-Year,Fiber Optic,1401.4,No,No,0.06416059870475205,Low Risk
+6,39,Female,16,75.97,One-Year,Fiber Optic,1215.52,No,No,0.4320401073876866,Medium Risk
+7,60,Male,3,72.99,Two-Year,Fiber Optic,218.97,No,No,0.4198850326218286,Medium Risk
+8,51,Female,23,80.81,One-Year,Fiber Optic,1858.63,No,Yes,0.5941958212609826,Medium Risk
+9,36,Female,7,71.22,Month-to-Month,DSL,498.54,Yes,No,0.3223051163949011,Low Risk
+10,48,Male,16,72.55,One-Year,Fiber Optic,1160.8,No,No,0.46521654890390957,Medium Risk
+11,36,Male,2,67.38,Month-to-Month,Fiber Optic,134.76,No,Yes,0.7552788963318627,High Risk
+12,36,Female,14,25.98,One-Year,None,363.72,No,No,0.17912412849560583,Low Risk
+13,44,Female,8,74.03,Month-to-Month,Fiber Optic,592.24,No,No,0.5591945701731129,Medium Risk
+14,19,Male,41,85.73,Two-Year,Fiber Optic,3514.93,Yes,No,0.05788492839528429,Low Risk
+15,21,Male,1,51.94,Month-to-Month,DSL,51.94,No,Yes,0.7412967755529916,Medium Risk
+16,35,Male,13,78.98,Month-to-Month,Fiber Optic,1026.74,No,Yes,0.6651463266391476,Medium Risk
+17,29,Male,14,80.99,Two-Year,Fiber Optic,1133.86,Yes,Yes,0.5428062980307375,Medium Risk
+18,45,Female,30,44.11,Month-to-Month,None,1323.3,Yes,Yes,0.28994485900391787,Low Risk
+19,31,Female,20,29.68,One-Year,None,593.6,No,No,0.13741784354224718,Low Risk
+20,25,Female,26,50.39,One-Year,DSL,1310.14,No,No,0.06408471759388833,Low Risk
+21,59,Female,36,25.07,Two-Year,None,902.52,No,No,0.14808317924766634,Low Risk
+22,39,Male,47,41.83,Two-Year,DSL,1966.01,No,No,0.009908191889846318,Low Risk
+23,42,Male,9,66.38,Two-Year,Fiber Optic,597.42,No,No,0.2426271240802066,Low Risk
+24,24,Female,18,87.6,Month-to-Month,Fiber Optic,1576.8,Yes,Yes,0.6205418335043226,Medium Risk
+25,35,Female,43,60.68,Two-Year,DSL,2609.24,Yes,No,0.0018533164216966347,Low Risk
+26,43,Female,72,87.48,One-Year,Fiber Optic,6298.56,Yes,Yes,0.5249452697448048,Medium Risk
+27,28,Female,52,69.63,One-Year,DSL,3620.76,Yes,No,0.014862470593046082,Low Risk
+28,46,Female,11,71.16,Month-to-Month,DSL,782.76,Yes,Yes,0.5893431226678781,Medium Risk
+29,34,Female,5,75.98,One-Year,Fiber Optic,379.9,No,No,0.39386195886817943,Low Risk
+30,38,Female,16,70.09,Two-Year,Fiber Optic,1121.44,No,No,0.03708660657981207,Low Risk
+31,34,Female,32,39.17,Two-Year,None,1253.44,Yes,No,0.05319370001010766,Low Risk
+32,64,Female,16,87.69,Month-to-Month,Fiber Optic,1403.04,Yes,Yes,0.7124962093766153,Medium Risk
+33,41,Male,15,91.56,Month-to-Month,Fiber Optic,1373.4,Yes,No,0.469553305788901,Medium Risk
+34,29,Female,43,77.87,Month-to-Month,Fiber Optic,3348.41,No,No,0.1730630897944667,Low Risk
+35,51,Male,10,69.29,Two-Year,DSL,692.9,Yes,No,0.02647564112035177,Low Risk
+36,27,Male,47,72.16,One-Year,DSL,3391.52,Yes,No,0.005375573181753004,Low Risk
+37,44,Female,12,72.29,Month-to-Month,Fiber Optic,867.48,No,No,0.5859557995634642,Medium Risk
+38,18,Female,9,74.49,Month-to-Month,Fiber Optic,670.41,No,Yes,0.5949698389938627,Medium Risk
+39,26,Male,14,93.36,Month-to-Month,Fiber Optic,1307.04,Yes,No,0.496918651374982,Medium Risk
+40,44,Male,34,80.34,Month-to-Month,Fiber Optic,2731.56,No,No,0.4162796140946756,Medium Risk
+41,50,Female,3,85.23,Two-Year,Fiber Optic,255.69,Yes,No,0.2404836693033185,Low Risk
+42,44,Male,5,51.95,One-Year,DSL,259.75,No,No,0.5004738076072597,Medium Risk
+43,40,Female,72,48.73,Month-to-Month,DSL,3508.56,No,No,0.10247797370502071,Low Risk
+44,38,Female,4,40.01,Month-to-Month,None,160.04,Yes,Yes,0.14099278281250258,Low Risk
+45,24,Female,20,76.36,Month-to-Month,Fiber Optic,1527.2,No,Yes,0.7001078705567747,Medium Risk
+46,33,Male,20,42.04,Two-Year,None,840.8,Yes,No,0.01240574550289781,Low Risk
+47,36,Male,16,64.51,Month-to-Month,DSL,1032.16,Yes,No,0.31462010299869625,Low Risk
+48,54,Female,24,45.22,Month-to-Month,None,1085.28,Yes,No,0.18272099108115566,Low Risk
+49,46,Male,6,58.16,Month-to-Month,DSL,348.96,No,Yes,0.5944698199897183,Medium Risk
+50,20,Male,19,61.03,One-Year,DSL,1159.57,Yes,No,0.12851116133122248,Low Risk
+51,45,Male,11,48.0,One-Year,None,528.0,Yes,No,0.08285972478395133,Low Risk
+52,37,Male,26,64.71,One-Year,DSL,1682.46,Yes,No,0.14196595901620232,Low Risk
+53,33,Male,3,96.29,Month-to-Month,Fiber Optic,288.87,Yes,Yes,0.7228480902075618,Medium Risk
+54,49,Male,20,52.33,Month-to-Month,DSL,1046.6,No,No,0.4233982901028322,Medium Risk
+55,54,Male,4,84.87,Month-to-Month,Fiber Optic,339.48,Yes,No,0.39739310411995804,Low Risk
+56,53,Female,7,40.57,One-Year,None,283.99,Yes,No,0.11636112386846925,Low Risk
+57,31,Male,5,54.52,Month-to-Month,DSL,272.6,No,No,0.5557199526951865,Medium Risk
+58,38,Male,4,69.4,One-Year,Fiber Optic,277.6,No,Yes,0.5822507662625785,Medium Risk
+59,45,Male,41,48.53,Two-Year,DSL,1989.73,No,No,0.0058118858212447356,Low Risk
+60,53,Male,8,69.0,Two-Year,Fiber Optic,552.0,No,No,0.15119326962244306,Low Risk
+61,36,Male,62,69.14,Month-to-Month,DSL,4286.68,Yes,No,0.022543966064768634,Low Risk
+62,39,Male,72,54.67,Month-to-Month,DSL,3936.24,No,No,0.23312132980554984,Low Risk
+63,28,Male,20,46.45,Month-to-Month,DSL,929.0,No,No,0.22269807857868146,Low Risk
+64,27,Male,3,68.36,One-Year,DSL,205.08,Yes,No,0.08872791688811754,Low Risk
+65,51,Female,11,26.6,Two-Year,None,292.6,No,No,0.02251499950089189,Low Risk
+66,58,Male,38,98.05,Month-to-Month,Fiber Optic,3725.9,Yes,Yes,0.6018118330011614,Medium Risk
+67,41,Male,10,50.3,Month-to-Month,DSL,503.0,No,No,0.29482275013409076,Low Risk
+68,54,Male,2,59.36,Two-Year,Fiber Optic,118.72,No,Yes,0.7534295010653961,High Risk
+69,46,Male,19,52.28,Two-Year,DSL,993.32,No,No,0.014808925139863167,Low Risk
+70,34,Female,44,76.73,Month-to-Month,Fiber Optic,3376.12,No,No,0.18586604862176423,Low Risk
+71,46,Female,38,23.71,One-Year,None,900.98,No,No,0.152337900541614,Low Risk
+72,60,Female,4,82.35,Month-to-Month,Fiber Optic,329.4,Yes,Yes,0.5988324824155963,Medium Risk
+73,41,Female,26,37.69,Month-to-Month,None,979.94,No,No,0.25625410131210624,Low Risk
+74,60,Female,5,87.36,Two-Year,Fiber Optic,436.8,Yes,No,0.18581545173979244,Low Risk
+75,18,Female,5,51.81,Two-Year,DSL,259.05,Yes,No,0.0828124221262866,Low Risk
+76,51,Female,49,69.07,One-Year,Fiber Optic,3384.43,No,No,0.10239829975318003,Low Risk
+77,43,Female,6,98.32,Month-to-Month,Fiber Optic,589.92,Yes,No,0.33406533190383597,Low Risk
+78,38,Female,7,78.86,Two-Year,Fiber Optic,552.02,Yes,No,0.05298628872876698,Low Risk
+79,43,Female,0,27.55,Month-to-Month,None,0.0,No,No,0.5704477331425781,Medium Risk
+80,18,Female,49,73.59,Month-to-Month,Fiber Optic,3605.91,No,No,0.06570289316989285,Low Risk
+81,39,Female,37,39.4,Month-to-Month,None,1457.8,Yes,No,0.05994470488101409,Low Risk
+82,46,Female,23,81.48,Month-to-Month,Fiber Optic,1874.04,Yes,No,0.4093983963280891,Medium Risk
+83,59,Female,33,90.5,One-Year,Fiber Optic,2986.5,Yes,No,0.3102329271248344,Low Risk
+84,35,Female,3,62.5,One-Year,Fiber Optic,187.5,No,Yes,0.7199712356039263,Medium Risk
+85,32,Female,14,71.24,Month-to-Month,DSL,997.36,Yes,No,0.22599434848710132,Low Risk
+86,35,Male,10,34.43,Month-to-Month,None,344.3,No,No,0.4025275478448414,Medium Risk
+87,52,Female,2,82.74,Month-to-Month,Fiber Optic,165.48,Yes,Yes,0.3217492651477769,Low Risk
+88,45,Male,15,65.38,Month-to-Month,DSL,980.7,Yes,No,0.3351594764004253,Low Risk
+89,35,Female,60,58.01,One-Year,DSL,3480.6,No,No,0.05019605086593467,Low Risk
+90,48,Female,0,83.4,Two-Year,Fiber Optic,0.0,Yes,No,0.2805841914528019,Low Risk
+91,43,Male,8,51.91,Month-to-Month,DSL,415.28,No,No,0.2983956103759513,Low Risk
+92,53,Female,5,76.01,Month-to-Month,DSL,380.05,Yes,No,0.4927147028180827,Medium Risk
+93,33,Male,6,76.98,One-Year,Fiber Optic,461.88,No,Yes,0.5066917357565979,Medium Risk
+94,38,Male,57,50.71,Two-Year,DSL,2890.47,No,No,0.0,Low Risk
+95,37,Male,15,85.5,Month-to-Month,Fiber Optic,1282.5,Yes,No,0.5369442857765383,Medium Risk
+96,24,Female,15,67.93,Month-to-Month,DSL,1018.95,Yes,No,0.2671870403841068,Low Risk
+97,45,Female,34,67.86,One-Year,DSL,2307.24,Yes,No,0.09506531304069522,Low Risk
+98,45,Female,4,74.06,Month-to-Month,Fiber Optic,296.24,No,Yes,0.675837168252759,Medium Risk
+99,42,Male,16,79.69,Month-to-Month,Fiber Optic,1275.04,No,Yes,0.7278430690690737,Medium Risk
+100,39,Male,13,44.98,One-Year,DSL,584.74,No,No,0.2918685146979119,Low Risk
+101,25,Female,21,45.15,One-Year,DSL,948.15,No,No,0.046096564739154536,Low Risk
+102,36,Female,72,86.36,One-Year,Fiber Optic,6217.92,Yes,No,0.155653883990346,Low Risk
+103,37,Female,35,64.17,One-Year,DSL,2245.95,Yes,No,0.05701734499253327,Low Risk
+104,32,Female,12,63.52,One-Year,DSL,762.24,Yes,No,0.048718325836625415,Low Risk
+105,40,Female,42,61.16,Month-to-Month,DSL,2568.72,Yes,No,0.08091819175790327,Low Risk
+106,46,Male,4,45.1,Month-to-Month,None,180.4,Yes,No,0.21742318771464203,Low Risk
+107,64,Male,0,74.74,Month-to-Month,Fiber Optic,0.0,No,No,0.5830542277629553,Medium Risk
+108,44,Male,5,78.27,Month-to-Month,Fiber Optic,391.35,No,No,0.5021414384057101,Medium Risk
+109,45,Female,9,71.58,One-Year,Fiber Optic,644.22,No,No,0.4937171116861044,Medium Risk
+110,41,Male,17,80.4,Two-Year,Fiber Optic,1366.8,Yes,No,0.12831637709435934,Low Risk
+111,18,Male,22,72.8,Two-Year,Fiber Optic,1601.6,No,No,0.14934704067473006,Low Risk
+112,41,Male,57,65.02,One-Year,Fiber Optic,3706.14,No,No,0.03540378641150308,Low Risk
+113,42,Male,17,57.68,Month-to-Month,DSL,980.56,No,No,0.5252549695327776,Medium Risk
+114,71,Male,16,81.64,Month-to-Month,Fiber Optic,1306.24,Yes,Yes,0.7163568477681328,Medium Risk
+115,39,Female,1,77.23,Two-Year,Fiber Optic,77.23,Yes,No,0.15784794436039945,Low Risk
+116,45,Male,0,79.74,One-Year,Fiber Optic,0.0,Yes,Yes,0.5826813886338669,Medium Risk
+117,41,Female,19,89.21,One-Year,Fiber Optic,1694.99,Yes,No,0.2525681625323701,Low Risk
+118,27,Female,13,51.94,One-Year,DSL,675.22,No,No,0.13927434321803822,Low Risk
+119,55,Female,43,85.44,One-Year,Fiber Optic,3673.92,Yes,No,0.03171739252520258,Low Risk
+120,51,Female,4,76.02,Two-Year,Fiber Optic,304.08,Yes,No,0.07704457695315484,Low Risk
+121,51,Female,0,28.5,Month-to-Month,None,0.0,No,No,0.4771426747645257,Medium Risk
+122,31,Male,14,48.62,One-Year,DSL,680.68,No,No,0.1800339282871509,Low Risk
+123,58,Male,6,69.23,Two-Year,Fiber Optic,415.38,No,No,0.21068581512993265,Low Risk
+124,25,Female,1,70.04,Month-to-Month,Fiber Optic,70.04,No,No,0.6352606113518975,Medium Risk
+125,49,Female,30,49.07,One-Year,None,1472.1,Yes,No,0.10954726517170307,Low Risk
+126,68,Female,2,81.62,Month-to-Month,Fiber Optic,163.24,Yes,No,0.3313771251470042,Low Risk
+127,30,Male,22,77.37,Two-Year,Fiber Optic,1702.14,Yes,Yes,0.5107787577933531,Medium Risk
+128,35,Female,7,83.39,Month-to-Month,Fiber Optic,583.73,No,No,0.39776103543511726,Low Risk
+129,43,Male,4,69.18,One-Year,Fiber Optic,276.72,No,Yes,0.6028561232832365,Medium Risk
+130,35,Female,11,38.43,Month-to-Month,None,422.73,Yes,No,0.14373980332097805,Low Risk
+131,23,Male,38,53.29,One-Year,DSL,2025.02,No,No,0.09421896550910702,Low Risk
+132,42,Female,11,67.62,Month-to-Month,DSL,743.82,Yes,Yes,0.5666257341494555,Medium Risk
+133,29,Male,33,25.82,Month-to-Month,None,852.06,No,No,0.2685024487438837,Low Risk
+134,47,Female,3,84.52,Month-to-Month,Fiber Optic,253.56,Yes,Yes,0.5665331170498669,Medium Risk
+135,30,Male,35,93.46,Two-Year,Fiber Optic,3271.1,Yes,No,0.3208652406082797,Low Risk
+136,60,Male,6,73.74,Month-to-Month,Fiber Optic,442.44,No,No,0.5844042125797292,Medium Risk
+137,32,Male,27,45.37,Month-to-Month,DSL,1224.99,No,No,0.299733757694433,Low Risk
+138,38,Male,20,78.35,One-Year,Fiber Optic,1567.0,No,No,0.29669105523867056,Low Risk
+139,51,Male,63,93.06,Month-to-Month,Fiber Optic,5862.78,Yes,No,0.16362794957326376,Low Risk
+140,27,Male,11,59.55,Two-Year,DSL,655.05,Yes,No,0.006857910868842263,Low Risk
+141,44,Male,1,65.33,Month-to-Month,DSL,65.33,Yes,No,0.3823031541584116,Low Risk
+142,57,Female,0,31.7,One-Year,None,0.0,No,No,0.30444477025963673,Low Risk
+143,22,Female,42,53.77,Month-to-Month,DSL,2258.34,No,No,0.18242780538571018,Low Risk
+144,44,Female,17,20.37,Month-to-Month,None,346.29,No,No,0.24724223335744483,Low Risk
+145,45,Female,35,74.99,One-Year,DSL,2624.65,Yes,No,0.10820942260191094,Low Risk
+146,51,Female,6,69.19,One-Year,Fiber Optic,415.14,No,No,0.3605519635376577,Low Risk
+147,27,Male,10,35.6,One-Year,None,356.0,No,No,0.1484079158307825,Low Risk
+148,26,Male,0,81.39,Month-to-Month,Fiber Optic,0.0,No,Yes,0.7250119666450615,Medium Risk
+149,48,Male,72,84.99,Month-to-Month,Fiber Optic,6119.28,Yes,Yes,0.15215549241179838,Low Risk
+150,45,Male,26,80.17,Month-to-Month,Fiber Optic,2084.42,No,No,0.4451828319204554,Medium Risk
+151,45,Male,64,46.57,Two-Year,DSL,2980.48,No,No,0.004096306068601582,Low Risk
+152,46,Female,7,45.67,Month-to-Month,DSL,319.69,No,No,0.2467432189124343,Low Risk
+153,33,Female,22,27.88,Month-to-Month,None,613.36,No,Yes,0.5112409563213852,Medium Risk
+154,44,Female,27,91.99,Month-to-Month,Fiber Optic,2483.73,Yes,No,0.38839578193736857,Low Risk
+155,45,Female,9,69.05,One-Year,Fiber Optic,621.45,No,No,0.4922520606056986,Medium Risk
+156,33,Male,45,73.46,Month-to-Month,Fiber Optic,3305.7,No,No,0.14556004530216307,Low Risk
+157,64,Male,70,68.15,Two-Year,DSL,4770.5,Yes,No,0.04677228459478245,Low Risk
+158,47,Male,51,70.53,Month-to-Month,DSL,3597.03,Yes,No,0.01905073524367948,Low Risk
+159,27,Female,32,77.21,Two-Year,Fiber Optic,2470.72,Yes,No,0.1117095082828956,Low Risk
+160,49,Male,7,78.51,Month-to-Month,Fiber Optic,549.57,No,No,0.5575252677535355,Medium Risk
+161,30,Female,7,86.44,One-Year,Fiber Optic,605.08,Yes,No,0.23641508720715587,Low Risk
+162,51,Male,72,20.0,Two-Year,None,1440.0,No,No,0.04781656279282094,Low Risk
+163,55,Male,0,72.14,Month-to-Month,DSL,0.0,Yes,Yes,0.6443152847903062,Medium Risk
+164,32,Female,30,69.26,Two-Year,Fiber Optic,2077.8,No,No,0.09470335218291581,Low Risk
+165,53,Male,29,70.1,Month-to-Month,DSL,2032.9,Yes,Yes,0.6525175716584114,Medium Risk
+166,46,Male,23,85.01,Two-Year,Fiber Optic,1955.23,Yes,No,0.17910928907189272,Low Risk
+167,51,Female,72,49.06,One-Year,DSL,3532.32,No,No,0.11215976618227927,Low Risk
+168,64,Male,8,31.68,Month-to-Month,None,253.44,No,No,0.3425101732965386,Low Risk
+169,39,Female,9,62.17,Month-to-Month,DSL,559.53,Yes,No,0.30240462089242925,Low Risk
+170,32,Male,1,47.04,Month-to-Month,None,47.04,Yes,No,0.2584362190631788,Low Risk
+171,31,Male,14,99.77,Month-to-Month,Fiber Optic,1396.78,Yes,No,0.3932155904620505,Low Risk
+172,32,Male,7,25.03,Month-to-Month,None,175.21,No,No,0.18281483872022572,Low Risk
+173,41,Male,10,71.2,Month-to-Month,Fiber Optic,712.0,No,No,0.6361952328834826,Medium Risk
+174,46,Male,43,26.45,Month-to-Month,None,1137.35,No,No,0.3626342431989127,Low Risk
+175,45,Male,65,52.87,One-Year,DSL,3436.55,No,No,0.04561334432804674,Low Risk
+176,51,Male,4,69.68,Month-to-Month,Fiber Optic,278.72,No,Yes,0.7260103675647769,Medium Risk
+177,42,Male,11,47.11,Month-to-Month,None,518.21,Yes,No,0.23049820465396106,Low Risk
+178,59,Female,63,56.27,One-Year,DSL,3545.01,No,No,0.08022820373598143,Low Risk
+179,38,Female,1,57.67,Month-to-Month,DSL,57.67,No,No,0.5393022343497982,Medium Risk
+180,74,Male,2,81.16,Month-to-Month,Fiber Optic,162.32,Yes,No,0.34390842591015647,Low Risk
+181,49,Male,4,49.98,Month-to-Month,None,199.92,Yes,No,0.20494644932092507,Low Risk
+182,31,Female,21,85.22,Two-Year,Fiber Optic,1789.62,Yes,Yes,0.5614636725776324,Medium Risk
+183,29,Male,3,84.74,Two-Year,Fiber Optic,254.22,Yes,No,0.18387191878041148,Low Risk
+184,47,Male,72,56.86,Month-to-Month,DSL,4093.92,No,Yes,0.35344931449802763,Low Risk
+185,39,Female,14,53.3,One-Year,DSL,746.2,No,No,0.21599473943151498,Low Risk
+186,50,Male,16,35.16,Month-to-Month,None,562.56,No,No,0.532270390313943,Medium Risk
+187,47,Male,6,61.39,One-Year,DSL,368.34,No,No,0.3876863654246957,Low Risk
+188,41,Female,15,66.72,One-Year,Fiber Optic,1000.8,No,No,0.5166573257277367,Medium Risk
+189,31,Male,26,33.62,One-Year,None,874.12,No,No,0.2656030040596156,Low Risk
+190,23,Male,33,69.57,Month-to-Month,DSL,2295.81,Yes,Yes,0.7592036939705779,High Risk
+191,36,Female,33,89.35,Month-to-Month,Fiber Optic,2948.55,Yes,No,0.5551017810408113,Medium Risk
+192,52,Male,20,47.32,Month-to-Month,DSL,946.4,No,Yes,0.5520295156354289,Medium Risk
+193,44,Female,56,79.72,Two-Year,Fiber Optic,4464.32,Yes,No,0.06316728220907565,Low Risk
+194,27,Male,40,61.76,One-Year,DSL,2470.4,Yes,No,0.07221406783166773,Low Risk
+195,44,Male,33,65.41,Two-Year,Fiber Optic,2158.53,No,Yes,0.4529215190887415,Medium Risk
+196,46,Female,1,44.56,Two-Year,DSL,44.56,No,No,0.032916019102988,Low Risk
+197,31,Female,0,87.76,Month-to-Month,Fiber Optic,0.0,Yes,No,0.4465003467796308,Medium Risk
+198,43,Male,5,69.32,One-Year,Fiber Optic,346.6,No,Yes,0.7255943083871214,Medium Risk
+199,42,Female,26,52.71,One-Year,DSL,1370.46,No,No,0.17254786046540993,Low Risk
+200,28,Female,12,73.73,Two-Year,Fiber Optic,884.76,Yes,No,0.09291295424506182,Low Risk
+201,46,Male,12,56.5,Two-Year,DSL,678.0,Yes,No,0.014128138300723448,Low Risk
+202,48,Male,51,72.97,One-Year,Fiber Optic,3721.47,No,No,0.02769948260274422,Low Risk
+203,54,Male,54,66.01,Month-to-Month,DSL,3564.54,Yes,No,0.030335286223725593,Low Risk
+204,54,Female,57,90.6,One-Year,Fiber Optic,5164.2,Yes,No,0.23827148696443218,Low Risk
+205,25,Female,9,56.13,Month-to-Month,DSL,505.17,No,Yes,0.6396346102768998,Medium Risk
+206,30,Female,28,74.13,One-Year,Fiber Optic,2075.64,No,No,0.48311933015472136,Medium Risk
+207,48,Female,7,69.35,Two-Year,DSL,485.45,Yes,No,0.0448235931151145,Low Risk
+208,48,Male,5,88.45,Month-to-Month,Fiber Optic,442.25,Yes,No,0.5205673121919504,Medium Risk
+209,48,Female,4,63.77,One-Year,DSL,255.08,Yes,No,0.12522133329815507,Low Risk
+210,80,Male,10,34.36,Month-to-Month,None,343.6,No,No,0.3208042873578145,Low Risk
+211,48,Female,13,47.55,Month-to-Month,None,618.15,Yes,No,0.11278034614546219,Low Risk
+212,55,Male,42,54.06,Month-to-Month,DSL,2270.52,No,No,0.2652550615053016,Low Risk
+213,53,Male,3,77.86,One-Year,Fiber Optic,233.58,No,No,0.32055784555558114,Low Risk
+214,49,Male,31,62.04,Two-Year,DSL,1923.24,Yes,No,0.011174580121762872,Low Risk
+215,38,Female,18,67.65,Two-Year,Fiber Optic,1217.7,No,No,0.04950047559174492,Low Risk
+216,51,Male,8,75.11,Month-to-Month,Fiber Optic,600.88,No,Yes,0.5524925030735318,Medium Risk
+217,32,Male,16,63.29,Two-Year,Fiber Optic,1012.64,No,No,0.17357482753898343,Low Risk
+218,39,Female,8,85.87,One-Year,Fiber Optic,686.96,Yes,Yes,0.2900038349514654,Low Risk
+219,36,Male,21,61.98,Month-to-Month,DSL,1301.58,No,No,0.45964067623717697,Medium Risk
+220,42,Female,13,77.22,Month-to-Month,Fiber Optic,1003.86,No,No,0.5491738558372701,Medium Risk
+221,69,Female,4,55.16,Month-to-Month,DSL,220.64,No,No,0.4562221970966378,Medium Risk
+222,19,Male,2,80.27,Two-Year,Fiber Optic,160.54,Yes,No,0.1275691028067957,Low Risk
+223,50,Male,18,72.82,One-Year,Fiber Optic,1310.76,No,No,0.4240958722948719,Medium Risk
+224,22,Female,55,89.06,One-Year,Fiber Optic,4898.3,Yes,Yes,0.5365961980460996,Medium Risk
+225,36,Male,10,73.05,Month-to-Month,DSL,730.5,Yes,No,0.3090068708009798,Low Risk
+226,55,Female,31,50.67,One-Year,DSL,1570.77,No,No,0.18144684798794283,Low Risk
+227,42,Female,25,56.62,Month-to-Month,DSL,1415.5,No,No,0.46358611178822506,Medium Risk
+228,29,Female,64,57.4,Month-to-Month,DSL,3673.6,No,No,0.18842262423668102,Low Risk
+229,33,Male,41,47.47,One-Year,DSL,1946.27,No,No,0.0841637347908624,Low Risk
+230,50,Female,20,30.84,Month-to-Month,None,616.8,No,No,0.4573620281047688,Medium Risk
+231,33,Male,25,30.77,Two-Year,None,769.25,Yes,No,0.06817142371261953,Low Risk
+232,44,Male,54,77.41,Month-to-Month,Fiber Optic,4180.14,No,No,0.23511480222944095,Low Risk
+233,42,Male,12,88.64,One-Year,Fiber Optic,1063.68,Yes,No,0.1941627249625532,Low Risk
+234,34,Male,9,73.74,Month-to-Month,DSL,663.66,Yes,No,0.3068896112203324,Low Risk
+235,67,Female,0,26.62,One-Year,None,0.0,No,Yes,0.583935651568631,Medium Risk
+236,49,Male,42,56.55,Month-to-Month,DSL,2375.1,No,No,0.4455510402543725,Medium Risk
+237,18,Female,38,37.12,Month-to-Month,None,1410.56,No,No,0.07359561342493383,Low Risk
+238,44,Female,2,73.86,Two-Year,Fiber Optic,147.72,No,No,0.26956595640693887,Low Risk
+239,34,Male,20,69.85,Month-to-Month,DSL,1397.0,Yes,Yes,0.5104600621591245,Medium Risk
+240,52,Female,14,41.13,Two-Year,None,575.82,Yes,No,0.0348028589356192,Low Risk
+241,32,Female,3,54.5,Two-Year,DSL,163.5,No,No,0.05649840451333368,Low Risk
+242,40,Male,72,82.5,Month-to-Month,Fiber Optic,5940.0,Yes,No,0.08180205515049042,Low Risk
+243,48,Female,5,88.38,Month-to-Month,Fiber Optic,441.9,Yes,Yes,0.6047042149738519,Medium Risk
+244,52,Female,1,58.59,One-Year,DSL,58.59,No,No,0.48291003443411834,Medium Risk
+245,27,Female,21,85.39,Two-Year,Fiber Optic,1793.19,Yes,No,0.38061627526724817,Low Risk
+246,37,Female,32,82.66,Two-Year,Fiber Optic,2645.12,Yes,No,0.1521153162896936,Low Risk
+247,36,Male,0,67.47,Month-to-Month,Fiber Optic,0.0,No,No,0.7256512883280201,Medium Risk
+248,34,Female,25,52.01,One-Year,DSL,1300.25,No,No,0.13194323591410204,Low Risk
+249,63,Female,18,27.05,Month-to-Month,None,486.9,No,No,0.2535571927710676,Low Risk
+250,46,Female,2,50.99,Two-Year,DSL,101.98,No,No,0.11502883222407151,Low Risk
+251,26,Female,4,45.86,Two-Year,DSL,183.44,No,No,0.05631937119390709,Low Risk
+252,53,Male,20,49.87,Month-to-Month,DSL,997.4,No,No,0.3672993806933811,Low Risk
+253,67,Female,8,44.68,Month-to-Month,DSL,357.44,No,No,0.40583036153562096,Medium Risk
+254,54,Male,66,76.11,Month-to-Month,DSL,5023.26,Yes,No,0.024035960054182105,Low Risk
+255,23,Female,40,43.0,Month-to-Month,None,1720.0,Yes,No,0.07951212253827226,Low Risk
+256,36,Male,72,50.21,Two-Year,DSL,3615.12,No,No,0.01,Low Risk
+257,57,Male,7,54.99,Month-to-Month,DSL,384.93,No,No,0.5837665219167995,Medium Risk
+258,33,Male,72,49.66,Month-to-Month,DSL,3575.52,No,No,0.13246357844179307,Low Risk
+259,47,Male,13,68.7,Month-to-Month,Fiber Optic,893.1,No,Yes,0.6958925442035677,Medium Risk
+260,51,Male,10,22.48,Two-Year,None,224.8,No,No,0.033683602072403784,Low Risk
+261,30,Female,1,48.81,One-Year,DSL,48.81,No,No,0.20847356610798845,Low Risk
+262,41,Female,1,56.83,Month-to-Month,DSL,56.83,No,No,0.5494662016244578,Medium Risk
+263,18,Female,28,66.02,Month-to-Month,DSL,1848.56,Yes,Yes,0.5938645852727342,Medium Risk
+264,29,Male,14,57.36,Two-Year,DSL,803.04,No,No,0.06869218025806546,Low Risk
+265,38,Female,6,67.62,Two-Year,DSL,405.72,Yes,No,0.03844479626139566,Low Risk
+266,27,Male,22,79.04,Month-to-Month,Fiber Optic,1738.88,No,No,0.5705638221950139,Medium Risk
+267,61,Male,6,54.4,Month-to-Month,DSL,326.4,No,No,0.4946917082569033,Medium Risk
+268,24,Female,20,82.57,Month-to-Month,Fiber Optic,1651.4,No,Yes,0.6375101181686788,Medium Risk
+269,36,Female,10,53.91,Month-to-Month,DSL,539.1,No,No,0.44967440330804737,Medium Risk
+270,43,Male,41,28.35,One-Year,None,1162.35,No,No,0.26851382446187183,Low Risk
+271,59,Male,41,41.26,Two-Year,None,1691.66,Yes,No,0.04981630617549974,Low Risk
+272,24,Female,15,93.51,Month-to-Month,Fiber Optic,1402.65,Yes,No,0.4225293763448328,Medium Risk
+273,55,Female,10,70.37,Two-Year,Fiber Optic,703.7,No,No,0.08896572292417215,Low Risk
+274,42,Female,10,72.62,Month-to-Month,Fiber Optic,726.2,No,Yes,0.6190521327443832,Medium Risk
+275,30,Female,39,68.72,One-Year,Fiber Optic,2680.08,No,No,0.25823360499079373,Low Risk
+276,47,Male,9,88.54,One-Year,Fiber Optic,796.86,Yes,Yes,0.4970266376669887,Medium Risk
+277,44,Female,5,78.58,Month-to-Month,Fiber Optic,392.9,No,No,0.41623573704150624,Medium Risk
+278,34,Female,2,28.03,Month-to-Month,None,56.06,No,No,0.3965855596389328,Low Risk
+279,42,Female,15,20.96,One-Year,None,314.4,No,No,0.171706764324943,Low Risk
+280,37,Male,15,53.96,Month-to-Month,DSL,809.4,No,Yes,0.6174991759963746,Medium Risk
+281,43,Male,44,78.12,Month-to-Month,Fiber Optic,3437.28,No,Yes,0.5169006062252405,Medium Risk
+282,49,Male,6,64.03,Month-to-Month,DSL,384.18,No,No,0.540649963375115,Medium Risk
+283,61,Male,11,44.11,Two-Year,DSL,485.21,No,No,0.024590096878356164,Low Risk
+284,27,Female,39,72.87,Month-to-Month,Fiber Optic,2841.93,No,Yes,0.619177036296806,Medium Risk
+285,67,Male,41,61.25,Two-Year,DSL,2511.25,Yes,No,0.03706994467014813,Low Risk
+286,18,Female,11,36.78,Month-to-Month,None,404.58,No,No,0.08481016571204858,Low Risk
+287,40,Female,14,66.33,One-Year,DSL,928.62,Yes,No,0.06108767197390593,Low Risk
+288,49,Female,8,81.19,One-Year,Fiber Optic,649.52,Yes,No,0.19937208719716235,Low Risk
+289,45,Female,64,70.01,Two-Year,Fiber Optic,4480.64,No,No,0.17813646842589745,Low Risk
+290,34,Male,3,87.98,Month-to-Month,Fiber Optic,263.94,Yes,No,0.626459218720203,Medium Risk
+291,39,Male,65,65.43,One-Year,Fiber Optic,4252.95,No,No,0.0171846735895104,Low Risk
+292,36,Male,27,24.26,One-Year,None,655.02,No,No,0.5230798093707206,Medium Risk
+293,34,Female,18,83.67,Month-to-Month,Fiber Optic,1506.06,No,Yes,0.46841569015963436,Medium Risk
+294,52,Female,0,76.92,Month-to-Month,Fiber Optic,0.0,No,Yes,0.5086497417518236,Medium Risk
+295,46,Female,15,70.54,Month-to-Month,DSL,1058.1,Yes,Yes,0.44803903636982306,Medium Risk
+296,33,Female,12,73.75,Month-to-Month,Fiber Optic,885.0,No,No,0.5669075577024519,Medium Risk
+297,52,Female,4,41.81,Two-Year,None,167.24,Yes,No,0.025533791986019478,Low Risk
+298,45,Male,25,76.4,Month-to-Month,Fiber Optic,1910.0,No,Yes,0.6255133322363102,Medium Risk
+299,51,Female,72,31.46,Month-to-Month,None,2265.12,No,Yes,0.6484868872293749,Medium Risk
+300,49,Male,19,86.05,One-Year,Fiber Optic,1634.95,Yes,Yes,0.6079500280913134,Medium Risk
+301,32,Female,30,59.34,Month-to-Month,DSL,1780.2,No,Yes,0.5350796427216781,Medium Risk
+302,35,Female,1,55.12,Month-to-Month,DSL,55.12,No,No,0.6164947494832709,Medium Risk
+303,50,Male,12,50.11,Month-to-Month,DSL,601.32,No,No,0.28593504858714075,Low Risk
+304,49,Male,2,64.74,Two-Year,Fiber Optic,129.48,No,No,0.4681428620213722,Medium Risk
+305,41,Female,22,72.09,Two-Year,Fiber Optic,1585.98,Yes,No,0.06903985740106396,Low Risk
+306,43,Female,66,58.62,Two-Year,DSL,3868.92,No,No,0.014730743350041818,Low Risk
+307,57,Female,26,79.31,Month-to-Month,Fiber Optic,2062.06,No,No,0.487396621864206,Medium Risk
+308,34,Female,1,67.31,One-Year,Fiber Optic,67.31,No,Yes,0.8709680488009933,High Risk
+309,48,Male,10,88.59,Month-to-Month,Fiber Optic,885.9,Yes,No,0.5656626530777608,Medium Risk
+310,39,Female,19,51.82,Month-to-Month,DSL,984.58,No,No,0.23900975471735364,Low Risk
+311,39,Male,12,77.71,Month-to-Month,DSL,932.52,Yes,No,0.2848775249173705,Low Risk
+312,55,Female,43,59.76,One-Year,DSL,2569.68,Yes,No,0.07046100972013895,Low Risk
+313,51,Male,40,55.57,Month-to-Month,DSL,2222.8,No,No,0.39344432948260255,Low Risk
+314,51,Male,22,54.46,Month-to-Month,DSL,1198.12,No,No,0.419840252378976,Medium Risk
+315,57,Female,11,59.13,Month-to-Month,DSL,650.43,No,Yes,0.6928221731166669,Medium Risk
+316,42,Male,7,74.48,Month-to-Month,Fiber Optic,521.36,No,Yes,0.7220886620136656,Medium Risk
+317,50,Female,2,43.9,One-Year,DSL,87.8,No,No,0.28737643454835404,Low Risk
+318,38,Male,10,43.74,Month-to-Month,None,437.4,Yes,Yes,0.46936189103664006,Medium Risk
+319,45,Female,12,47.63,One-Year,DSL,571.56,No,No,0.2253361267595217,Low Risk
+320,40,Male,27,70.4,Month-to-Month,DSL,1900.8,Yes,No,0.45811312095069967,Medium Risk
+321,43,Female,25,73.95,Two-Year,Fiber Optic,1848.75,No,No,0.06526273805031652,Low Risk
+322,49,Female,1,58.24,One-Year,DSL,58.24,Yes,No,0.16533194042286223,Low Risk
+323,32,Male,12,41.0,Month-to-Month,None,492.0,Yes,Yes,0.4730933385210182,Medium Risk
+324,67,Male,4,52.24,Month-to-Month,DSL,208.96,No,Yes,0.6530601037065021,Medium Risk
+325,29,Male,4,40.94,One-Year,None,163.76,Yes,No,0.2090201771028306,Low Risk
+326,27,Male,42,43.83,Two-Year,None,1840.86,Yes,No,0.03637686655344444,Low Risk
+327,55,Female,1,74.13,Month-to-Month,Fiber Optic,74.13,No,No,0.5182175555159574,Medium Risk
+328,51,Male,13,92.08,Month-to-Month,Fiber Optic,1197.04,Yes,No,0.34598095045749244,Low Risk
+329,49,Female,4,78.18,Two-Year,Fiber Optic,312.72,Yes,No,0.06039537201535681,Low Risk
+330,49,Male,50,86.59,One-Year,Fiber Optic,4329.5,Yes,No,0.057327846022413705,Low Risk
+331,41,Female,19,78.89,Month-to-Month,Fiber Optic,1498.91,No,No,0.5093148462295735,Medium Risk
+332,31,Female,6,51.34,Month-to-Month,DSL,308.04,No,No,0.23692874395401703,Low Risk
+333,42,Female,16,58.91,Month-to-Month,DSL,942.56,No,No,0.5031105778088015,Medium Risk
+334,33,Female,31,71.5,One-Year,Fiber Optic,2216.5,No,Yes,0.6319681357015727,Medium Risk
+335,53,Male,72,95.23,Month-to-Month,Fiber Optic,6856.56,Yes,No,0.29792508440537796,Low Risk
+336,40,Male,5,26.09,Two-Year,None,130.45,No,No,0.13507594304015635,Low Risk
+337,32,Female,52,71.91,Month-to-Month,DSL,3739.32,Yes,No,0.02423971910559446,Low Risk
+338,38,Male,65,29.8,Month-to-Month,None,1937.0,No,No,0.2805047101425589,Low Risk
+339,46,Male,59,51.79,One-Year,DSL,3055.61,No,No,0.026768112475719898,Low Risk
+340,35,Female,24,68.67,Two-Year,Fiber Optic,1648.08,No,No,0.07096434977970908,Low Risk
+341,32,Male,23,65.42,Two-Year,DSL,1504.66,Yes,No,0.07498773099021694,Low Risk
+342,44,Male,12,83.75,Month-to-Month,Fiber Optic,1005.0,Yes,No,0.42411919429187633,Medium Risk
+343,44,Male,33,59.06,One-Year,DSL,1948.98,No,No,0.2824198409171931,Low Risk
+344,35,Female,18,76.67,One-Year,Fiber Optic,1380.06,Yes,No,0.13442754752138453,Low Risk
+345,36,Male,27,26.58,Month-to-Month,None,717.66,No,Yes,0.7854317283721042,High Risk
+346,44,Female,13,74.53,Month-to-Month,Fiber Optic,968.89,No,No,0.5874519767427531,Medium Risk
+347,24,Male,31,77.06,Month-to-Month,Fiber Optic,2388.86,No,No,0.563313626590508,Medium Risk
+348,25,Male,41,52.88,Month-to-Month,None,2168.08,Yes,No,0.2040177672033643,Low Risk
+349,33,Male,3,59.14,Two-Year,Fiber Optic,177.42,No,No,0.27451228244178794,Low Risk
+350,39,Female,42,72.46,Month-to-Month,Fiber Optic,3043.32,No,No,0.23623435408717822,Low Risk
+351,45,Female,18,39.93,Two-Year,DSL,718.74,No,No,0.005634791959522572,Low Risk
+352,59,Male,44,45.16,Month-to-Month,None,1987.04,Yes,Yes,0.22017007931028307,Low Risk
+353,52,Female,13,86.79,One-Year,Fiber Optic,1128.27,Yes,No,0.1634269141421663,Low Risk
+354,40,Male,11,77.95,Month-to-Month,DSL,857.45,Yes,No,0.36041916715029454,Low Risk
+355,41,Female,59,70.6,Month-to-Month,DSL,4165.4,Yes,No,0.01421440294681989,Low Risk
+356,29,Female,6,35.22,Month-to-Month,None,211.32,No,No,0.1355271552590177,Low Risk
+357,41,Male,44,57.92,Month-to-Month,DSL,2548.48,No,Yes,0.541817969813387,Medium Risk
+358,38,Male,15,40.68,One-Year,None,610.2,Yes,No,0.14151797507900454,Low Risk
+359,45,Male,17,47.96,Month-to-Month,DSL,815.32,No,No,0.39172430371449607,Low Risk
+360,32,Male,8,86.81,One-Year,Fiber Optic,694.48,Yes,Yes,0.5180194014989966,Medium Risk
+361,48,Female,20,82.54,Month-to-Month,Fiber Optic,1650.8,Yes,No,0.44949302145088155,Medium Risk
+362,60,Female,9,96.48,Month-to-Month,Fiber Optic,868.32,Yes,Yes,0.4152027487241805,Medium Risk
+363,40,Female,0,44.19,Month-to-Month,None,0.0,Yes,No,0.11740940732427337,Low Risk
+364,46,Male,7,72.88,Two-Year,Fiber Optic,510.16,No,No,0.058430553675076456,Low Risk
+365,50,Male,0,83.22,One-Year,Fiber Optic,0.0,Yes,No,0.34057049434058007,Low Risk
+366,37,Female,72,56.34,Month-to-Month,DSL,4056.48,No,Yes,0.5824285589567998,Medium Risk
+367,44,Male,72,56.05,Month-to-Month,DSL,4035.6,No,No,0.34230717284149775,Low Risk
+368,42,Female,12,54.77,Month-to-Month,DSL,657.24,No,No,0.47919701449313357,Medium Risk
+369,43,Female,31,79.05,Two-Year,Fiber Optic,2450.55,Yes,No,0.04711969411398442,Low Risk
+370,32,Female,10,68.36,One-Year,DSL,683.6,Yes,No,0.05775072126866477,Low Risk
+371,42,Female,26,65.37,Month-to-Month,DSL,1699.62,Yes,No,0.31579902961138245,Low Risk
+372,47,Female,39,65.51,One-Year,Fiber Optic,2554.89,No,No,0.35305366354103035,Low Risk
+373,59,Male,70,96.21,Month-to-Month,Fiber Optic,6734.7,Yes,No,0.2310101434702063,Low Risk
+374,53,Male,12,70.77,Two-Year,Fiber Optic,849.24,No,No,0.08204853370622184,Low Risk
+375,67,Male,36,55.33,Month-to-Month,DSL,1991.88,No,No,0.28641797930794044,Low Risk
+376,32,Female,7,60.16,One-Year,DSL,421.12,No,No,0.271424382163325,Low Risk
+377,52,Female,72,28.66,Month-to-Month,None,2063.52,No,No,0.3374610764735133,Low Risk
+378,44,Female,0,72.78,One-Year,DSL,0.0,Yes,No,0.15485347503468028,Low Risk
+379,68,Female,22,29.33,One-Year,None,645.26,No,No,0.2963316126805618,Low Risk
+380,32,Male,25,23.63,One-Year,None,590.75,No,Yes,0.5856774780099575,Medium Risk
+381,31,Male,27,80.03,One-Year,Fiber Optic,2160.81,No,Yes,0.6057076742493711,Medium Risk
+382,34,Female,3,53.96,Two-Year,DSL,161.88,No,No,0.07292068861437956,Low Risk
+383,18,Female,66,29.39,Month-to-Month,None,1939.74,No,No,0.10122500440614342,Low Risk
+384,35,Female,4,93.64,Month-to-Month,Fiber Optic,374.56,Yes,Yes,0.6867576732020225,Medium Risk
+385,32,Male,23,87.98,Month-to-Month,Fiber Optic,2023.54,Yes,No,0.47477138171565725,Medium Risk
+386,43,Male,6,66.73,Two-Year,DSL,400.38,Yes,No,0.04526847713800043,Low Risk
+387,46,Male,8,58.04,Month-to-Month,DSL,464.32,Yes,No,0.31636429348154926,Low Risk
+388,64,Female,18,61.66,One-Year,DSL,1109.88,Yes,No,0.07885426794172509,Low Risk
+389,53,Female,12,75.9,One-Year,Fiber Optic,910.8,No,No,0.36666129192085767,Low Risk
+390,35,Male,4,73.75,Month-to-Month,Fiber Optic,295.0,No,Yes,0.759516518767028,High Risk
+391,31,Female,4,76.04,Month-to-Month,Fiber Optic,304.16,No,No,0.5375012897599994,Medium Risk
+392,47,Male,12,68.27,Month-to-Month,Fiber Optic,819.24,No,Yes,0.6949743745189249,Medium Risk
+393,26,Female,33,84.24,Month-to-Month,Fiber Optic,2779.92,No,No,0.4013246170142377,Medium Risk
+394,63,Male,54,95.95,Month-to-Month,Fiber Optic,5181.3,Yes,No,0.11650218681053563,Low Risk
+395,56,Female,2,44.0,Month-to-Month,None,88.0,Yes,No,0.07862860883150996,Low Risk
+396,36,Male,11,47.68,Two-Year,DSL,524.48,No,No,0.04471215931319054,Low Risk
+397,21,Male,2,85.63,Two-Year,Fiber Optic,171.26,Yes,No,0.1291093562658107,Low Risk
+398,58,Male,0,79.91,Month-to-Month,DSL,0.0,Yes,No,0.5031277977478009,Medium Risk
+399,40,Male,26,94.77,Month-to-Month,Fiber Optic,2464.02,Yes,No,0.4589282469952974,Medium Risk
+400,56,Male,22,100.86,Month-to-Month,Fiber Optic,2218.92,Yes,No,0.2606435784282996,Low Risk
+401,22,Male,4,24.12,One-Year,None,96.48,No,No,0.31971448206545416,Low Risk
+402,34,Female,6,45.81,Two-Year,DSL,274.86,No,No,0.03090661304834755,Low Risk
+403,42,Female,0,24.06,Month-to-Month,None,0.0,No,Yes,0.7135403099511238,Medium Risk
+404,42,Female,43,57.21,Month-to-Month,DSL,2460.03,No,Yes,0.6395497100249996,Medium Risk
+405,36,Male,72,86.33,One-Year,Fiber Optic,6215.76,Yes,No,0.06792491033117999,Low Risk
+406,49,Male,3,65.78,One-Year,DSL,197.34,Yes,No,0.135732071486969,Low Risk
+407,29,Female,6,49.05,Month-to-Month,None,294.3,Yes,No,0.136478728704543,Low Risk
+408,40,Male,48,91.35,One-Year,Fiber Optic,4384.8,Yes,No,0.1351451327561547,Low Risk
+409,43,Male,62,67.37,Month-to-Month,Fiber Optic,4176.94,No,No,0.13151220837167796,Low Risk
+410,48,Male,13,27.02,Month-to-Month,None,351.26,No,No,0.2398389872664853,Low Risk
+411,50,Male,1,56.15,One-Year,DSL,56.15,No,Yes,0.7181698751045202,Medium Risk
+412,28,Male,0,60.9,Two-Year,DSL,0.0,Yes,No,0.10219767486718036,Low Risk
+413,23,Female,20,26.01,Month-to-Month,None,520.2,No,No,0.17340778856886246,Low Risk
+414,57,Female,11,54.08,Two-Year,DSL,594.88,No,No,0.03894749139661298,Low Risk
+415,45,Female,0,48.55,Month-to-Month,DSL,0.0,No,No,0.3436468771802573,Low Risk
+416,33,Female,21,69.82,One-Year,Fiber Optic,1466.22,No,Yes,0.6187273658641125,Medium Risk
+417,60,Female,0,76.64,Month-to-Month,Fiber Optic,0.0,No,No,0.48622650901913905,Medium Risk
+418,43,Male,37,46.92,Two-Year,DSL,1736.04,No,No,0.013574385821244737,Low Risk
+419,56,Male,8,53.02,Two-Year,DSL,424.16,No,No,0.07330976488656905,Low Risk
+420,42,Male,0,67.16,Month-to-Month,DSL,0.0,Yes,Yes,0.6843521546200948,Medium Risk
+421,66,Male,21,73.84,Two-Year,Fiber Optic,1550.64,No,No,0.2576545576626176,Low Risk
+422,63,Female,12,39.93,Two-Year,None,479.16,Yes,No,0.0387921723831445,Low Risk
+423,39,Female,72,45.94,One-Year,None,3307.68,Yes,No,0.014303349885314119,Low Risk
+424,53,Female,18,78.73,Month-to-Month,Fiber Optic,1417.14,No,No,0.48210773284726705,Medium Risk
+425,49,Male,7,46.68,Two-Year,DSL,326.76,No,No,0.043050893749669035,Low Risk
+426,58,Female,29,31.26,Two-Year,None,906.54,Yes,No,0.1435215812194792,Low Risk
+427,30,Male,7,76.8,Month-to-Month,Fiber Optic,537.6,No,Yes,0.7249292640051037,Medium Risk
+428,50,Female,56,63.33,Two-Year,DSL,3546.48,Yes,No,0.017223730127956572,Low Risk
+429,54,Female,11,32.78,Month-to-Month,None,360.58,No,No,0.24216552629347948,Low Risk
+430,20,Male,19,73.87,Month-to-Month,Fiber Optic,1403.53,No,Yes,0.7170366465439574,Medium Risk
+431,27,Male,1,72.85,Month-to-Month,Fiber Optic,72.85,No,No,0.6703397569146246,Medium Risk
+432,18,Female,13,80.79,One-Year,Fiber Optic,1050.27,No,No,0.34451376170546477,Low Risk
+433,38,Female,42,59.51,One-Year,DSL,2499.42,Yes,No,0.007820627231048274,Low Risk
+434,50,Male,39,58.67,Month-to-Month,DSL,2288.13,No,No,0.36028586823697645,Low Risk
+435,60,Female,6,78.41,Two-Year,Fiber Optic,470.46,Yes,No,0.059920995126636185,Low Risk
+436,42,Female,6,53.32,Month-to-Month,DSL,319.92,No,No,0.31802148282115117,Low Risk
+437,61,Male,40,73.41,Month-to-Month,Fiber Optic,2936.4,No,No,0.19530649655082144,Low Risk
+438,25,Female,63,70.98,Month-to-Month,Fiber Optic,4471.74,No,No,0.12077467946035128,Low Risk
+439,21,Male,2,88.21,One-Year,Fiber Optic,176.42,Yes,No,0.2431034672562053,Low Risk
+440,41,Female,14,87.26,Two-Year,Fiber Optic,1221.64,Yes,No,0.1886263809753267,Low Risk
+441,46,Male,9,87.73,One-Year,Fiber Optic,789.57,Yes,No,0.3051027110966289,Low Risk
+442,41,Female,49,27.47,Two-Year,None,1346.03,No,No,0.03796956812352055,Low Risk
+443,18,Male,2,70.07,Month-to-Month,Fiber Optic,140.14,No,Yes,0.767009188356168,High Risk
+444,40,Female,5,72.58,Month-to-Month,DSL,362.9,Yes,No,0.3868886043274854,Low Risk
+445,26,Male,33,65.78,Month-to-Month,DSL,2170.74,No,No,0.32535964399037753,Low Risk
+446,50,Female,1,53.1,Month-to-Month,DSL,53.1,No,No,0.33561461104630724,Low Risk
+447,46,Female,16,68.12,Month-to-Month,DSL,1089.92,Yes,No,0.36116564532302325,Low Risk
+448,30,Female,14,49.58,One-Year,DSL,694.12,No,No,0.09062611872807894,Low Risk
+449,35,Female,9,52.55,Month-to-Month,DSL,472.95,No,Yes,0.45130766619287743,Medium Risk
+450,29,Female,12,58.21,One-Year,Fiber Optic,698.52,No,No,0.36023507012261574,Low Risk
+451,41,Female,18,47.03,Month-to-Month,None,846.54,Yes,No,0.07375484218129272,Low Risk
+452,53,Female,4,65.77,Month-to-Month,DSL,263.08,Yes,No,0.3624606268394993,Low Risk
+453,30,Female,20,77.85,One-Year,Fiber Optic,1557.0,Yes,No,0.1265691678191489,Low Risk
+454,48,Female,39,93.77,Month-to-Month,Fiber Optic,3657.03,Yes,No,0.28168759011137184,Low Risk
+455,35,Male,34,58.13,Two-Year,DSL,1976.42,Yes,No,0.006212263690552833,Low Risk
+456,32,Male,4,26.89,One-Year,None,107.56,No,No,0.32723831843199613,Low Risk
+457,40,Female,3,82.33,Month-to-Month,Fiber Optic,246.99,No,Yes,0.6646740151494994,Medium Risk
+458,29,Male,7,61.16,Two-Year,Fiber Optic,428.12,No,No,0.24086818314701028,Low Risk
+459,35,Female,10,82.34,Month-to-Month,Fiber Optic,823.4,Yes,No,0.4967583758157228,Medium Risk
+460,27,Female,12,56.35,Month-to-Month,DSL,676.2,No,Yes,0.5453701121209482,Medium Risk
+461,65,Male,27,76.71,One-Year,Fiber Optic,2071.17,No,No,0.242722769582578,Low Risk
+462,42,Female,1,47.13,Month-to-Month,DSL,47.13,No,No,0.3279047112792234,Low Risk
+463,33,Female,0,28.83,Two-Year,None,0.0,No,No,0.1844142221849685,Low Risk
+464,44,Male,11,70.11,Two-Year,Fiber Optic,771.21,No,No,0.03796898347912728,Low Risk
+465,40,Male,28,58.23,Two-Year,Fiber Optic,1630.44,No,No,0.14779818790756294,Low Risk
+466,39,Female,5,73.99,Month-to-Month,DSL,369.95,Yes,Yes,0.5977912316369739,Medium Risk
+467,49,Male,24,79.38,Month-to-Month,Fiber Optic,1905.12,No,No,0.4726815013105222,Medium Risk
+468,51,Male,7,84.02,One-Year,Fiber Optic,588.14,Yes,No,0.21588115233641905,Low Risk
+469,35,Female,52,96.26,Month-to-Month,Fiber Optic,5005.52,Yes,No,0.1016635298920473,Low Risk
+470,35,Male,54,95.68,Month-to-Month,Fiber Optic,5166.72,Yes,No,0.093210810260518,Low Risk
+471,38,Male,8,90.52,Month-to-Month,Fiber Optic,724.16,Yes,Yes,0.6494857264675297,Medium Risk
+472,18,Female,6,42.74,Month-to-Month,None,256.44,Yes,No,0.16085630251757127,Low Risk
+473,23,Male,12,85.14,Month-to-Month,Fiber Optic,1021.68,Yes,No,0.36460721856419986,Low Risk
+474,58,Male,6,40.33,Two-Year,None,241.98,Yes,No,0.02973886026986812,Low Risk
+475,61,Female,26,29.56,Two-Year,None,768.56,No,No,0.1742574539630284,Low Risk
+476,39,Female,41,88.38,Month-to-Month,Fiber Optic,3623.58,Yes,No,0.21462439605756217,Low Risk
+477,48,Female,26,44.01,Month-to-Month,DSL,1144.26,No,No,0.2555455005953365,Low Risk
+478,45,Male,41,96.34,Month-to-Month,Fiber Optic,3949.94,Yes,No,0.20672537621946482,Low Risk
+479,78,Female,12,27.86,Two-Year,None,334.32,No,No,0.08192076814878296,Low Risk
+480,55,Female,4,53.1,Month-to-Month,DSL,212.4,No,No,0.3936885552604014,Low Risk
+481,40,Male,32,75.32,One-Year,Fiber Optic,2410.24,No,No,0.41462325443410253,Medium Risk
+482,30,Female,10,37.62,Month-to-Month,None,376.2,No,No,0.17325815936717645,Low Risk
+483,22,Female,26,72.19,One-Year,Fiber Optic,1876.94,Yes,No,0.1830484795321827,Low Risk
+484,44,Female,7,77.17,Month-to-Month,Fiber Optic,540.19,No,Yes,0.6603703552125979,Medium Risk
+485,32,Female,2,45.47,One-Year,DSL,90.94,No,No,0.2718533531024248,Low Risk
+486,24,Male,72,57.5,Month-to-Month,DSL,4140.0,No,No,0.2884228450332474,Low Risk
+487,34,Female,4,71.86,One-Year,Fiber Optic,287.44,No,Yes,0.6387905553628093,Medium Risk
+488,29,Female,72,73.18,Month-to-Month,DSL,5268.96,Yes,No,0.022533795170255052,Low Risk
+489,62,Male,72,49.88,One-Year,DSL,3591.36,No,No,0.03375788355411324,Low Risk
+490,52,Female,37,32.07,Two-Year,None,1186.59,Yes,No,0.03508424042379284,Low Risk
+491,41,Male,25,52.75,Month-to-Month,DSL,1318.75,No,No,0.468530002883574,Medium Risk
+492,59,Male,20,42.33,Two-Year,None,846.6,Yes,No,0.0031245428668226593,Low Risk
+493,42,Male,48,33.32,One-Year,None,1599.36,No,No,0.15934244827100122,Low Risk
+494,31,Female,8,64.14,Month-to-Month,DSL,513.12,Yes,No,0.2591380063624387,Low Risk
+495,60,Male,15,75.14,Month-to-Month,DSL,1127.1,Yes,No,0.2978209210395484,Low Risk
+496,48,Male,23,71.76,Month-to-Month,Fiber Optic,1650.48,No,No,0.5559033050971055,Medium Risk
+497,29,Male,12,72.97,One-Year,Fiber Optic,875.64,No,No,0.38111324154199067,Low Risk
+498,39,Female,13,49.83,One-Year,DSL,647.79,No,Yes,0.416182627244751,Medium Risk
+499,31,Female,9,90.91,Month-to-Month,Fiber Optic,818.19,Yes,No,0.5258349595309114,Medium Risk
+500,25,Female,19,74.46,Month-to-Month,DSL,1414.74,Yes,No,0.31891156066032184,Low Risk
+501,53,Female,45,21.48,Two-Year,None,966.6,No,No,0.11212766972230213,Low Risk
+502,64,Female,5,46.44,Two-Year,DSL,232.2,No,No,0.059674303087973585,Low Risk
+503,25,Female,65,55.92,Month-to-Month,DSL,3634.8,No,No,0.2868304703890422,Low Risk
+504,48,Female,28,60.31,Two-Year,DSL,1688.68,No,No,0.042188446257610666,Low Risk
+505,34,Male,41,25.68,Month-to-Month,None,1052.88,No,No,0.4084325296900818,Medium Risk
+506,36,Male,19,85.2,Month-to-Month,Fiber Optic,1618.8,No,No,0.5010168570737616,Medium Risk
+507,34,Male,36,36.02,Two-Year,None,1296.72,No,No,0.03474648042995331,Low Risk
+508,31,Male,0,74.51,Month-to-Month,Fiber Optic,0.0,No,No,0.7054308365640227,Medium Risk
+509,42,Female,40,53.51,Month-to-Month,DSL,2140.4,No,No,0.1851502016029542,Low Risk
+510,32,Male,0,51.54,Month-to-Month,DSL,0.0,No,No,0.6559763963137832,Medium Risk
+511,45,Male,52,67.19,Two-Year,Fiber Optic,3493.88,No,No,0.2300338306304124,Low Risk
+512,41,Male,72,74.67,Two-Year,Fiber Optic,5376.24,Yes,No,0.04283344099596333,Low Risk
+513,39,Male,8,89.62,Month-to-Month,Fiber Optic,716.96,Yes,No,0.6081814415743698,Medium Risk
+514,31,Female,5,77.48,Month-to-Month,DSL,387.4,Yes,Yes,0.6662069919402378,Medium Risk
+515,35,Female,34,26.94,Month-to-Month,None,915.96,No,No,0.3806246238548989,Low Risk
+516,51,Female,7,65.36,One-Year,DSL,457.52,Yes,No,0.10872726073093282,Low Risk
+517,48,Male,48,36.49,Month-to-Month,None,1751.52,Yes,No,0.10177081383037902,Low Risk
+518,30,Female,2,54.03,One-Year,DSL,108.06,No,No,0.2761807578084132,Low Risk
+519,43,Male,3,76.32,Month-to-Month,Fiber Optic,228.96,No,No,0.8182089729546227,High Risk
+520,51,Female,72,55.32,Month-to-Month,DSL,3983.04,No,No,0.21457987621302277,Low Risk
+521,21,Female,26,73.92,Month-to-Month,Fiber Optic,1921.92,No,No,0.5111380306670327,Medium Risk
+522,48,Female,45,73.54,Month-to-Month,Fiber Optic,3309.3,No,No,0.16055012495358326,Low Risk
+523,34,Female,9,69.76,Two-Year,Fiber Optic,627.84,No,No,0.11865564268893541,Low Risk
+524,48,Female,27,74.86,Month-to-Month,Fiber Optic,2021.22,No,No,0.49705704488281943,Medium Risk
+525,32,Male,21,76.57,Month-to-Month,Fiber Optic,1607.97,No,No,0.6127775373281922,Medium Risk
+526,20,Female,22,91.07,Month-to-Month,Fiber Optic,2003.54,Yes,Yes,0.5729732598216227,Medium Risk
+527,22,Male,27,35.62,Month-to-Month,None,961.74,No,No,0.19240641442805567,Low Risk
+528,42,Male,20,73.38,Month-to-Month,DSL,1467.6,Yes,No,0.362733449458802,Low Risk
+529,45,Male,13,90.96,Month-to-Month,Fiber Optic,1182.48,Yes,No,0.3800656224409629,Low Risk
+530,31,Male,7,82.59,Month-to-Month,Fiber Optic,578.13,No,No,0.5648843387684908,Medium Risk
+531,49,Male,35,87.5,One-Year,Fiber Optic,3062.5,Yes,No,0.39719681663087064,Low Risk
+532,22,Female,6,81.52,Month-to-Month,Fiber Optic,489.12,No,No,0.5501918097173706,Medium Risk
+533,41,Female,28,58.03,Month-to-Month,DSL,1624.84,No,No,0.42296415598210957,Medium Risk
+534,27,Female,6,41.21,Two-Year,DSL,247.26,No,No,0.0302418099590808,Low Risk
+535,34,Female,23,61.52,Month-to-Month,DSL,1414.96,No,No,0.4154395993283898,Medium Risk
+536,42,Male,32,55.68,Month-to-Month,DSL,1781.76,No,Yes,0.6293684802379851,Medium Risk
+537,31,Female,5,89.74,Month-to-Month,Fiber Optic,448.7,Yes,No,0.5986945462700056,Medium Risk
+538,37,Female,1,76.41,Month-to-Month,Fiber Optic,76.41,No,Yes,0.7889531730311015,High Risk
+539,54,Male,3,26.86,One-Year,None,80.58,No,Yes,0.6174768936345759,Medium Risk
+540,35,Male,22,76.14,Month-to-Month,Fiber Optic,1675.08,No,Yes,0.700894148430751,Medium Risk
+541,52,Female,45,49.44,One-Year,DSL,2224.8,No,Yes,0.48850006286662834,Medium Risk
+542,28,Female,1,51.37,Month-to-Month,None,51.37,Yes,No,0.177778249916508,Low Risk
+543,48,Male,31,44.43,Month-to-Month,None,1377.33,Yes,No,0.2904172600606722,Low Risk
+544,59,Female,10,83.68,One-Year,Fiber Optic,836.8,Yes,No,0.13282500468706804,Low Risk
+545,18,Female,15,85.38,Month-to-Month,Fiber Optic,1280.7,Yes,No,0.376344364304343,Low Risk
+546,32,Female,63,29.78,One-Year,None,1876.14,No,No,0.09323010204671435,Low Risk
+547,48,Female,9,75.94,Month-to-Month,Fiber Optic,683.46,No,No,0.5401185172063238,Medium Risk
+548,39,Male,15,44.6,One-Year,None,669.0,Yes,No,0.1124482778890685,Low Risk
+549,46,Male,0,49.86,Month-to-Month,DSL,0.0,No,No,0.4564039711707206,Medium Risk
+550,34,Male,2,42.29,Two-Year,DSL,84.58,No,Yes,0.6183322131055212,Medium Risk
+551,43,Female,7,93.13,Month-to-Month,Fiber Optic,651.91,Yes,No,0.4980332406854733,Medium Risk
+552,40,Female,0,87.68,Two-Year,Fiber Optic,0.0,Yes,No,0.20934055651561015,Low Risk
+553,56,Female,23,24.87,Month-to-Month,None,572.01,No,No,0.3255387344173089,Low Risk
+554,45,Female,13,36.05,One-Year,None,468.65,No,No,0.14224275142911136,Low Risk
+555,46,Female,19,76.42,Month-to-Month,Fiber Optic,1451.98,No,Yes,0.7135109079058657,Medium Risk
+556,37,Male,4,62.97,Two-Year,DSL,251.88,Yes,No,0.08965207256760714,Low Risk
+557,36,Female,8,28.01,Month-to-Month,None,224.08,No,Yes,0.483297788271658,Medium Risk
+558,36,Female,26,83.08,Month-to-Month,Fiber Optic,2160.08,Yes,No,0.3715841677110583,Low Risk
+559,46,Male,72,74.94,Month-to-Month,DSL,5395.68,Yes,No,0.016424527174137015,Low Risk
+560,36,Female,1,71.12,Month-to-Month,Fiber Optic,71.12,No,Yes,0.8145006580820536,High Risk
+561,45,Male,53,86.1,Month-to-Month,Fiber Optic,4563.3,Yes,Yes,0.4973814556204122,Medium Risk
+562,66,Male,20,85.46,Two-Year,Fiber Optic,1709.2,Yes,No,0.27894609043893653,Low Risk
+563,52,Male,19,72.53,Two-Year,Fiber Optic,1378.07,Yes,No,0.07133726523987156,Low Risk
+564,38,Male,16,62.38,Month-to-Month,DSL,998.08,Yes,No,0.30386233733064477,Low Risk
+565,56,Male,1,26.92,Two-Year,None,26.92,No,Yes,0.636672907219657,Medium Risk
+566,37,Female,2,76.47,Month-to-Month,Fiber Optic,152.94,No,No,0.5329610885588351,Medium Risk
+567,18,Male,22,92.42,Month-to-Month,Fiber Optic,2033.24,Yes,No,0.4563498700123082,Medium Risk
+568,29,Male,10,65.07,One-Year,DSL,650.7,Yes,No,0.10088456570696781,Low Risk
+569,19,Female,59,97.52,One-Year,Fiber Optic,5753.68,Yes,No,0.3436536553987645,Low Risk
+570,37,Female,12,48.47,Two-Year,DSL,581.64,No,No,0.025091920559199773,Low Risk
+571,42,Male,3,68.85,Month-to-Month,DSL,206.55,Yes,Yes,0.4664076429300017,Medium Risk
+572,62,Female,30,67.46,One-Year,Fiber Optic,2023.8,No,No,0.3377684058087829,Low Risk
+573,45,Female,8,70.62,Month-to-Month,DSL,564.96,Yes,No,0.4395080924443465,Medium Risk
+574,39,Male,17,93.07,Month-to-Month,Fiber Optic,1582.19,Yes,No,0.4601970870725369,Medium Risk
+575,51,Male,28,61.02,Month-to-Month,DSL,1708.56,No,No,0.45892897655486853,Medium Risk
+576,18,Female,55,60.8,Two-Year,Fiber Optic,3344.0,No,No,0.0728054328610949,Low Risk
+577,44,Male,37,61.89,Two-Year,DSL,2289.93,Yes,No,0.02699302800336195,Low Risk
+578,51,Male,27,54.37,One-Year,DSL,1467.99,No,Yes,0.6636723131075378,Medium Risk
+579,24,Female,27,57.94,Month-to-Month,DSL,1564.38,No,No,0.3006987520206782,Low Risk
+580,55,Male,70,30.03,Month-to-Month,None,2102.1,No,Yes,0.6788263015325385,Medium Risk
+581,46,Male,8,32.71,Month-to-Month,None,261.68,No,No,0.276081122814093,Low Risk
+582,37,Male,0,50.96,Month-to-Month,DSL,0.0,No,Yes,0.7251699574186603,Medium Risk
+583,49,Male,7,82.79,Month-to-Month,Fiber Optic,579.53,No,Yes,0.5654559795630909,Medium Risk
+584,69,Male,5,90.21,One-Year,Fiber Optic,451.05,Yes,No,0.2930243018352029,Low Risk
+585,44,Female,26,23.28,Month-to-Month,None,605.28,No,No,0.2994445978561111,Low Risk
+586,44,Female,24,69.62,Month-to-Month,Fiber Optic,1670.88,No,Yes,0.6462926715939602,Medium Risk
+587,36,Male,21,84.77,Month-to-Month,Fiber Optic,1780.17,Yes,Yes,0.6447401236915944,Medium Risk
+588,31,Female,0,73.39,Month-to-Month,DSL,0.0,Yes,No,0.3166573461136868,Low Risk
+589,51,Male,31,83.58,Month-to-Month,Fiber Optic,2590.98,Yes,No,0.3246411309379138,Low Risk
+590,31,Male,9,25.51,Two-Year,None,229.59,No,No,0.04096488819810371,Low Risk
+591,42,Male,26,73.41,One-Year,Fiber Optic,1908.66,No,No,0.3318038272025761,Low Risk
+592,36,Male,19,49.2,Two-Year,DSL,934.8,No,No,0.04172128253965613,Low Risk
+593,47,Male,10,71.29,Month-to-Month,DSL,712.9,Yes,No,0.3723963087771257,Low Risk
+594,46,Female,3,69.67,Month-to-Month,Fiber Optic,209.01,No,No,0.7238784536207342,Medium Risk
+595,54,Female,2,77.97,Month-to-Month,Fiber Optic,155.94,No,No,0.40955566925779663,Medium Risk
+596,35,Male,42,78.24,Two-Year,Fiber Optic,3286.08,Yes,No,0.05246082584789326,Low Risk
+597,38,Female,60,26.96,One-Year,None,1617.6,No,No,0.06957639707633621,Low Risk
+598,30,Male,25,56.19,Month-to-Month,DSL,1404.75,No,No,0.44667594504408664,Medium Risk
+599,36,Female,2,55.52,Month-to-Month,DSL,111.04,No,No,0.45393607206918163,Medium Risk
+600,46,Male,12,30.12,Month-to-Month,None,361.44,No,No,0.3195430863929793,Low Risk
+601,51,Female,31,48.68,One-Year,DSL,1509.08,No,No,0.24532041381893502,Low Risk
+602,30,Male,36,61.65,Two-Year,DSL,2219.4,Yes,No,0.0389609938185094,Low Risk
+603,52,Male,3,71.26,One-Year,Fiber Optic,213.78,No,Yes,0.4847428952883634,Medium Risk
+604,58,Female,0,38.12,Month-to-Month,None,0.0,Yes,No,0.12971959038429795,Low Risk
+605,46,Female,29,67.69,Month-to-Month,DSL,1963.01,Yes,No,0.47501391825947925,Medium Risk
+606,64,Male,10,46.94,Month-to-Month,None,469.4,Yes,No,0.21472680121185012,Low Risk
+607,32,Female,7,68.61,Month-to-Month,Fiber Optic,480.27,No,Yes,0.6816322218999605,Medium Risk
+608,27,Male,0,60.78,Month-to-Month,DSL,0.0,No,Yes,0.7145698554674691,Medium Risk
+609,20,Female,18,91.53,One-Year,Fiber Optic,1647.54,Yes,No,0.2671453253227105,Low Risk
+610,59,Female,45,79.59,One-Year,Fiber Optic,3581.55,Yes,No,0.034007521396662924,Low Risk
+611,49,Male,72,81.79,Month-to-Month,Fiber Optic,5888.88,No,No,0.27282260147577087,Low Risk
+612,41,Female,20,66.85,Two-Year,Fiber Optic,1337.0,No,No,0.08513817459051257,Low Risk
+613,45,Female,17,32.09,Month-to-Month,None,545.53,No,Yes,0.5367270028137824,Medium Risk
+614,28,Male,2,52.52,Month-to-Month,DSL,105.04,No,No,0.42270703829850054,Medium Risk
+615,71,Female,19,79.62,Month-to-Month,Fiber Optic,1512.78,No,No,0.4411416947860235,Medium Risk
+616,43,Male,11,92.03,Month-to-Month,Fiber Optic,1012.33,Yes,No,0.3981144656185702,Low Risk
+617,43,Male,22,70.93,Month-to-Month,Fiber Optic,1560.46,No,Yes,0.7143461111664219,Medium Risk
+618,50,Male,11,84.17,Month-to-Month,Fiber Optic,925.87,Yes,No,0.3849700371246053,Low Risk
+619,47,Male,6,47.7,Month-to-Month,DSL,286.2,No,No,0.31243534805872075,Low Risk
+620,44,Male,2,81.85,Two-Year,Fiber Optic,163.7,Yes,No,0.14269782729942823,Low Risk
+621,32,Female,9,77.86,Month-to-Month,Fiber Optic,700.74,No,No,0.4895863220311192,Medium Risk
+622,47,Male,2,58.25,Month-to-Month,DSL,116.5,No,No,0.48200875960519524,Medium Risk
+623,64,Male,4,29.41,Month-to-Month,None,117.64,No,Yes,0.7590086651391132,High Risk
+624,58,Female,72,37.25,One-Year,None,2682.0,Yes,No,0.058227137277003266,Low Risk
+625,61,Female,14,71.59,Month-to-Month,Fiber Optic,1002.26,No,No,0.5449505664593463,Medium Risk
+626,35,Female,18,68.19,Two-Year,DSL,1227.42,Yes,No,0.014661287596841883,Low Risk
+627,30,Male,49,87.58,Month-to-Month,Fiber Optic,4291.42,Yes,No,0.16269571586932796,Low Risk
+628,40,Male,72,70.72,Month-to-Month,DSL,5091.84,Yes,No,0.01682757723179228,Low Risk
+629,42,Male,20,47.14,One-Year,DSL,942.8,No,No,0.2603168493773913,Low Risk
+630,55,Female,40,76.68,Month-to-Month,Fiber Optic,3067.2,No,No,0.22905270659586804,Low Risk
+631,21,Male,9,52.71,Month-to-Month,DSL,474.39,No,No,0.3818524670257113,Low Risk
+632,60,Female,8,60.23,Month-to-Month,DSL,481.84,No,Yes,0.6811795754811982,Medium Risk
+633,40,Male,12,55.92,One-Year,DSL,671.04,No,No,0.4653152551761544,Medium Risk
+634,36,Female,26,52.52,Month-to-Month,DSL,1365.52,No,No,0.22001679501067856,Low Risk
+635,29,Male,27,69.37,Month-to-Month,DSL,1872.99,Yes,No,0.4978565255419795,Medium Risk
+636,22,Male,9,38.02,Two-Year,None,342.18,Yes,No,0.09881629654602332,Low Risk
+637,51,Male,3,47.9,Month-to-Month,DSL,143.7,No,No,0.4421419231695235,Medium Risk
+638,42,Female,24,45.64,Two-Year,DSL,1095.36,No,No,0.017406825384335252,Low Risk
+639,26,Female,3,53.19,One-Year,DSL,159.57,No,No,0.3098426107817105,Low Risk
+640,26,Male,20,31.63,Month-to-Month,None,632.6,No,No,0.2141744382075983,Low Risk
+641,37,Male,28,90.74,Month-to-Month,Fiber Optic,2540.72,Yes,Yes,0.6094103201090842,Medium Risk
+642,62,Male,28,88.49,Month-to-Month,Fiber Optic,2477.72,Yes,No,0.48909567395132336,Medium Risk
+643,38,Female,33,32.93,One-Year,None,1086.69,No,No,0.11630017202475995,Low Risk
+644,23,Male,49,85.8,One-Year,Fiber Optic,4204.2,Yes,No,0.016772185720798707,Low Risk
+645,39,Male,16,69.84,One-Year,DSL,1117.44,Yes,No,0.10578028512804608,Low Risk
+646,38,Male,31,41.52,Two-Year,DSL,1287.12,No,No,0.020492690824145243,Low Risk
+647,18,Male,23,66.87,One-Year,Fiber Optic,1538.01,Yes,No,0.1753224654387544,Low Risk
+648,41,Female,4,56.42,Month-to-Month,DSL,225.68,No,Yes,0.7373796578745561,Medium Risk
+649,39,Female,0,67.88,Month-to-Month,Fiber Optic,0.0,No,Yes,0.8025342482589163,High Risk
+650,50,Male,8,48.54,Two-Year,DSL,388.32,No,No,0.05157141790667371,Low Risk
+651,64,Male,14,88.49,Month-to-Month,Fiber Optic,1238.86,Yes,Yes,0.7517226221463155,High Risk
+652,55,Female,23,77.94,Month-to-Month,DSL,1792.62,Yes,No,0.28741137535516253,Low Risk
+653,38,Female,45,54.15,One-Year,DSL,2436.75,No,No,0.16654913413358435,Low Risk
+654,28,Male,5,90.83,Month-to-Month,Fiber Optic,454.15,Yes,Yes,0.640866849981319,Medium Risk
+655,72,Female,3,44.27,Two-Year,None,132.81,Yes,No,0.07341471788578867,Low Risk
+656,42,Female,72,87.25,One-Year,Fiber Optic,6282.0,Yes,No,0.42466370501427997,Medium Risk
+657,42,Male,2,87.71,Month-to-Month,Fiber Optic,175.42,Yes,No,0.42545106376175645,Medium Risk
+658,41,Female,15,67.82,Two-Year,DSL,1017.3,Yes,No,0.014119827959887553,Low Risk
+659,44,Female,21,49.45,Month-to-Month,DSL,1038.45,No,No,0.1884752152530904,Low Risk
+660,40,Male,18,71.62,Month-to-Month,DSL,1289.16,Yes,No,0.35324908136461003,Low Risk
+661,35,Male,2,62.26,Month-to-Month,DSL,124.52,Yes,No,0.29584182903451095,Low Risk
+662,35,Female,1,56.02,Month-to-Month,DSL,56.02,No,No,0.5191738424738509,Medium Risk
+663,41,Male,2,55.96,Month-to-Month,DSL,111.92,No,No,0.4789257532676642,Medium Risk
+664,35,Female,21,98.38,Month-to-Month,Fiber Optic,2065.98,Yes,No,0.30867450578582817,Low Risk
+665,33,Male,18,62.18,Month-to-Month,DSL,1119.24,Yes,No,0.2901303116551616,Low Risk
+666,43,Female,6,72.0,Month-to-Month,Fiber Optic,432.0,No,No,0.6101736232319941,Medium Risk
+667,38,Male,24,75.16,One-Year,Fiber Optic,1803.84,No,No,0.34293955352670624,Low Risk
+668,60,Female,41,69.01,Two-Year,Fiber Optic,2829.41,No,No,0.21120481804162045,Low Risk
+669,18,Female,1,75.9,Month-to-Month,Fiber Optic,75.9,No,Yes,0.742700479949485,Medium Risk
+670,55,Female,16,65.22,Month-to-Month,DSL,1043.52,Yes,Yes,0.324380535413662,Low Risk
+671,56,Male,28,52.05,Month-to-Month,DSL,1457.4,No,No,0.358054676038399,Low Risk
+672,18,Male,6,96.23,Month-to-Month,Fiber Optic,577.38,Yes,Yes,0.7249033001508729,Medium Risk
+673,37,Female,8,28.26,One-Year,None,226.08,No,No,0.30860911704511745,Low Risk
+674,37,Female,22,54.03,One-Year,DSL,1188.66,No,No,0.2785670339720895,Low Risk
+675,25,Male,54,54.42,Month-to-Month,DSL,2938.68,No,Yes,0.4786437943582299,Medium Risk
+676,32,Male,39,39.08,Month-to-Month,None,1524.12,Yes,No,0.17874006037650228,Low Risk
+677,28,Male,20,74.67,Month-to-Month,DSL,1493.4,Yes,No,0.35287705851075835,Low Risk
+678,63,Male,31,73.64,One-Year,Fiber Optic,2282.84,No,No,0.23287190655857637,Low Risk
+679,53,Male,10,86.53,Month-to-Month,Fiber Optic,865.3,No,No,0.3709582084395492,Low Risk
+680,57,Male,24,44.93,Two-Year,DSL,1078.32,No,No,0.02312454286682266,Low Risk
+681,50,Female,15,89.41,One-Year,Fiber Optic,1341.15,Yes,No,0.22104466757956376,Low Risk
+682,28,Male,5,83.44,Month-to-Month,Fiber Optic,417.2,Yes,No,0.5642014206292191,Medium Risk
+683,35,Female,29,53.0,One-Year,DSL,1537.0,No,No,0.16893639456916798,Low Risk
+684,47,Male,19,85.39,Two-Year,Fiber Optic,1622.41,Yes,No,0.14424582396176167,Low Risk
+685,27,Male,10,61.41,One-Year,Fiber Optic,614.1,No,No,0.3782267615750621,Low Risk
+686,50,Female,58,73.98,Month-to-Month,Fiber Optic,4290.84,No,No,0.22146507974730045,Low Risk
+687,39,Female,0,52.18,Month-to-Month,DSL,0.0,No,Yes,0.6754578662579744,Medium Risk
+688,37,Male,9,64.34,Two-Year,Fiber Optic,579.06,No,Yes,0.5475933861715877,Medium Risk
+689,50,Female,1,73.08,One-Year,Fiber Optic,73.08,No,No,0.6121531828581701,Medium Risk
+690,47,Female,34,90.82,One-Year,Fiber Optic,3087.88,Yes,Yes,0.5982373069162115,Medium Risk
+691,37,Female,29,66.9,Two-Year,Fiber Optic,1940.1,No,No,0.0793833727692857,Low Risk
+692,55,Female,9,63.92,Two-Year,DSL,575.28,Yes,No,0.006962323567271549,Low Risk
+693,29,Male,27,68.01,Two-Year,Fiber Optic,1836.27,No,No,0.18443578951233205,Low Risk
+694,49,Female,12,90.01,Month-to-Month,Fiber Optic,1080.12,Yes,Yes,0.580456969020167,Medium Risk
+695,49,Male,33,49.55,Month-to-Month,DSL,1635.15,No,No,0.303320472622556,Low Risk
+696,38,Male,14,90.77,One-Year,Fiber Optic,1270.78,Yes,No,0.2209267429252775,Low Risk
+697,45,Male,12,67.9,One-Year,DSL,814.8,Yes,No,0.1566671976022904,Low Risk
+698,26,Male,65,73.13,One-Year,Fiber Optic,4753.45,No,No,0.03503132024007316,Low Risk
+699,53,Female,6,65.97,Month-to-Month,DSL,395.82,Yes,Yes,0.5845753148975731,Medium Risk
+700,39,Female,3,69.07,One-Year,Fiber Optic,207.21,No,No,0.6105964433043313,Medium Risk
+701,35,Male,21,27.66,One-Year,None,580.86,No,No,0.3667353926821968,Low Risk
+702,54,Male,72,82.33,Month-to-Month,Fiber Optic,5927.76,Yes,No,0.16399369090775692,Low Risk
+703,33,Male,11,21.56,Month-to-Month,None,237.16,No,Yes,0.6067501663463463,Medium Risk
+704,25,Male,1,42.0,Month-to-Month,None,42.0,Yes,Yes,0.5835455466620264,Medium Risk
+705,23,Female,9,72.61,Month-to-Month,DSL,653.49,Yes,No,0.387852620423331,Low Risk
+706,49,Male,16,71.73,Month-to-Month,Fiber Optic,1147.68,No,Yes,0.6748539110320454,Medium Risk
+707,26,Female,4,69.91,Month-to-Month,Fiber Optic,279.64,No,No,0.6241792162352965,Medium Risk
+708,63,Male,25,40.93,Month-to-Month,None,1023.25,Yes,No,0.26826008248167166,Low Risk
+709,18,Male,72,50.09,One-Year,DSL,3606.48,No,No,0.07516859445015685,Low Risk
+710,62,Male,14,26.82,One-Year,None,375.48,No,No,0.1977297442936543,Low Risk
+711,44,Male,10,77.24,Two-Year,Fiber Optic,772.4,No,No,0.067789953347219,Low Risk
+712,40,Female,12,95.27,Month-to-Month,Fiber Optic,1143.24,Yes,No,0.359585694700048,Low Risk
+713,35,Female,2,60.12,Month-to-Month,DSL,120.24,No,Yes,0.6368419960600762,Medium Risk
+714,46,Female,51,54.76,Two-Year,DSL,2792.76,No,No,0.006343207354443311,Low Risk
+715,41,Male,12,70.01,Month-to-Month,Fiber Optic,840.12,No,No,0.656715270517448,Medium Risk
+716,55,Male,11,44.0,Two-Year,DSL,484.0,No,No,0.0235874529099828,Low Risk
+717,43,Female,25,22.02,Two-Year,None,550.5,No,No,0.22816641202522572,Low Risk
+718,43,Female,14,76.67,Month-to-Month,DSL,1073.38,Yes,No,0.31850880102984397,Low Risk
+719,37,Male,25,65.04,Two-Year,Fiber Optic,1626.0,No,No,0.14790821200017323,Low Risk
+720,41,Male,1,83.74,Month-to-Month,Fiber Optic,83.74,Yes,Yes,0.6265734594631566,Medium Risk
+721,45,Female,40,87.85,Month-to-Month,Fiber Optic,3514.0,Yes,No,0.17686701625539386,Low Risk
+722,21,Male,67,70.12,One-Year,Fiber Optic,4698.04,No,No,0.03833685116178802,Low Risk
+723,25,Male,25,71.34,Month-to-Month,DSL,1783.5,Yes,No,0.5139220109996581,Medium Risk
+724,50,Female,72,50.63,Two-Year,DSL,3645.36,No,No,0.01696603060982545,Low Risk
+725,44,Male,3,50.86,Month-to-Month,DSL,152.58,No,No,0.37979290702859037,Low Risk
+726,39,Female,15,93.43,Month-to-Month,Fiber Optic,1401.45,Yes,No,0.40945645196709946,Medium Risk
+727,42,Male,22,68.21,One-Year,Fiber Optic,1500.62,No,No,0.4007488805510943,Medium Risk
+728,46,Female,20,70.51,One-Year,Fiber Optic,1410.2,No,Yes,0.63974713911136,Medium Risk
+729,35,Male,12,78.43,Month-to-Month,Fiber Optic,941.16,No,No,0.6024552158308842,Medium Risk
+730,32,Female,9,71.79,Month-to-Month,Fiber Optic,646.11,No,Yes,0.609325496920822,Medium Risk
+731,44,Female,3,78.44,Two-Year,Fiber Optic,235.32,Yes,No,0.11457933522172864,Low Risk
+732,30,Female,11,57.96,Month-to-Month,DSL,637.56,No,No,0.423733435459039,Medium Risk
+733,46,Female,4,45.64,Two-Year,DSL,182.56,No,No,0.09907364540019532,Low Risk
+734,21,Male,31,40.92,One-Year,None,1268.52,Yes,No,0.20737491277809117,Low Risk
+735,54,Male,5,31.14,One-Year,None,155.7,No,No,0.2993691343874839,Low Risk
+736,47,Female,1,62.01,One-Year,DSL,62.01,No,Yes,0.7054110151153783,Medium Risk
+737,45,Male,19,93.03,Month-to-Month,Fiber Optic,1767.57,Yes,Yes,0.6158249714273112,Medium Risk
+738,53,Male,21,45.0,One-Year,None,945.0,Yes,No,0.09642591954332548,Low Risk
+739,61,Male,49,69.89,Two-Year,Fiber Optic,3424.61,No,Yes,0.5549952272975139,Medium Risk
+740,54,Male,20,64.63,Month-to-Month,DSL,1292.6,Yes,No,0.34305056351584035,Low Risk
+741,19,Male,10,50.02,Two-Year,DSL,500.2,No,No,0.10695122176736163,Low Risk
+742,26,Female,38,89.85,Month-to-Month,Fiber Optic,3414.3,Yes,No,0.30859881758346225,Low Risk
+743,34,Female,18,31.61,Month-to-Month,None,568.98,No,No,0.41169965867696745,Medium Risk
+744,42,Female,1,90.58,Month-to-Month,Fiber Optic,90.58,Yes,No,0.31368366551877436,Low Risk
+745,48,Female,20,64.71,Two-Year,DSL,1294.2,Yes,No,0.012053179254166917,Low Risk
+746,33,Male,57,53.44,Month-to-Month,DSL,3046.08,No,No,0.2136341667227315,Low Risk
+747,44,Male,12,67.76,Two-Year,Fiber Optic,813.12,No,No,0.12618370931124578,Low Risk
+748,32,Female,8,21.47,Two-Year,None,171.76,No,No,0.07376168798580633,Low Risk
+749,34,Male,3,73.4,Month-to-Month,Fiber Optic,220.2,No,Yes,0.823053285112755,High Risk
+750,25,Male,3,96.95,Month-to-Month,Fiber Optic,290.85,Yes,No,0.36394271896808905,Low Risk
+751,30,Female,13,68.01,One-Year,DSL,884.13,Yes,No,0.04503452850695854,Low Risk
+752,25,Male,21,29.9,Month-to-Month,None,627.9,No,No,0.22509847795330487,Low Risk
+753,30,Female,2,80.26,One-Year,Fiber Optic,160.52,No,No,0.32502836115639533,Low Risk
+754,54,Female,67,48.2,Month-to-Month,DSL,3229.4,No,No,0.09219990025923357,Low Risk
+755,30,Male,33,84.45,Month-to-Month,Fiber Optic,2786.85,Yes,No,0.3515632542394289,Low Risk
+756,73,Male,21,60.39,One-Year,DSL,1268.19,No,No,0.33656029372827023,Low Risk
+757,47,Female,42,70.23,Month-to-Month,DSL,2949.66,Yes,No,0.06199065989415367,Low Risk
+758,44,Female,2,53.79,Month-to-Month,DSL,107.58,No,No,0.3717443196069234,Low Risk
+759,31,Male,15,49.0,Month-to-Month,DSL,735.0,No,No,0.2911269209475754,Low Risk
+760,50,Female,23,72.24,Month-to-Month,DSL,1661.52,Yes,No,0.3678933519599352,Low Risk
+761,35,Female,42,77.72,Month-to-Month,Fiber Optic,3264.24,No,No,0.16004316731918297,Low Risk
+762,43,Female,36,76.07,Two-Year,Fiber Optic,2738.52,Yes,No,0.02079926606790136,Low Risk
+763,72,Male,7,74.3,Month-to-Month,Fiber Optic,520.1,No,No,0.49060185476254553,Medium Risk
+764,40,Female,67,68.32,Month-to-Month,DSL,4577.44,Yes,No,0.023199092818945763,Low Risk
+765,55,Male,3,53.47,One-Year,DSL,160.41,No,Yes,0.6471576220093244,Medium Risk
+766,33,Female,49,84.4,Month-to-Month,Fiber Optic,4135.6,Yes,No,0.06475233003644502,Low Risk
+767,41,Male,72,81.26,Month-to-Month,Fiber Optic,5850.72,No,No,0.23777844970130846,Low Risk
+768,63,Female,4,53.62,Two-Year,DSL,214.48,No,No,0.10289687405170288,Low Risk
+769,34,Male,30,26.77,One-Year,None,803.1,No,Yes,0.7126348142205515,Medium Risk
+770,63,Male,0,84.47,One-Year,Fiber Optic,0.0,Yes,No,0.24853131877798657,Low Risk
+771,50,Male,12,27.85,One-Year,None,334.2,No,No,0.20457787486809229,Low Risk
+772,35,Female,17,86.11,Month-to-Month,Fiber Optic,1463.87,Yes,No,0.572915670096915,Medium Risk
+773,49,Female,20,50.14,One-Year,DSL,1002.8,No,No,0.23602041390946987,Low Risk
+774,53,Female,65,88.65,Month-to-Month,Fiber Optic,5762.25,Yes,No,0.18148158996623992,Low Risk
+775,49,Male,26,63.06,Month-to-Month,DSL,1639.56,No,Yes,0.6263053331470156,Medium Risk
+776,23,Female,15,94.73,Month-to-Month,Fiber Optic,1420.95,Yes,No,0.4211454362473863,Medium Risk
+777,33,Male,39,74.67,Month-to-Month,DSL,2912.13,Yes,No,0.0912641736522426,Low Risk
+778,39,Female,72,46.85,Month-to-Month,None,3373.2,Yes,No,0.02465952762632817,Low Risk
+779,41,Male,0,44.47,Two-Year,DSL,0.0,No,No,0.26315427698511185,Low Risk
+780,49,Male,72,44.79,Month-to-Month,None,3224.88,Yes,No,0.04437617314544367,Low Risk
+781,44,Male,2,34.85,Month-to-Month,None,69.7,No,Yes,0.5886659097122808,Medium Risk
+782,25,Female,40,68.71,Month-to-Month,Fiber Optic,2748.4,No,No,0.3338070979967474,Low Risk
+783,46,Female,7,78.18,Month-to-Month,Fiber Optic,547.26,No,No,0.5286005250485688,Medium Risk
+784,49,Female,3,82.28,One-Year,Fiber Optic,246.84,No,No,0.4130263622445036,Medium Risk
+785,48,Male,13,50.31,Month-to-Month,None,654.03,Yes,No,0.12858024243692343,Low Risk
+786,54,Male,24,82.07,Month-to-Month,Fiber Optic,1969.68,No,No,0.40118923746921875,Medium Risk
+787,52,Female,11,91.09,Month-to-Month,Fiber Optic,1001.99,Yes,No,0.3541454927115714,Low Risk
+788,47,Female,1,75.85,One-Year,Fiber Optic,75.85,No,Yes,0.7548942330134107,High Risk
+789,41,Female,21,41.41,Month-to-Month,None,869.61,Yes,No,0.11950917347544628,Low Risk
+790,22,Male,55,78.98,Month-to-Month,Fiber Optic,4343.9,No,No,0.20395060131748027,Low Risk
+791,47,Male,11,93.27,Month-to-Month,Fiber Optic,1025.97,Yes,No,0.3816299987889693,Low Risk
+792,44,Male,5,76.45,Month-to-Month,Fiber Optic,382.25,No,Yes,0.6823062409626044,Medium Risk
+793,45,Male,14,51.58,Month-to-Month,None,722.12,Yes,Yes,0.1887539400258454,Low Risk
+794,26,Male,1,68.69,One-Year,Fiber Optic,68.69,No,Yes,0.7436716137355507,Medium Risk
+795,29,Female,41,65.61,One-Year,DSL,2690.01,Yes,No,0.02996177426995664,Low Risk
+796,54,Male,42,67.93,Two-Year,Fiber Optic,2853.06,No,No,0.21572036228386493,Low Risk
+797,41,Male,21,24.85,Month-to-Month,None,521.85,No,No,0.35604224425360603,Low Risk
+798,50,Male,10,76.13,Month-to-Month,Fiber Optic,761.3,No,No,0.5637168274444657,Medium Risk
+799,42,Male,38,21.41,Month-to-Month,None,813.58,No,No,0.35916881328239897,Low Risk
+800,42,Male,19,54.21,Two-Year,DSL,1029.99,No,Yes,0.023199786459046728,Low Risk
+801,53,Female,41,71.47,One-Year,Fiber Optic,2930.27,No,Yes,0.511423817816031,Medium Risk
+802,35,Male,23,68.78,One-Year,Fiber Optic,1581.94,No,No,0.3625067882237872,Low Risk
+803,43,Male,36,25.83,Month-to-Month,None,929.88,No,Yes,0.5561474023096706,Medium Risk
+804,36,Male,21,53.83,Month-to-Month,DSL,1130.43,No,No,0.441487191613408,Medium Risk
+805,36,Female,12,48.44,Month-to-Month,None,581.28,Yes,No,0.09075416925341942,Low Risk
+806,38,Female,72,73.85,One-Year,Fiber Optic,5317.2,No,No,0.05404186971351996,Low Risk
+807,44,Female,18,46.33,Two-Year,DSL,833.94,No,No,0.0070923103447518,Low Risk
+808,36,Male,22,59.19,Two-Year,DSL,1302.18,Yes,No,0.023464101806138983,Low Risk
+809,57,Female,5,58.28,Month-to-Month,DSL,291.4,No,No,0.523306829746891,Medium Risk
+810,31,Male,23,86.39,Month-to-Month,Fiber Optic,1986.97,Yes,Yes,0.5210526326871023,Medium Risk
+811,39,Male,20,63.27,Two-Year,DSL,1265.4,Yes,No,0.01773966184325352,Low Risk
+812,36,Female,4,52.84,One-Year,DSL,211.36,No,Yes,0.53948168954263,Medium Risk
+813,59,Male,1,31.56,Month-to-Month,None,31.56,No,Yes,0.7378290975117764,Medium Risk
+814,44,Male,22,59.29,Month-to-Month,DSL,1304.38,No,No,0.4703506554978399,Medium Risk
+815,54,Male,34,48.69,Month-to-Month,DSL,1655.46,No,No,0.3042735065826017,Low Risk
+816,24,Female,17,65.44,Month-to-Month,Fiber Optic,1112.48,No,Yes,0.6596199868950338,Medium Risk
+817,45,Male,6,87.16,Month-to-Month,Fiber Optic,522.96,Yes,No,0.4947588920271596,Medium Risk
+818,52,Male,26,94.06,One-Year,Fiber Optic,2445.56,Yes,Yes,0.6722390226970931,Medium Risk
+819,42,Female,2,85.11,Month-to-Month,Fiber Optic,170.22,No,Yes,0.40182336798619617,Medium Risk
+820,54,Male,13,99.16,Month-to-Month,Fiber Optic,1289.08,Yes,Yes,0.28945115670394106,Low Risk
+821,35,Male,4,74.04,Month-to-Month,Fiber Optic,296.16,No,Yes,0.7627613993274877,High Risk
+822,58,Female,4,41.48,Two-Year,DSL,165.92,No,No,0.09231283754730381,Low Risk
+823,69,Male,5,55.37,One-Year,DSL,276.85,Yes,No,0.19887175681650962,Low Risk
+824,37,Male,11,71.93,Month-to-Month,Fiber Optic,791.23,No,No,0.6374400132991971,Medium Risk
+825,36,Male,1,66.61,Two-Year,Fiber Optic,66.61,No,Yes,0.7306320218396459,Medium Risk
+826,59,Male,12,73.35,Two-Year,Fiber Optic,880.2,No,No,0.13685017582733644,Low Risk
+827,60,Male,17,79.34,Month-to-Month,Fiber Optic,1348.78,No,Yes,0.6686391493628616,Medium Risk
+828,35,Female,15,76.14,Month-to-Month,Fiber Optic,1142.1,No,Yes,0.6776855185005973,Medium Risk
+829,36,Female,11,62.27,One-Year,DSL,684.97,Yes,No,0.05005263933021503,Low Risk
+830,38,Female,43,45.18,Two-Year,DSL,1942.74,No,No,0.004092552393316585,Low Risk
+831,25,Female,3,68.64,Two-Year,Fiber Optic,205.92,No,No,0.12178895267046982,Low Risk
+832,30,Male,16,70.64,Two-Year,Fiber Optic,1130.24,No,No,0.20164340491899616,Low Risk
+833,29,Male,1,73.11,One-Year,Fiber Optic,73.11,No,No,0.6451174535456988,Medium Risk
+834,32,Male,1,49.83,Month-to-Month,DSL,49.83,No,Yes,0.693370972757851,Medium Risk
+835,41,Male,20,93.25,Month-to-Month,Fiber Optic,1865.0,Yes,No,0.45210453799328043,Medium Risk
+836,44,Male,20,32.13,Month-to-Month,None,642.6,No,Yes,0.5575279603672062,Medium Risk
+837,60,Female,50,49.65,Month-to-Month,DSL,2482.5,No,No,0.16186187393272522,Low Risk
+838,30,Female,19,81.77,One-Year,Fiber Optic,1553.63,Yes,No,0.13129527538049704,Low Risk
+839,53,Male,72,46.02,One-Year,None,3313.44,Yes,No,0.05564569606011302,Low Risk
+840,39,Male,1,51.14,One-Year,DSL,51.14,No,No,0.3486119242301217,Low Risk
+841,41,Male,2,82.95,Month-to-Month,Fiber Optic,165.9,No,Yes,0.7068196528887785,Medium Risk
+842,50,Female,1,54.63,One-Year,DSL,54.63,No,Yes,0.7193800819727367,Medium Risk
+843,28,Male,4,72.57,Month-to-Month,Fiber Optic,290.28,No,Yes,0.7616213648676647,High Risk
+844,46,Male,18,54.95,Month-to-Month,DSL,989.1,No,No,0.42458663316394135,Medium Risk
+845,43,Male,24,28.8,One-Year,None,691.2,No,No,0.4565345838022804,Medium Risk
+846,47,Female,1,67.79,One-Year,Fiber Optic,67.79,No,Yes,0.8896377922533829,High Risk
+847,45,Male,70,76.89,Two-Year,Fiber Optic,5382.3,Yes,No,0.07462414581592439,Low Risk
+848,71,Female,44,78.51,Month-to-Month,Fiber Optic,3454.44,No,No,0.2068669089927726,Low Risk
+849,34,Female,8,79.23,Month-to-Month,Fiber Optic,633.84,No,No,0.5303181732186357,Medium Risk
+850,35,Female,1,78.02,Month-to-Month,Fiber Optic,78.02,No,Yes,0.7329028024408804,Medium Risk
+851,34,Female,4,37.58,Month-to-Month,None,150.32,No,No,0.2919094115616123,Low Risk
+852,35,Female,3,24.56,Two-Year,None,73.68,No,No,0.06482611568648465,Low Risk
+853,34,Female,3,93.45,One-Year,Fiber Optic,280.35,Yes,No,0.20429930546097338,Low Risk
+854,56,Male,17,36.45,Two-Year,None,619.65,Yes,No,0.013542654391238602,Low Risk
+855,59,Male,6,84.94,Month-to-Month,Fiber Optic,509.64,Yes,No,0.4465257050271037,Medium Risk
+856,35,Male,10,73.08,Two-Year,Fiber Optic,730.8,Yes,No,0.08972460067402785,Low Risk
+857,32,Female,72,72.77,Month-to-Month,Fiber Optic,5239.44,No,No,0.14991522322126466,Low Risk
+858,47,Male,27,60.73,Two-Year,DSL,1639.71,Yes,Yes,0.028120064114337234,Low Risk
+859,35,Female,71,72.63,Month-to-Month,DSL,5156.73,Yes,No,0.006183166514545665,Low Risk
+860,49,Female,3,56.22,Month-to-Month,DSL,168.66,No,Yes,0.7533982767681596,High Risk
+861,44,Female,11,69.04,Month-to-Month,Fiber Optic,759.44,No,Yes,0.6685033497876617,Medium Risk
+862,23,Male,19,79.23,Two-Year,Fiber Optic,1505.37,Yes,No,0.22035373318692478,Low Risk
+863,60,Female,1,73.14,Month-to-Month,Fiber Optic,73.14,No,Yes,0.6652082044866979,Medium Risk
+864,63,Female,0,21.12,Month-to-Month,None,0.0,No,No,0.4447173429318667,Medium Risk
+865,34,Male,26,76.59,Two-Year,Fiber Optic,1991.34,Yes,No,0.1655055433517224,Low Risk
+866,37,Male,24,86.15,Month-to-Month,Fiber Optic,2067.6,Yes,No,0.5209176893555985,Medium Risk
+867,45,Female,12,62.17,Month-to-Month,DSL,746.04,No,Yes,0.7420970539631537,Medium Risk
+868,46,Female,16,55.96,Month-to-Month,DSL,895.36,No,No,0.5598942702468677,Medium Risk
+869,49,Male,12,78.31,Month-to-Month,Fiber Optic,939.72,No,No,0.5636654927344141,Medium Risk
+870,66,Male,0,74.26,Two-Year,Fiber Optic,0.0,Yes,Yes,0.6622529285495418,Medium Risk
+871,39,Male,9,76.92,One-Year,Fiber Optic,692.28,No,No,0.4518356447875096,Medium Risk
+872,32,Female,4,61.51,Month-to-Month,DSL,246.04,No,No,0.5158191615118775,Medium Risk
+873,25,Male,2,72.01,Two-Year,Fiber Optic,144.02,Yes,No,0.1370814908327217,Low Risk
+874,33,Male,72,51.47,Month-to-Month,DSL,3705.84,No,No,0.15532984936544872,Low Risk
+875,41,Male,21,57.48,Month-to-Month,DSL,1207.08,No,Yes,0.5836360996219776,Medium Risk
+876,63,Female,31,73.22,Month-to-Month,DSL,2269.82,Yes,No,0.326307247768971,Low Risk
+877,35,Male,9,51.61,Month-to-Month,DSL,464.49,No,Yes,0.37381558370451834,Low Risk
+878,44,Male,11,53.47,Month-to-Month,DSL,588.17,No,No,0.42849540709758976,Medium Risk
+879,41,Male,6,60.31,Two-Year,DSL,361.86,Yes,No,0.04197517792761905,Low Risk
+880,56,Male,2,29.02,One-Year,None,58.04,No,No,0.41781271962374267,Medium Risk
+881,72,Male,4,75.99,Month-to-Month,DSL,303.96,Yes,No,0.4126262794165437,Medium Risk
+882,35,Female,38,48.59,One-Year,DSL,1846.42,No,No,0.07411669089595117,Low Risk
+883,36,Female,27,71.25,One-Year,DSL,1923.75,Yes,No,0.11043188207286864,Low Risk
+884,54,Female,19,77.48,Two-Year,Fiber Optic,1472.12,Yes,No,0.07909884961186625,Low Risk
+885,50,Male,15,45.69,Two-Year,DSL,685.35,No,No,0.018731133743012614,Low Risk
+886,64,Female,61,34.09,Month-to-Month,None,2079.49,No,No,0.2462435554078472,Low Risk
+887,49,Female,1,32.88,One-Year,None,32.88,No,No,0.36574096615369955,Low Risk
+888,37,Female,7,70.54,One-Year,DSL,493.78,Yes,No,0.08300011162250953,Low Risk
+889,49,Male,10,79.25,One-Year,Fiber Optic,792.5,Yes,No,0.25270624014199633,Low Risk
+890,55,Male,36,52.67,Month-to-Month,DSL,1896.12,No,No,0.3315922538059857,Low Risk
+891,51,Female,72,79.11,Month-to-Month,Fiber Optic,5695.92,No,Yes,0.7029606123401904,Medium Risk
+892,48,Female,6,90.21,Month-to-Month,Fiber Optic,541.26,Yes,No,0.5446255546275733,Medium Risk
+893,54,Male,49,49.63,Month-to-Month,DSL,2431.87,No,No,0.263625715951722,Low Risk
+894,56,Male,42,57.29,Month-to-Month,DSL,2406.18,No,No,0.356471560693971,Low Risk
+895,58,Female,6,67.85,One-Year,Fiber Optic,407.1,No,No,0.3175698740538525,Low Risk
+896,49,Male,12,83.97,Month-to-Month,Fiber Optic,1007.64,No,No,0.4281010094715361,Medium Risk
+897,39,Female,12,73.84,One-Year,DSL,886.08,Yes,No,0.0657124000070116,Low Risk
+898,43,Male,72,78.02,Month-to-Month,Fiber Optic,5617.44,No,No,0.22199375099827862,Low Risk
+899,56,Female,4,87.12,Two-Year,Fiber Optic,348.48,Yes,No,0.16686502564523448,Low Risk
+900,32,Female,38,30.32,Month-to-Month,None,1152.16,No,No,0.20250640694321048,Low Risk
+901,46,Male,9,58.83,Month-to-Month,DSL,529.47,No,No,0.47035799495297304,Medium Risk
+902,37,Female,31,78.27,One-Year,Fiber Optic,2426.37,No,No,0.4320475459825216,Medium Risk
+903,42,Female,13,68.6,Two-Year,Fiber Optic,891.8,No,No,0.05437178017473948,Low Risk
+904,57,Female,20,48.35,Two-Year,DSL,967.0,No,No,0.04225256596848217,Low Risk
+905,44,Male,42,66.48,Month-to-Month,Fiber Optic,2792.16,No,No,0.274697629768091,Low Risk
+906,42,Male,39,74.58,Month-to-Month,Fiber Optic,2908.62,No,No,0.3507460108674835,Low Risk
+907,25,Male,48,30.71,Two-Year,None,1474.08,No,No,0.05588485380925603,Low Risk
+908,50,Female,1,59.73,Month-to-Month,DSL,59.73,No,No,0.4633465497255056,Medium Risk
+909,49,Male,28,87.9,One-Year,Fiber Optic,2461.2,Yes,No,0.47751238512047683,Medium Risk
+910,67,Female,3,87.29,Month-to-Month,Fiber Optic,261.87,Yes,No,0.4260106734487683,Medium Risk
+911,38,Female,12,35.12,Month-to-Month,None,421.44,Yes,No,0.13837025240953246,Low Risk
+912,44,Male,19,52.52,Month-to-Month,DSL,997.88,No,No,0.37494006544016273,Low Risk
+913,44,Male,12,28.48,Month-to-Month,None,341.76,No,No,0.44179479597039084,Medium Risk
+914,60,Female,17,27.01,One-Year,None,459.17,No,No,0.12018973336439291,Low Risk
+915,40,Female,72,52.28,Two-Year,DSL,3764.16,No,No,0.01268641470888662,Low Risk
+916,45,Male,3,39.93,Month-to-Month,None,119.79,No,No,0.41421057090787344,Medium Risk
+917,49,Male,27,41.06,Two-Year,None,1108.62,Yes,No,0.08020922331433984,Low Risk
+918,44,Male,12,68.92,Month-to-Month,DSL,827.04,Yes,Yes,0.557640812312118,Medium Risk
+919,36,Female,3,73.7,Month-to-Month,Fiber Optic,221.1,No,Yes,0.7097995068226014,Medium Risk
+920,44,Female,4,90.62,Month-to-Month,Fiber Optic,362.48,Yes,No,0.48526171782947825,Medium Risk
+921,54,Female,71,45.77,Two-Year,DSL,3249.67,No,No,0.02693800209672324,Low Risk
+922,29,Female,50,52.82,One-Year,DSL,2641.0,No,No,0.0836264604140365,Low Risk
+923,43,Female,57,54.39,One-Year,DSL,3100.23,No,No,0.03741970426447786,Low Risk
+924,33,Male,72,50.44,Two-Year,DSL,3631.68,No,No,0.0,Low Risk
+925,56,Male,5,73.42,One-Year,Fiber Optic,367.1,No,No,0.35761666765031846,Low Risk
+926,23,Female,10,64.95,Two-Year,DSL,649.5,Yes,No,0.02340275718236597,Low Risk
+927,35,Female,26,20.08,One-Year,None,522.08,No,No,0.19459667636004835,Low Risk
+928,46,Male,15,70.37,Two-Year,Fiber Optic,1055.55,No,No,0.05955470338558683,Low Risk
+929,60,Male,13,66.64,Month-to-Month,DSL,866.32,Yes,No,0.3396827898604382,Low Risk
+930,41,Male,10,84.52,Month-to-Month,Fiber Optic,845.2,Yes,Yes,0.5116733363057332,Medium Risk
+931,35,Male,21,69.48,Month-to-Month,Fiber Optic,1459.08,No,No,0.6389555060196032,Medium Risk
+932,64,Female,20,47.17,Month-to-Month,None,943.4,Yes,No,0.19129564378698358,Low Risk
+933,24,Male,4,65.44,One-Year,DSL,261.76,Yes,No,0.11126562645524568,Low Risk
+934,18,Female,15,46.59,Month-to-Month,DSL,698.85,No,No,0.1693336267097195,Low Risk
+935,47,Male,19,30.77,One-Year,None,584.63,No,No,0.29617987684685465,Low Risk
+936,35,Male,20,37.8,Month-to-Month,None,756.0,Yes,No,0.22947030727893453,Low Risk
+937,29,Male,5,90.7,Month-to-Month,Fiber Optic,453.5,Yes,No,0.5502024866537267,Medium Risk
+938,50,Female,32,76.19,Month-to-Month,Fiber Optic,2438.08,No,No,0.5467858657399955,Medium Risk
+939,44,Female,0,66.99,Two-Year,DSL,0.0,Yes,No,0.08712671852500602,Low Risk
+940,35,Male,10,83.91,Month-to-Month,Fiber Optic,839.1,No,Yes,0.4421668372088042,Medium Risk
+941,26,Female,36,48.18,Month-to-Month,DSL,1734.48,No,No,0.13959919094115364,Low Risk
+942,52,Female,19,66.25,One-Year,DSL,1258.75,Yes,No,0.09121605872235485,Low Risk
+943,49,Male,7,41.44,One-Year,None,290.08,Yes,Yes,0.49114117596749396,Medium Risk
+944,40,Male,28,72.17,Month-to-Month,DSL,2020.76,Yes,Yes,0.5733223080843364,Medium Risk
+945,64,Female,20,91.08,Month-to-Month,Fiber Optic,1821.6,Yes,Yes,0.5839084968248163,Medium Risk
+946,29,Female,38,43.24,Month-to-Month,None,1643.12,Yes,No,0.12749114705637074,Low Risk
+947,23,Female,31,47.52,Two-Year,DSL,1473.12,No,No,0.016353927978319114,Low Risk
+948,33,Male,22,39.42,Month-to-Month,None,867.24,Yes,No,0.20183938291050046,Low Risk
+949,41,Male,16,34.94,Month-to-Month,None,559.04,No,Yes,0.6020497873326315,Medium Risk
+950,44,Female,3,77.3,Month-to-Month,Fiber Optic,231.9,No,No,0.5574678996404901,Medium Risk
+951,39,Male,7,74.59,Month-to-Month,DSL,522.13,Yes,No,0.34834928417162603,Low Risk
+952,46,Male,13,65.03,One-Year,DSL,845.39,Yes,No,0.097977387266635,Low Risk
+953,26,Female,21,86.72,Month-to-Month,Fiber Optic,1821.12,Yes,No,0.5358616105008402,Medium Risk
+954,59,Female,17,64.61,Month-to-Month,DSL,1098.37,Yes,No,0.3227129508188553,Low Risk
+955,41,Male,8,56.79,Month-to-Month,DSL,454.32,No,Yes,0.668669551423511,Medium Risk
+956,55,Male,0,39.8,Month-to-Month,None,0.0,Yes,No,0.3027673757838467,Low Risk
+957,46,Female,16,64.24,Month-to-Month,DSL,1027.84,No,Yes,0.6534926853477022,Medium Risk
+958,47,Male,8,61.62,Two-Year,Fiber Optic,492.96,No,No,0.3169211110614301,Low Risk
+959,48,Male,31,53.55,One-Year,DSL,1660.05,No,No,0.29666652808841343,Low Risk
+960,47,Female,0,74.55,Two-Year,Fiber Optic,0.0,No,Yes,0.6625346674623954,Medium Risk
+961,49,Female,21,29.7,Two-Year,None,623.7,No,No,0.10522567922595552,Low Risk
+962,57,Male,68,67.33,One-Year,DSL,4578.44,Yes,No,0.03864783011324557,Low Risk
+963,44,Male,4,65.16,Month-to-Month,DSL,260.64,Yes,Yes,0.5897407200568836,Medium Risk
+964,50,Male,15,64.69,One-Year,Fiber Optic,970.35,No,Yes,0.6613746775380229,Medium Risk
+965,40,Female,2,84.47,Two-Year,Fiber Optic,168.94,Yes,No,0.10267614148635783,Low Risk
+966,59,Male,23,78.4,One-Year,Fiber Optic,1803.2,No,No,0.307343886966424,Low Risk
+967,33,Male,19,52.81,Month-to-Month,DSL,1003.39,No,Yes,0.541182593728553,Medium Risk
+968,63,Female,12,49.3,Month-to-Month,DSL,591.6,No,No,0.34003883459664885,Low Risk
+969,41,Female,17,20.0,Two-Year,None,340.0,No,No,0.06645442679233919,Low Risk
+970,24,Male,54,23.84,One-Year,None,1287.36,No,No,0.2207058512565206,Low Risk
+971,43,Female,5,66.99,Two-Year,Fiber Optic,334.95,No,Yes,0.1287766682402711,Low Risk
+972,33,Female,0,38.0,Month-to-Month,None,0.0,No,Yes,0.6782642280109336,Medium Risk
+973,52,Male,47,78.37,Month-to-Month,Fiber Optic,3683.39,No,Yes,0.41819057960918277,Medium Risk
+974,34,Female,20,76.53,Month-to-Month,Fiber Optic,1530.6,No,No,0.6313105465366129,Medium Risk
+975,36,Female,53,50.35,One-Year,DSL,2668.55,No,No,0.08308382293971098,Low Risk
+976,19,Male,21,72.08,Month-to-Month,Fiber Optic,1513.68,No,No,0.6045337929893453,Medium Risk
+977,36,Female,39,82.03,Month-to-Month,Fiber Optic,3199.17,No,Yes,0.6444160200934221,Medium Risk
+978,18,Male,13,50.4,Two-Year,DSL,655.2,No,No,0.10363090618125043,Low Risk
+979,22,Male,33,64.49,Month-to-Month,Fiber Optic,2128.17,No,No,0.39172003466480876,Low Risk
+980,51,Female,58,77.97,Two-Year,Fiber Optic,4522.26,Yes,No,0.05278246437669146,Low Risk
+981,51,Female,20,70.71,Month-to-Month,Fiber Optic,1414.2,No,No,0.5512870186396497,Medium Risk
+982,47,Female,4,78.54,Two-Year,Fiber Optic,314.16,Yes,No,0.06403841920263825,Low Risk
+983,30,Male,7,31.17,One-Year,None,218.19,No,No,0.25857561193318457,Low Risk
+984,41,Female,5,49.02,Two-Year,DSL,245.1,No,No,0.08441445150775617,Low Risk
+985,41,Male,6,67.15,Two-Year,Fiber Optic,402.9,No,No,0.16097235904767807,Low Risk
+986,28,Female,8,96.57,Month-to-Month,Fiber Optic,772.56,Yes,Yes,0.6320037551145904,Medium Risk
+987,60,Female,19,71.52,Month-to-Month,Fiber Optic,1358.88,No,Yes,0.6572394675400326,Medium Risk
+988,52,Female,21,64.32,Month-to-Month,DSL,1350.72,No,No,0.5648112622552829,Medium Risk
+989,39,Male,13,63.31,One-Year,DSL,823.03,Yes,No,0.08300487261031467,Low Risk
+990,42,Female,22,40.9,Two-Year,None,899.8,Yes,No,0.0055141142877796635,Low Risk
+991,44,Female,2,73.59,Month-to-Month,Fiber Optic,147.18,No,No,0.5701985055810387,Medium Risk
+992,18,Male,2,29.09,One-Year,None,58.18,No,No,0.2298755741238024,Low Risk
+993,39,Male,4,92.22,Month-to-Month,Fiber Optic,368.88,Yes,No,0.4550299613590337,Medium Risk
+994,33,Female,17,69.45,Two-Year,Fiber Optic,1180.65,No,No,0.05486797370035792,Low Risk
+995,29,Female,5,23.61,Two-Year,None,118.05,No,No,0.042246764741882145,Low Risk
+996,38,Female,7,69.39,Month-to-Month,Fiber Optic,485.73,No,No,0.6716330945205393,Medium Risk
+997,63,Male,12,87.52,Month-to-Month,Fiber Optic,1050.24,No,No,0.3791840063018026,Low Risk
+998,49,Male,40,72.58,Month-to-Month,Fiber Optic,2903.2,No,No,0.2772054441802875,Low Risk
+999,35,Male,0,31.82,One-Year,None,0.0,No,No,0.3180494752796982,Low Risk
+1000,48,Male,25,66.96,Month-to-Month,Fiber Optic,1674.0,No,No,0.43822689335419596,Medium Risk
+1001,58,Female,26,88.6,Month-to-Month,Fiber Optic,2303.6,Yes,No,0.43386219823074434,Medium Risk
+1002,53,Male,38,69.36,Month-to-Month,DSL,2635.68,Yes,No,0.15051899749086728,Low Risk
+1003,42,Male,64,32.36,Month-to-Month,None,2071.04,No,Yes,0.3405635824196816,Low Risk
+1004,34,Male,0,41.39,Month-to-Month,DSL,0.0,No,Yes,0.7719231234907272,High Risk
+1005,50,Female,4,72.04,One-Year,Fiber Optic,288.16,No,No,0.4464420261392943,Medium Risk
+1006,46,Female,52,69.25,Month-to-Month,Fiber Optic,3601.0,No,No,0.19638112217621284,Low Risk
+1007,52,Male,14,72.79,One-Year,Fiber Optic,1019.06,No,Yes,0.622870168027877,Medium Risk
+1008,49,Male,19,66.33,One-Year,Fiber Optic,1260.27,No,No,0.5384526236108695,Medium Risk
+1009,54,Female,26,65.72,Month-to-Month,DSL,1708.72,Yes,No,0.31980179404298514,Low Risk
+1010,35,Female,27,73.63,Month-to-Month,Fiber Optic,1988.01,No,Yes,0.6631251298095898,Medium Risk
+1011,57,Female,64,80.5,One-Year,Fiber Optic,5152.0,Yes,No,0.09057210032042573,Low Risk
+1012,44,Female,72,24.86,Two-Year,None,1789.92,No,No,0.03367891644029662,Low Risk
+1013,66,Female,30,64.03,Month-to-Month,DSL,1920.9,Yes,Yes,0.6340691659394655,Medium Risk
+1014,33,Female,8,20.83,Month-to-Month,None,166.64,No,No,0.34753807149702504,Low Risk
+1015,62,Female,50,95.09,Month-to-Month,Fiber Optic,4754.5,Yes,No,0.11264515512299754,Low Risk
+1016,44,Female,1,36.59,One-Year,None,36.59,Yes,No,0.0913819456091467,Low Risk
+1017,34,Male,6,89.11,Month-to-Month,Fiber Optic,534.66,Yes,No,0.5826353552750394,Medium Risk
+1018,36,Male,54,78.76,Month-to-Month,Fiber Optic,4253.04,No,No,0.2089768396573421,Low Risk
+1019,38,Male,7,25.58,One-Year,None,179.06,No,No,0.33680501584222733,Low Risk
+1020,47,Male,5,24.58,One-Year,None,122.9,No,No,0.40119070148654556,Medium Risk
+1021,48,Male,3,76.13,Month-to-Month,Fiber Optic,228.39,No,Yes,0.7926104490774613,High Risk
+1022,35,Male,47,60.59,Month-to-Month,DSL,2847.73,No,No,0.211616191436556,Low Risk
+1023,41,Female,16,65.7,One-Year,Fiber Optic,1051.2,No,Yes,0.5266327904914511,Medium Risk
+1024,67,Female,26,74.25,Month-to-Month,Fiber Optic,1930.5,No,No,0.398724091342735,Low Risk
+1025,62,Male,6,61.34,Month-to-Month,DSL,368.04,Yes,Yes,0.6615558788064155,Medium Risk
+1026,47,Male,34,61.23,Two-Year,DSL,2081.82,Yes,No,0.018605221895440567,Low Risk
+1027,42,Female,34,30.17,Month-to-Month,None,1025.78,No,No,0.32857948971057516,Low Risk
+1028,43,Female,8,48.19,One-Year,DSL,385.52,No,No,0.2572578521205668,Low Risk
+1029,49,Female,12,65.44,Two-Year,Fiber Optic,785.28,No,No,0.12567396523498112,Low Risk
+1030,29,Male,5,47.96,Month-to-Month,DSL,239.8,No,No,0.33736787233718973,Low Risk
+1031,38,Female,72,70.39,Month-to-Month,DSL,5068.08,Yes,No,0.0115458608150638,Low Risk
+1032,21,Male,24,57.26,One-Year,DSL,1374.24,No,Yes,0.5118182168525313,Medium Risk
+1033,46,Male,65,44.56,Two-Year,DSL,2896.4,No,No,0.004096306068601582,Low Risk
+1034,49,Female,8,64.7,Two-Year,Fiber Optic,517.6,No,No,0.2897784970738891,Low Risk
+1035,36,Female,36,30.89,One-Year,None,1112.04,No,No,0.1091997117594484,Low Risk
+1036,60,Male,34,61.06,Month-to-Month,DSL,2076.04,No,No,0.3508869160101412,Low Risk
+1037,27,Female,28,64.16,One-Year,Fiber Optic,1796.48,No,Yes,0.3934649213766967,Low Risk
+1038,24,Female,72,89.16,Month-to-Month,Fiber Optic,6419.52,Yes,No,0.20096449939909777,Low Risk
+1039,44,Male,12,46.42,Month-to-Month,None,557.04,Yes,No,0.21464671668736682,Low Risk
+1040,54,Female,3,74.49,Month-to-Month,Fiber Optic,223.47,No,Yes,0.5859935236077886,Medium Risk
+1041,62,Male,26,62.62,Month-to-Month,Fiber Optic,1628.12,No,No,0.42496164709971684,Medium Risk
+1042,36,Male,31,87.88,One-Year,Fiber Optic,2724.28,Yes,No,0.3014433195713502,Low Risk
+1043,54,Female,20,37.6,Month-to-Month,None,752.0,No,No,0.4079340500322273,Medium Risk
+1044,41,Male,5,55.58,Month-to-Month,DSL,277.9,No,Yes,0.8026085155008889,High Risk
+1045,39,Male,16,69.84,Month-to-Month,Fiber Optic,1117.44,No,No,0.6718840780877486,Medium Risk
+1046,52,Female,8,38.19,Two-Year,None,305.52,Yes,No,0.0408576247866721,Low Risk
+1047,49,Female,13,79.66,One-Year,Fiber Optic,1035.58,No,No,0.3678088706495488,Low Risk
+1048,23,Female,24,79.55,Month-to-Month,Fiber Optic,1909.2,No,No,0.48540736608068974,Medium Risk
+1049,59,Male,32,78.2,Month-to-Month,Fiber Optic,2502.4,No,No,0.43178798968887333,Medium Risk
+1050,58,Male,6,56.78,Month-to-Month,DSL,340.68,No,Yes,0.5834377184365509,Medium Risk
+1051,34,Female,12,78.02,Two-Year,Fiber Optic,936.24,Yes,No,0.05644686568401114,Low Risk
+1052,46,Male,7,70.3,One-Year,Fiber Optic,492.1,No,No,0.5155040940628515,Medium Risk
+1053,47,Female,5,89.61,Month-to-Month,Fiber Optic,448.05,Yes,Yes,0.5851511871258455,Medium Risk
+1054,45,Female,36,88.11,One-Year,Fiber Optic,3171.96,Yes,No,0.31427532068673203,Low Risk
+1055,35,Male,57,37.54,Month-to-Month,None,2139.78,No,No,0.2605833192445365,Low Risk
+1056,33,Female,11,54.53,Two-Year,DSL,599.83,No,No,0.023198091160779276,Low Risk
+1057,41,Male,33,67.9,Month-to-Month,Fiber Optic,2240.7,No,Yes,0.561024383674449,Medium Risk
+1058,56,Male,54,91.12,Month-to-Month,Fiber Optic,4920.48,Yes,No,0.16001451161011762,Low Risk
+1059,48,Female,44,78.68,Month-to-Month,Fiber Optic,3461.92,No,No,0.30159477235357635,Low Risk
+1060,37,Male,4,58.09,Month-to-Month,DSL,232.36,No,Yes,0.8195374951263743,High Risk
+1061,51,Female,72,64.67,Two-Year,Fiber Optic,4656.24,No,No,0.3406524037694963,Low Risk
+1062,18,Male,11,44.57,Month-to-Month,None,490.27,No,No,0.16632008180464097,Low Risk
+1063,55,Male,9,61.75,Two-Year,Fiber Optic,555.75,No,Yes,0.5791757237991209,Medium Risk
+1064,21,Male,1,23.35,One-Year,None,23.35,No,No,0.4092174735324406,Medium Risk
+1065,37,Female,15,46.17,Month-to-Month,None,692.55,Yes,No,0.07593761481223925,Low Risk
+1066,28,Male,2,80.58,Month-to-Month,DSL,161.16,Yes,No,0.3679518043470724,Low Risk
+1067,26,Female,6,65.82,Month-to-Month,DSL,394.92,Yes,No,0.43443035202619706,Medium Risk
+1068,55,Male,9,27.24,One-Year,None,245.16,No,Yes,0.2541706745618495,Low Risk
+1069,36,Male,39,35.39,Month-to-Month,None,1380.21,No,No,0.2542285095574647,Low Risk
+1070,46,Female,50,54.91,Month-to-Month,DSL,2745.5,No,No,0.17721852473864363,Low Risk
+1071,41,Female,8,68.33,Month-to-Month,DSL,546.64,Yes,No,0.3482812036985797,Low Risk
+1072,47,Female,46,69.19,One-Year,DSL,3182.74,Yes,No,0.016778991221290163,Low Risk
+1073,42,Female,46,46.36,Month-to-Month,None,2132.56,Yes,No,0.06655399187764492,Low Risk
+1074,26,Female,34,75.15,Month-to-Month,DSL,2555.1,Yes,Yes,0.5462834607762667,Medium Risk
+1075,53,Male,3,81.46,Month-to-Month,Fiber Optic,244.38,No,No,0.605347089545121,Medium Risk
+1076,36,Male,28,31.54,Month-to-Month,None,883.12,No,Yes,0.8439416172075651,High Risk
+1077,23,Female,69,50.81,Two-Year,DSL,3505.89,No,No,0.02044891470888662,Low Risk
+1078,36,Male,27,76.07,Month-to-Month,Fiber Optic,2053.89,No,No,0.5917649710355477,Medium Risk
+1079,60,Male,9,51.7,Two-Year,DSL,465.3,No,No,0.02461022562632841,Low Risk
+1080,52,Male,16,28.76,One-Year,None,460.16,No,No,0.1601908652436525,Low Risk
+1081,37,Female,24,66.5,One-Year,DSL,1596.0,Yes,No,0.0636017690045344,Low Risk
+1082,37,Male,17,76.93,One-Year,Fiber Optic,1307.81,No,No,0.31505839853360224,Low Risk
+1083,38,Male,3,82.58,Month-to-Month,Fiber Optic,247.74,No,Yes,0.8171501384079523,High Risk
+1084,66,Male,8,47.46,Month-to-Month,DSL,379.68,No,Yes,0.5975795204679337,Medium Risk
+1085,46,Female,38,66.55,One-Year,DSL,2528.9,Yes,No,0.026968299288515008,Low Risk
+1086,47,Male,47,86.56,Month-to-Month,Fiber Optic,4068.32,Yes,No,0.2076716801583469,Low Risk
+1087,54,Male,3,65.02,One-Year,DSL,195.06,Yes,No,0.1446091844160568,Low Risk
+1088,44,Female,72,32.01,Month-to-Month,None,2304.72,No,No,0.43271437717056793,Medium Risk
+1089,38,Female,9,30.01,Two-Year,None,270.09,No,No,0.020948119637850954,Low Risk
+1090,39,Male,26,70.72,One-Year,Fiber Optic,1838.72,No,No,0.3613989850316902,Low Risk
+1091,41,Male,33,65.43,Month-to-Month,Fiber Optic,2159.19,No,No,0.4881531701883419,Medium Risk
+1092,41,Female,40,85.17,Month-to-Month,Fiber Optic,3406.8,Yes,No,0.14899923966163364,Low Risk
+1093,50,Female,69,32.76,One-Year,None,2260.44,No,No,0.27504563892556383,Low Risk
+1094,42,Female,9,58.23,One-Year,Fiber Optic,524.07,No,Yes,0.5774029339283906,Medium Risk
+1095,50,Female,46,60.94,Month-to-Month,DSL,2803.24,No,No,0.33018418643130687,Low Risk
+1096,41,Female,3,51.85,Two-Year,DSL,155.55,No,No,0.09558075058316197,Low Risk
+1097,42,Female,29,96.58,Month-to-Month,Fiber Optic,2800.82,Yes,No,0.28091944436586,Low Risk
+1098,18,Female,32,89.01,Month-to-Month,Fiber Optic,2848.32,Yes,No,0.35455660360345265,Low Risk
+1099,52,Male,27,58.22,Two-Year,Fiber Optic,1571.94,No,Yes,0.20739300163881913,Low Risk
+1100,46,Female,6,51.44,Two-Year,DSL,308.64,No,No,0.02874336675880116,Low Risk
+1101,53,Female,49,77.3,One-Year,Fiber Optic,3787.7,No,No,0.12023392659244386,Low Risk
+1102,18,Male,4,53.66,Two-Year,DSL,214.64,No,No,0.268276699389407,Low Risk
+1103,67,Female,1,51.69,Month-to-Month,DSL,51.69,No,No,0.29991293129819163,Low Risk
+1104,40,Female,30,67.89,Two-Year,Fiber Optic,2036.7,No,No,0.09348195586098804,Low Risk
+1105,55,Male,15,52.34,Month-to-Month,DSL,785.1,No,Yes,0.570656528065628,Medium Risk
+1106,29,Female,45,70.9,Month-to-Month,Fiber Optic,3190.5,No,No,0.17858944831546222,Low Risk
+1107,49,Male,11,94.78,Month-to-Month,Fiber Optic,1042.58,Yes,No,0.3465932813464328,Low Risk
+1108,29,Male,4,69.01,Month-to-Month,Fiber Optic,276.04,No,Yes,0.726737325710786,Medium Risk
+1109,34,Male,43,70.53,Month-to-Month,Fiber Optic,3032.79,No,No,0.17315893829961918,Low Risk
+1110,64,Male,19,49.48,Month-to-Month,DSL,940.12,No,No,0.3749197299662715,Low Risk
+1111,39,Female,5,47.55,Month-to-Month,DSL,237.75,No,Yes,0.6126780427019425,Medium Risk
+1112,44,Male,30,30.73,Month-to-Month,None,921.9,No,Yes,0.8485697054641377,High Risk
+1113,52,Male,17,76.77,One-Year,Fiber Optic,1305.09,No,No,0.36513647348436307,Low Risk
+1114,47,Female,22,89.08,Month-to-Month,Fiber Optic,1959.76,Yes,Yes,0.6366299616542391,Medium Risk
+1115,43,Male,14,47.47,Month-to-Month,DSL,664.58,No,Yes,0.5533035784588146,Medium Risk
+1116,46,Male,42,75.24,One-Year,Fiber Optic,3160.08,No,No,0.07041901806179196,Low Risk
+1117,70,Male,42,75.09,Two-Year,Fiber Optic,3153.78,No,No,0.39653472160059183,Low Risk
+1118,41,Male,29,82.43,One-Year,Fiber Optic,2390.47,Yes,No,0.2392528792924175,Low Risk
+1119,44,Female,2,87.61,Month-to-Month,Fiber Optic,175.22,Yes,No,0.3441307980742652,Low Risk
+1120,54,Male,43,68.95,One-Year,DSL,2964.85,Yes,No,0.06104827621475141,Low Risk
+1121,55,Female,26,63.11,Month-to-Month,DSL,1640.86,No,Yes,0.6305942023045534,Medium Risk
+1122,56,Female,28,42.4,Month-to-Month,None,1187.2,Yes,Yes,0.6031294704220717,Medium Risk
+1123,49,Male,10,23.34,Month-to-Month,None,233.4,No,No,0.28177885202331754,Low Risk
+1124,28,Male,50,65.84,Two-Year,DSL,3292.0,Yes,No,0.006981450252951096,Low Risk
+1125,61,Male,31,94.0,Month-to-Month,Fiber Optic,2914.0,Yes,Yes,0.5482911294792441,Medium Risk
+1126,28,Male,2,70.03,Month-to-Month,DSL,140.06,Yes,Yes,0.48450872913988496,Medium Risk
+1127,45,Female,12,67.21,Month-to-Month,DSL,806.52,Yes,No,0.490829526431104,Medium Risk
+1128,32,Female,52,53.97,Two-Year,DSL,2806.44,No,No,0.0034799663771364533,Low Risk
+1129,41,Female,1,54.76,One-Year,DSL,54.76,No,Yes,0.7762418398701123,High Risk
+1130,45,Male,72,71.16,Month-to-Month,Fiber Optic,5123.52,No,No,0.1372518087354716,Low Risk
+1131,45,Female,27,85.73,One-Year,Fiber Optic,2314.71,Yes,No,0.22880032717479148,Low Risk
+1132,47,Male,23,63.24,Month-to-Month,DSL,1454.52,Yes,No,0.34386823937455807,Low Risk
+1133,61,Male,7,55.51,One-Year,DSL,388.57,No,Yes,0.6806389427037258,Medium Risk
+1134,47,Male,6,28.69,Month-to-Month,None,172.14,No,No,0.2315282570953333,Low Risk
+1135,39,Male,68,61.04,Two-Year,DSL,4150.72,Yes,No,0.0,Low Risk
+1136,53,Male,8,74.84,Month-to-Month,Fiber Optic,598.72,No,No,0.5149072464021907,Medium Risk
+1137,56,Female,35,52.44,One-Year,DSL,1835.4,No,No,0.232475974731223,Low Risk
+1138,27,Female,11,94.47,Month-to-Month,Fiber Optic,1039.17,Yes,No,0.4035138476870109,Medium Risk
+1139,49,Male,3,57.96,Month-to-Month,DSL,173.88,No,Yes,0.7291703264962038,Medium Risk
+1140,50,Female,0,69.22,Month-to-Month,DSL,0.0,Yes,Yes,0.545251294262432,Medium Risk
+1141,38,Male,18,58.82,Month-to-Month,DSL,1058.76,No,No,0.4776133901574609,Medium Risk
+1142,58,Male,72,72.0,Month-to-Month,DSL,5184.0,Yes,No,0.03270191046888668,Low Risk
+1143,40,Male,11,69.22,One-Year,Fiber Optic,761.42,No,No,0.5528572076908399,Medium Risk
+1144,43,Female,10,89.38,Month-to-Month,Fiber Optic,893.8,Yes,Yes,0.6606733276338627,Medium Risk
+1145,39,Male,10,51.55,One-Year,DSL,515.5,No,No,0.2783387569464193,Low Risk
+1146,42,Male,17,65.27,Two-Year,DSL,1109.59,Yes,No,0.02142642771977834,Low Risk
+1147,28,Female,13,69.51,One-Year,Fiber Optic,903.63,No,Yes,0.43442305368097445,Medium Risk
+1148,24,Female,50,69.4,One-Year,Fiber Optic,3470.0,No,No,0.0534558255206246,Low Risk
+1149,61,Female,16,37.85,One-Year,None,605.6,No,No,0.20151645773345947,Low Risk
+1150,31,Male,17,79.7,Month-to-Month,Fiber Optic,1354.9,No,Yes,0.7443649423145228,Medium Risk
+1151,30,Male,3,64.08,Two-Year,Fiber Optic,192.24,No,Yes,0.23203086260287528,Low Risk
+1152,18,Female,72,92.85,Month-to-Month,Fiber Optic,6685.2,Yes,No,0.1806983011992408,Low Risk
+1153,34,Male,6,43.31,One-Year,None,259.86,Yes,No,0.2066860164283426,Low Risk
+1154,26,Female,1,30.36,One-Year,None,30.36,No,No,0.19717187141009573,Low Risk
+1155,61,Female,26,70.69,Month-to-Month,DSL,1837.94,Yes,No,0.3105604698204673,Low Risk
+1156,54,Male,21,60.95,Month-to-Month,DSL,1279.95,No,No,0.4276869541832902,Medium Risk
+1157,33,Male,12,71.73,Month-to-Month,DSL,860.76,Yes,No,0.29944829560895136,Low Risk
+1158,69,Female,13,67.22,Two-Year,Fiber Optic,873.86,No,No,0.22961214769964702,Low Risk
+1159,53,Female,36,72.19,Two-Year,Fiber Optic,2598.84,No,No,0.1300161558326409,Low Risk
+1160,38,Female,5,76.17,Month-to-Month,Fiber Optic,380.85,No,No,0.5015347583074875,Medium Risk
+1161,18,Female,41,52.83,One-Year,DSL,2166.03,No,No,0.07507422092754729,Low Risk
+1162,69,Male,25,82.41,Two-Year,Fiber Optic,2060.25,Yes,Yes,0.6835749264455033,Medium Risk
+1163,25,Female,13,29.53,Month-to-Month,None,383.89,No,No,0.1057993093107123,Low Risk
+1164,22,Female,14,70.05,Month-to-Month,DSL,980.7,Yes,No,0.3000932982518221,Low Risk
+1165,54,Female,7,68.46,One-Year,Fiber Optic,479.22,No,No,0.3646677264791831,Low Risk
+1166,71,Male,33,64.12,Two-Year,Fiber Optic,2115.96,No,No,0.39181212559182277,Low Risk
+1167,58,Male,17,22.51,Two-Year,None,382.67,No,No,0.014395570017929935,Low Risk
+1168,48,Female,9,38.04,Month-to-Month,None,342.36,Yes,No,0.11278135568662305,Low Risk
+1169,49,Male,21,85.6,Month-to-Month,Fiber Optic,1797.6,Yes,Yes,0.6479481252106477,Medium Risk
+1170,52,Male,72,89.13,Month-to-Month,Fiber Optic,6417.36,Yes,Yes,0.4829451839621779,Medium Risk
+1171,51,Male,13,45.52,Month-to-Month,None,591.76,Yes,No,0.13969172598901436,Low Risk
+1172,45,Female,60,88.64,Month-to-Month,Fiber Optic,5318.4,Yes,No,0.12860553263748037,Low Risk
+1173,43,Female,10,41.06,One-Year,DSL,410.6,No,No,0.23923810747270835,Low Risk
+1174,41,Male,1,97.87,Month-to-Month,Fiber Optic,97.87,Yes,No,0.21918199359337406,Low Risk
+1175,32,Female,5,54.39,Two-Year,DSL,271.95,No,No,0.04553209099191125,Low Risk
+1176,38,Female,13,77.23,Month-to-Month,Fiber Optic,1003.99,No,Yes,0.5836716877192356,Medium Risk
+1177,21,Male,5,37.56,One-Year,None,187.8,No,No,0.1418326375780103,Low Risk
+1178,40,Male,0,85.11,Month-to-Month,Fiber Optic,0.0,Yes,Yes,0.7294612430122315,Medium Risk
+1179,30,Female,59,99.44,Month-to-Month,Fiber Optic,5866.96,Yes,Yes,0.6138029286961535,Medium Risk
+1180,28,Male,44,50.17,Month-to-Month,DSL,2207.48,No,No,0.1570402223938531,Low Risk
+1181,44,Female,32,82.07,Two-Year,Fiber Optic,2626.24,Yes,No,0.10508028459432615,Low Risk
+1182,58,Female,4,43.77,Two-Year,DSL,175.08,No,Yes,0.08206126655274033,Low Risk
+1183,53,Male,3,70.07,Month-to-Month,DSL,210.21,Yes,No,0.4054253656781107,Medium Risk
+1184,23,Female,1,76.93,Month-to-Month,Fiber Optic,76.93,No,No,0.5874945789643088,Medium Risk
+1185,30,Female,30,48.8,Two-Year,DSL,1464.0,No,No,0.008591427978319112,Low Risk
+1186,53,Male,63,78.57,Month-to-Month,Fiber Optic,4949.91,No,Yes,0.5321391135635605,Medium Risk
+1187,30,Male,13,90.5,Month-to-Month,Fiber Optic,1176.5,Yes,No,0.4411959803973899,Medium Risk
+1188,39,Male,3,40.27,One-Year,None,120.81,Yes,No,0.17083715185457835,Low Risk
+1189,48,Female,17,64.95,Two-Year,Fiber Optic,1104.15,No,No,0.0914026976834747,Low Risk
+1190,30,Male,10,59.05,Month-to-Month,DSL,590.5,No,No,0.3784337517676095,Low Risk
+1191,43,Male,11,66.73,Month-to-Month,DSL,734.03,Yes,Yes,0.5686841090816018,Medium Risk
+1192,25,Male,23,85.12,Two-Year,Fiber Optic,1957.76,Yes,No,0.22052285171360758,Low Risk
+1193,34,Male,30,96.11,Month-to-Month,Fiber Optic,2883.3,Yes,Yes,0.6312829612588388,Medium Risk
+1194,45,Female,2,66.66,Month-to-Month,Fiber Optic,133.32,No,Yes,0.7387830192931172,Medium Risk
+1195,22,Female,0,90.88,One-Year,Fiber Optic,0.0,Yes,No,0.1863445366843005,Low Risk
+1196,47,Male,72,58.77,Two-Year,DSL,4231.44,No,No,0.03478216155584656,Low Risk
+1197,41,Female,6,76.26,Month-to-Month,Fiber Optic,457.56,No,Yes,0.6577623869808374,Medium Risk
+1198,48,Male,1,70.2,Two-Year,Fiber Optic,70.2,No,Yes,0.8152161563545777,High Risk
+1199,44,Male,5,57.18,One-Year,DSL,285.9,No,Yes,0.7075653182741236,Medium Risk
+1200,58,Female,0,53.62,Month-to-Month,DSL,0.0,No,No,0.27534090109565884,Low Risk
+1201,43,Female,11,50.32,Two-Year,DSL,553.52,No,No,0.03149006649521525,Low Risk
+1202,36,Male,38,63.43,Month-to-Month,DSL,2410.34,Yes,No,0.15118793048467716,Low Risk
+1203,43,Male,10,75.69,Month-to-Month,Fiber Optic,756.9,No,Yes,0.707419162626893,Medium Risk
+1204,48,Female,14,54.62,One-Year,DSL,764.68,No,No,0.35660396953734536,Low Risk
+1205,42,Male,27,57.58,Month-to-Month,DSL,1554.66,No,No,0.5137285402533172,Medium Risk
+1206,42,Female,17,60.33,Month-to-Month,DSL,1025.61,No,No,0.5054248253608484,Medium Risk
+1207,33,Male,47,41.13,Month-to-Month,None,1933.11,Yes,No,0.12029269665219262,Low Risk
+1208,34,Male,48,27.34,Month-to-Month,None,1312.32,No,Yes,0.5712036741289278,Medium Risk
+1209,25,Female,0,71.53,Two-Year,DSL,0.0,Yes,No,0.05662730149952356,Low Risk
+1210,62,Female,36,51.54,One-Year,DSL,1855.44,No,No,0.14234313911114851,Low Risk
+1211,27,Female,14,63.9,Two-Year,DSL,894.6,Yes,No,0.01982837136112123,Low Risk
+1212,33,Female,72,74.66,Month-to-Month,Fiber Optic,5375.52,No,No,0.14724574511507557,Low Risk
+1213,33,Female,15,65.89,Month-to-Month,DSL,988.35,Yes,No,0.21762234406740247,Low Risk
+1214,52,Female,72,83.12,Month-to-Month,Fiber Optic,5984.64,No,No,0.38633925917771067,Low Risk
+1215,38,Female,33,72.36,Month-to-Month,Fiber Optic,2387.88,No,Yes,0.7415062104758969,Medium Risk
+1216,56,Male,6,39.36,Month-to-Month,None,236.16,Yes,No,0.28409033350749124,Low Risk
+1217,33,Male,18,50.11,One-Year,DSL,901.98,No,No,0.20661543843593186,Low Risk
+1218,45,Male,72,20.0,Two-Year,None,1440.0,No,No,0.017760022882760875,Low Risk
+1219,31,Female,46,64.57,Two-Year,Fiber Optic,2970.22,No,No,0.07790894971259894,Low Risk
+1220,67,Female,2,65.16,Month-to-Month,DSL,130.32,Yes,No,0.31417449144269693,Low Risk
+1221,27,Female,29,70.28,Two-Year,Fiber Optic,2038.12,No,Yes,0.1124825432177948,Low Risk
+1222,45,Male,10,51.63,Month-to-Month,DSL,516.3,No,No,0.27712877613019876,Low Risk
+1223,49,Female,0,59.44,Month-to-Month,DSL,0.0,No,No,0.6162633515384809,Medium Risk
+1224,46,Female,12,55.79,Two-Year,DSL,669.48,No,No,0.06505818163005289,Low Risk
+1225,39,Male,6,74.96,One-Year,Fiber Optic,449.76,No,No,0.48810459858505245,Medium Risk
+1226,40,Female,41,88.92,Month-to-Month,Fiber Optic,3645.72,Yes,No,0.1709693318754755,Low Risk
+1227,42,Male,9,45.71,Month-to-Month,None,411.39,Yes,No,0.29835251907767096,Low Risk
+1228,40,Male,42,62.38,Month-to-Month,DSL,2619.96,Yes,No,0.08366075204242353,Low Risk
+1229,53,Female,0,42.11,One-Year,None,0.0,Yes,No,0.14569445728091052,Low Risk
+1230,68,Female,8,50.7,Month-to-Month,DSL,405.6,No,Yes,0.4053674147759729,Medium Risk
+1231,35,Female,6,70.62,Two-Year,Fiber Optic,423.72,No,No,0.13594826624525194,Low Risk
+1232,25,Male,6,82.86,Month-to-Month,DSL,497.16,Yes,Yes,0.5562469704005752,Medium Risk
+1233,40,Male,1,57.5,Month-to-Month,DSL,57.5,No,Yes,0.7396621338310065,Medium Risk
+1234,72,Male,4,20.04,Month-to-Month,None,80.16,No,Yes,0.8283250477349803,High Risk
+1235,32,Female,19,53.19,Month-to-Month,DSL,1010.61,No,No,0.3620153326065249,Low Risk
+1236,61,Female,8,75.61,Month-to-Month,Fiber Optic,604.88,No,No,0.45265266584171443,Medium Risk
+1237,62,Female,12,71.66,One-Year,Fiber Optic,859.92,No,Yes,0.6372883707893142,Medium Risk
+1238,35,Female,11,77.71,Two-Year,Fiber Optic,854.81,Yes,No,0.04317037582950707,Low Risk
+1239,48,Male,50,82.1,Two-Year,Fiber Optic,4105.0,Yes,No,0.049232953810107984,Low Risk
+1240,61,Male,56,75.41,Two-Year,Fiber Optic,4222.96,Yes,No,0.13410348612773865,Low Risk
+1241,37,Male,16,45.25,Two-Year,DSL,724.0,No,No,0.03201774499582313,Low Risk
+1242,39,Male,9,88.57,One-Year,Fiber Optic,797.13,Yes,No,0.31982761068377635,Low Risk
+1243,35,Female,2,22.43,Two-Year,None,44.86,No,No,0.11084056187459783,Low Risk
+1244,29,Female,72,72.69,Month-to-Month,DSL,5233.68,Yes,No,0.022533795170255052,Low Risk
+1245,34,Female,1,48.15,Month-to-Month,DSL,48.15,No,No,0.425491726248179,Medium Risk
+1246,27,Male,8,98.82,Month-to-Month,Fiber Optic,790.56,Yes,No,0.3803980559947874,Low Risk
+1247,42,Male,8,86.13,Month-to-Month,Fiber Optic,689.04,Yes,Yes,0.6810297791050354,Medium Risk
+1248,32,Female,9,88.88,Month-to-Month,Fiber Optic,799.92,Yes,No,0.583330609834864,Medium Risk
+1249,44,Female,4,50.99,Two-Year,DSL,203.96,No,No,0.12383088900345184,Low Risk
+1250,23,Male,36,87.17,Month-to-Month,Fiber Optic,3138.12,Yes,No,0.2353864283381463,Low Risk
+1251,45,Female,3,55.72,Month-to-Month,DSL,167.16,No,Yes,0.7072674217765487,Medium Risk
+1252,52,Male,24,92.88,Month-to-Month,Fiber Optic,2229.12,Yes,No,0.45220333409975294,Medium Risk
+1253,18,Male,3,94.8,Month-to-Month,Fiber Optic,284.4,Yes,Yes,0.7747400918970425,High Risk
+1254,46,Male,1,58.96,Month-to-Month,DSL,58.96,No,No,0.528217573141894,Medium Risk
+1255,56,Female,57,89.14,Month-to-Month,Fiber Optic,5080.98,Yes,No,0.11349087639038488,Low Risk
+1256,27,Female,5,29.27,Month-to-Month,None,146.35,No,No,0.19292655852044213,Low Risk
+1257,62,Male,41,86.75,Month-to-Month,Fiber Optic,3556.75,No,No,0.18676071725738935,Low Risk
+1258,47,Female,18,47.26,One-Year,None,850.68,Yes,No,0.012798103690173939,Low Risk
+1259,33,Male,1,81.12,One-Year,Fiber Optic,81.12,Yes,No,0.3803210015731831,Low Risk
+1260,41,Male,72,90.5,Month-to-Month,Fiber Optic,6516.0,Yes,No,0.17017075691886135,Low Risk
+1261,48,Male,6,53.32,Month-to-Month,DSL,319.92,No,Yes,0.43564206388864607,Medium Risk
+1262,42,Male,47,54.32,Month-to-Month,DSL,2553.04,No,No,0.3388722813390098,Low Risk
+1263,48,Female,4,46.41,One-Year,DSL,185.64,No,Yes,0.609621505398152,Medium Risk
+1264,30,Male,46,72.94,Month-to-Month,Fiber Optic,3355.24,No,No,0.12935071991808023,Low Risk
+1265,44,Male,0,54.06,Month-to-Month,None,0.0,Yes,No,0.23675720467871153,Low Risk
+1266,25,Female,17,55.0,One-Year,DSL,935.0,No,No,0.17061645900035188,Low Risk
+1267,40,Male,35,62.54,Month-to-Month,Fiber Optic,2188.9,No,Yes,0.6185390698751329,Medium Risk
+1268,31,Male,65,81.08,Month-to-Month,Fiber Optic,5270.2,No,Yes,0.5671318941551212,Medium Risk
+1269,33,Female,57,80.45,Month-to-Month,Fiber Optic,4585.65,No,No,0.19870716162101515,Low Risk
+1270,56,Female,41,65.88,Two-Year,Fiber Optic,2701.08,No,No,0.17561685450968184,Low Risk
+1271,55,Female,52,84.23,Two-Year,Fiber Optic,4379.96,Yes,No,0.07562406253653023,Low Risk
+1272,49,Male,5,48.17,One-Year,DSL,240.85,No,No,0.4754159078162327,Medium Risk
+1273,28,Female,8,52.65,Month-to-Month,DSL,421.2,No,Yes,0.6290190671629601,Medium Risk
+1274,38,Female,8,52.49,Month-to-Month,None,419.92,Yes,No,0.16211949501948214,Low Risk
+1275,56,Male,11,48.28,Two-Year,DSL,531.08,No,No,0.01768616660473533,Low Risk
+1276,43,Male,11,54.59,Two-Year,DSL,600.49,Yes,No,0.016152116908911163,Low Risk
+1277,69,Male,18,29.68,Month-to-Month,None,534.24,No,Yes,0.6714923917591211,Medium Risk
+1278,46,Male,4,49.15,Two-Year,DSL,196.6,No,Yes,0.5566993508343012,Medium Risk
+1279,44,Male,28,95.99,Month-to-Month,Fiber Optic,2687.72,Yes,No,0.41311590142990284,Medium Risk
+1280,38,Female,4,55.07,Month-to-Month,DSL,220.28,No,No,0.633196509582761,Medium Risk
+1281,43,Female,8,69.25,One-Year,Fiber Optic,554.0,No,Yes,0.4497462279265114,Medium Risk
+1282,40,Female,16,60.23,Month-to-Month,DSL,963.68,No,Yes,0.6066234306205025,Medium Risk
+1283,50,Male,38,63.54,Two-Year,DSL,2414.52,Yes,No,0.014935294244359328,Low Risk
+1284,53,Male,32,86.25,Month-to-Month,Fiber Optic,2760.0,Yes,No,0.38793113251634276,Low Risk
+1285,32,Male,24,95.77,Month-to-Month,Fiber Optic,2298.48,Yes,Yes,0.6442229364748541,Medium Risk
+1286,26,Female,4,81.87,Two-Year,Fiber Optic,327.48,Yes,No,0.15280990800247296,Low Risk
+1287,19,Female,19,27.01,Two-Year,None,513.19,No,Yes,0.5699037514846682,Medium Risk
+1288,48,Male,2,55.89,Month-to-Month,DSL,111.78,No,No,0.45254915643262694,Medium Risk
+1289,28,Female,11,69.65,Month-to-Month,Fiber Optic,766.15,No,No,0.5302451557691306,Medium Risk
+1290,18,Male,12,68.74,One-Year,Fiber Optic,824.88,No,No,0.38835042413986876,Low Risk
+1291,46,Female,0,30.02,Month-to-Month,None,0.0,No,Yes,0.6596107745799674,Medium Risk
+1292,71,Female,7,48.62,Two-Year,DSL,340.34,No,No,0.04869512490493241,Low Risk
+1293,41,Female,72,73.23,Two-Year,Fiber Optic,5272.56,No,No,0.10222266157982883,Low Risk
+1294,52,Male,72,31.09,Month-to-Month,None,2238.48,No,Yes,0.7772151905188039,High Risk
+1295,42,Female,10,59.27,Month-to-Month,DSL,592.7,No,No,0.537138808482377,Medium Risk
+1296,40,Female,1,45.05,Month-to-Month,None,45.05,Yes,No,0.05351602548561023,Low Risk
+1297,53,Male,4,67.75,Two-Year,DSL,271.0,Yes,No,0.07440971037811163,Low Risk
+1298,38,Female,11,76.99,Month-to-Month,Fiber Optic,846.89,No,No,0.5451869068308867,Medium Risk
+1299,45,Male,70,30.07,Month-to-Month,None,2104.9,No,No,0.40662994205890435,Medium Risk
+1300,45,Male,3,74.93,Month-to-Month,Fiber Optic,224.79,No,Yes,0.8067686831622966,High Risk
+1301,33,Male,34,66.72,One-Year,Fiber Optic,2268.48,No,No,0.36087643870846514,Low Risk
+1302,53,Male,2,72.53,Month-to-Month,DSL,145.06,Yes,No,0.3205119594159179,Low Risk
+1303,39,Male,72,29.8,Month-to-Month,None,2145.6,No,No,0.3557516302055037,Low Risk
+1304,32,Female,11,78.74,Two-Year,Fiber Optic,866.14,Yes,No,0.07292052643356707,Low Risk
+1305,48,Male,35,54.48,Two-Year,DSL,1906.8,No,No,0.027527707264108973,Low Risk
+1306,31,Male,10,65.31,One-Year,Fiber Optic,653.1,No,No,0.44198262910949554,Medium Risk
+1307,42,Male,23,87.89,Month-to-Month,Fiber Optic,2021.47,Yes,No,0.4685929139356959,Medium Risk
+1308,41,Male,5,60.14,Month-to-Month,DSL,300.7,No,Yes,0.7948404494861923,High Risk
+1309,55,Female,3,53.75,One-Year,DSL,161.25,No,No,0.565230889819389,Medium Risk
+1310,47,Male,66,69.76,Month-to-Month,DSL,4604.16,Yes,No,0.049270558244273496,Low Risk
+1311,41,Female,59,68.63,Two-Year,Fiber Optic,4049.17,No,No,0.12785084922545523,Low Risk
+1312,51,Male,52,72.1,One-Year,Fiber Optic,3749.2,No,No,0.1450120241907716,Low Risk
+1313,58,Female,23,67.42,Month-to-Month,Fiber Optic,1550.66,No,No,0.5186315697510357,Medium Risk
+1314,48,Male,39,38.93,Two-Year,None,1518.27,Yes,No,0.01045661282199268,Low Risk
+1315,42,Male,1,47.77,Two-Year,None,47.77,Yes,No,0.10150691792120563,Low Risk
+1316,26,Female,9,71.7,Month-to-Month,Fiber Optic,645.3,No,Yes,0.6501872412289521,Medium Risk
+1317,29,Male,9,68.41,Month-to-Month,DSL,615.69,Yes,No,0.3399634610422556,Low Risk
+1318,38,Female,24,72.29,Month-to-Month,Fiber Optic,1734.96,No,No,0.6238329973280003,Medium Risk
+1319,34,Male,10,89.56,Month-to-Month,Fiber Optic,895.6,Yes,Yes,0.607587924444197,Medium Risk
+1320,39,Female,3,72.08,Month-to-Month,Fiber Optic,216.24,No,Yes,0.706594849510478,Medium Risk
+1321,42,Male,21,73.56,One-Year,Fiber Optic,1544.76,No,No,0.3704304852868432,Low Risk
+1322,48,Male,40,81.89,Two-Year,Fiber Optic,3275.6,Yes,No,0.034588226809360044,Low Risk
+1323,41,Female,11,48.87,Month-to-Month,None,537.57,Yes,No,0.10355620316491353,Low Risk
+1324,47,Male,3,49.75,Month-to-Month,DSL,149.25,No,No,0.44058659693305424,Medium Risk
+1325,42,Male,5,69.63,One-Year,Fiber Optic,348.15,No,Yes,0.7173892764957921,Medium Risk
+1326,18,Male,6,68.87,Month-to-Month,DSL,413.22,Yes,No,0.46414374738495157,Medium Risk
+1327,30,Male,8,29.05,Two-Year,None,232.4,No,No,0.04511790790248589,Low Risk
+1328,40,Male,24,66.03,Month-to-Month,DSL,1584.72,Yes,Yes,0.571841381786765,Medium Risk
+1329,27,Male,22,59.58,Month-to-Month,DSL,1310.76,No,No,0.3222044985218488,Low Risk
+1330,49,Female,28,60.93,Month-to-Month,DSL,1706.04,No,No,0.527001316714305,Medium Risk
+1331,60,Female,10,80.8,One-Year,Fiber Optic,808.0,Yes,No,0.1548748164512756,Low Risk
+1332,56,Female,41,52.55,Month-to-Month,DSL,2154.55,No,No,0.27812872390021703,Low Risk
+1333,39,Male,5,82.97,One-Year,Fiber Optic,414.85,Yes,No,0.21221458838796545,Low Risk
+1334,59,Female,15,103.16,Month-to-Month,Fiber Optic,1547.4,Yes,No,0.24899279969027258,Low Risk
+1335,43,Male,38,67.85,Month-to-Month,DSL,2578.3,Yes,No,0.12657025908175668,Low Risk
+1336,37,Male,4,63.39,Month-to-Month,DSL,253.56,No,Yes,0.7566413072634701,High Risk
+1337,34,Male,2,21.3,Two-Year,None,42.6,No,Yes,0.6951846949410008,Medium Risk
+1338,38,Male,51,63.05,Two-Year,Fiber Optic,3215.55,No,No,0.16348060576427667,Low Risk
+1339,37,Female,10,86.57,Month-to-Month,Fiber Optic,865.7,Yes,Yes,0.6799269120810745,Medium Risk
+1340,44,Male,27,85.77,Month-to-Month,Fiber Optic,2315.79,Yes,No,0.4068597377786691,Medium Risk
+1341,43,Female,0,53.66,Month-to-Month,DSL,0.0,No,No,0.41297859669632453,Medium Risk
+1342,42,Male,28,66.46,Month-to-Month,DSL,1860.88,Yes,No,0.47445523078065865,Medium Risk
+1343,47,Female,9,50.9,Month-to-Month,DSL,458.1,No,No,0.3293144168015633,Low Risk
+1344,56,Female,1,45.71,Two-Year,None,45.71,Yes,No,0.021015551068766448,Low Risk
+1345,53,Female,22,32.51,Two-Year,None,715.22,No,No,0.11933178420306621,Low Risk
+1346,24,Female,6,94.75,Month-to-Month,Fiber Optic,568.5,Yes,No,0.7070162755134823,Medium Risk
+1347,18,Female,11,57.62,Month-to-Month,DSL,633.82,No,No,0.39210784696865886,Low Risk
+1348,53,Female,2,63.42,Two-Year,DSL,126.84,Yes,No,0.04390638598635706,Low Risk
+1349,25,Male,3,60.76,Two-Year,DSL,182.28,Yes,No,0.04705315830662341,Low Risk
+1350,39,Female,8,85.23,Month-to-Month,Fiber Optic,681.84,Yes,Yes,0.6530903294815027,Medium Risk
+1351,27,Male,2,71.81,Month-to-Month,DSL,143.62,Yes,No,0.34848971376540894,Low Risk
+1352,20,Female,58,39.13,Month-to-Month,None,2269.54,Yes,No,0.05702869330213818,Low Risk
+1353,48,Male,0,70.03,Month-to-Month,Fiber Optic,0.0,No,Yes,0.8404239925568738,High Risk
+1354,51,Female,15,35.76,Month-to-Month,None,536.4,No,No,0.37564740340808983,Low Risk
+1355,35,Female,3,84.5,Month-to-Month,Fiber Optic,253.5,No,No,0.47294838065597566,Medium Risk
+1356,18,Male,8,73.12,One-Year,Fiber Optic,584.96,No,Yes,0.666201884475458,Medium Risk
+1357,35,Female,62,80.53,Month-to-Month,Fiber Optic,4992.86,No,No,0.22407942441339013,Low Risk
+1358,46,Female,4,73.77,Month-to-Month,Fiber Optic,295.08,No,No,0.6542739021092686,Medium Risk
+1359,24,Female,72,68.31,Month-to-Month,Fiber Optic,4918.32,No,Yes,0.1299053352574326,Low Risk
+1360,44,Male,5,70.25,Two-Year,Fiber Optic,351.25,No,No,0.13756285997838813,Low Risk
+1361,41,Female,32,70.06,Two-Year,Fiber Optic,2241.92,No,No,0.13728099108452962,Low Risk
+1362,48,Male,18,45.36,Month-to-Month,None,816.48,Yes,No,0.14636260603539733,Low Risk
+1363,43,Female,51,88.79,Month-to-Month,Fiber Optic,4528.29,Yes,No,0.18805282003174373,Low Risk
+1364,30,Female,19,71.83,Two-Year,Fiber Optic,1364.77,No,No,0.16270490789032144,Low Risk
+1365,56,Male,18,40.07,Month-to-Month,None,721.26,Yes,No,0.25539049468399433,Low Risk
+1366,40,Female,5,51.13,Month-to-Month,DSL,255.65,No,No,0.4111525031217017,Medium Risk
+1367,41,Female,4,49.96,Month-to-Month,DSL,199.84,No,No,0.47439920235583294,Medium Risk
+1368,30,Male,59,90.42,Month-to-Month,Fiber Optic,5334.78,Yes,No,0.11711122187584536,Low Risk
+1369,36,Female,9,84.56,Month-to-Month,Fiber Optic,761.04,Yes,No,0.5471763297890817,Medium Risk
+1370,31,Male,11,23.92,Two-Year,None,263.12,No,No,0.03323146027741264,Low Risk
+1371,39,Male,34,67.9,One-Year,Fiber Optic,2308.6,No,No,0.34204843574346705,Low Risk
+1372,62,Male,9,88.7,Month-to-Month,Fiber Optic,798.3,Yes,Yes,0.692782361856026,Medium Risk
+1373,25,Female,72,60.81,Two-Year,Fiber Optic,4378.32,No,No,0.15974870811107042,Low Risk
+1374,22,Male,32,55.44,Month-to-Month,DSL,1774.08,No,No,0.37302582070040713,Low Risk
+1375,59,Male,21,96.24,Month-to-Month,Fiber Optic,2021.04,Yes,No,0.3341690533419,Low Risk
+1376,39,Female,51,43.39,One-Year,None,2212.89,Yes,No,0.016148491160605856,Low Risk
+1377,33,Male,1,59.57,One-Year,DSL,59.57,No,No,0.48019122184013874,Medium Risk
+1378,54,Female,7,96.67,Month-to-Month,Fiber Optic,676.69,Yes,No,0.2894110796559559,Low Risk
+1379,34,Female,15,78.89,Month-to-Month,Fiber Optic,1183.35,No,No,0.5403686407138423,Medium Risk
+1380,63,Female,6,52.6,One-Year,DSL,315.6,No,No,0.25302117463200985,Low Risk
+1381,50,Female,32,52.36,One-Year,DSL,1675.52,No,No,0.253892903151256,Low Risk
+1382,36,Male,60,32.13,One-Year,None,1927.8,No,No,0.18767544819988477,Low Risk
+1383,67,Male,13,73.04,Month-to-Month,Fiber Optic,949.52,No,No,0.5467778336979952,Medium Risk
+1384,34,Male,10,60.59,Month-to-Month,DSL,605.9,Yes,No,0.3019648649549085,Low Risk
+1385,50,Male,72,72.46,Month-to-Month,DSL,5217.12,Yes,No,0.0205208332427386,Low Risk
+1386,45,Male,14,69.34,Month-to-Month,Fiber Optic,970.76,No,Yes,0.6709682092927047,Medium Risk
+1387,57,Female,16,63.17,Two-Year,Fiber Optic,1010.72,No,No,0.13654832853126136,Low Risk
+1388,60,Male,10,90.0,Month-to-Month,Fiber Optic,900.0,Yes,Yes,0.6471728387215288,Medium Risk
+1389,42,Male,57,54.52,Month-to-Month,DSL,3107.64,No,No,0.18214155959156908,Low Risk
+1390,32,Male,20,36.04,One-Year,None,720.8,Yes,No,0.13675788019975582,Low Risk
+1391,47,Female,34,90.83,Month-to-Month,Fiber Optic,3088.22,Yes,No,0.4081712641936951,Medium Risk
+1392,33,Female,40,74.83,Month-to-Month,DSL,2993.2,Yes,No,0.028978921852083447,Low Risk
+1393,66,Male,10,62.42,Two-Year,Fiber Optic,624.2,No,No,0.21705448019349258,Low Risk
+1394,43,Female,13,73.23,Two-Year,Fiber Optic,951.99,No,No,0.024005497453595873,Low Risk
+1395,37,Male,45,35.34,One-Year,None,1590.3,Yes,No,0.027292467443752164,Low Risk
+1396,44,Male,10,55.59,Month-to-Month,None,555.9,Yes,No,0.23630889485755222,Low Risk
+1397,25,Female,37,64.55,One-Year,DSL,2388.35,Yes,No,0.06312403426809687,Low Risk
+1398,30,Female,67,29.19,One-Year,None,1955.73,No,No,0.071178338993416,Low Risk
+1399,56,Male,23,80.54,Month-to-Month,Fiber Optic,1852.42,Yes,No,0.3870174835124382,Low Risk
+1400,34,Male,32,29.69,Month-to-Month,None,950.08,No,Yes,0.7976179501071217,High Risk
+1401,29,Female,39,64.03,Two-Year,DSL,2497.17,Yes,No,0.02891020273695677,Low Risk
+1402,48,Male,44,74.57,Month-to-Month,Fiber Optic,3281.08,No,No,0.17690881076042322,Low Risk
+1403,56,Female,12,63.83,One-Year,DSL,765.96,Yes,No,0.0861086483841358,Low Risk
+1404,50,Male,1,25.27,Month-to-Month,None,25.27,No,No,0.6710276295154786,Medium Risk
+1405,53,Female,12,75.65,Month-to-Month,DSL,907.8,Yes,No,0.2988188555416853,Low Risk
+1406,32,Male,26,90.15,Month-to-Month,Fiber Optic,2343.9,Yes,No,0.5187565238791395,Medium Risk
+1407,24,Male,14,56.43,Two-Year,DSL,790.02,No,No,0.07513057247011844,Low Risk
+1408,60,Female,33,52.37,Month-to-Month,DSL,1728.21,No,No,0.30219460660733505,Low Risk
+1409,38,Male,10,72.83,Month-to-Month,Fiber Optic,728.3,No,No,0.6635998210443621,Medium Risk
+1410,38,Male,24,32.37,One-Year,None,776.88,No,Yes,0.5996238113389389,Medium Risk
+1411,57,Female,4,63.54,One-Year,Fiber Optic,254.16,No,No,0.3947556652618121,Low Risk
+1412,48,Male,33,21.54,Two-Year,None,710.82,No,No,0.13007321421183485,Low Risk
+1413,47,Male,18,75.49,Month-to-Month,DSL,1358.82,Yes,No,0.30166034749488113,Low Risk
+1414,67,Male,5,69.14,Month-to-Month,Fiber Optic,345.7,No,Yes,0.7619932756243664,High Risk
+1415,34,Female,8,59.31,Two-Year,Fiber Optic,474.48,No,Yes,0.5639764450775249,Medium Risk
+1416,53,Female,33,75.38,One-Year,DSL,2487.54,Yes,No,0.14318257613005375,Low Risk
+1417,42,Female,15,68.03,Month-to-Month,Fiber Optic,1020.45,No,Yes,0.6763141420127566,Medium Risk
+1418,45,Male,5,90.92,Month-to-Month,Fiber Optic,454.6,Yes,No,0.42851122676903364,Medium Risk
+1419,60,Male,72,81.31,Two-Year,Fiber Optic,5854.32,Yes,No,0.10253900109297205,Low Risk
+1420,48,Male,30,60.95,Month-to-Month,Fiber Optic,1828.5,No,No,0.39932545232146155,Low Risk
+1421,48,Male,72,69.98,One-Year,Fiber Optic,5038.56,No,No,0.023999690471424563,Low Risk
+1422,54,Female,13,72.24,Month-to-Month,DSL,939.12,Yes,No,0.3111289196725262,Low Risk
+1423,37,Male,15,71.77,Month-to-Month,DSL,1076.55,Yes,No,0.285600721159954,Low Risk
+1424,31,Male,54,75.54,One-Year,Fiber Optic,4079.16,No,No,0.07512326789449884,Low Risk
+1425,29,Male,17,68.06,Month-to-Month,DSL,1157.02,Yes,No,0.33640618789471516,Low Risk
+1426,18,Female,29,58.56,Month-to-Month,DSL,1698.24,No,No,0.3167609217641234,Low Risk
+1427,66,Male,6,71.55,Month-to-Month,Fiber Optic,429.3,No,Yes,0.6857872456097724,Medium Risk
+1428,28,Male,14,67.95,Month-to-Month,Fiber Optic,951.3,No,No,0.5487393553383053,Medium Risk
+1429,39,Male,3,46.09,One-Year,DSL,138.27,No,No,0.3120215075474786,Low Risk
+1430,38,Male,5,60.92,Two-Year,Fiber Optic,304.6,No,No,0.2305356120474048,Low Risk
+1431,45,Male,0,76.05,One-Year,Fiber Optic,0.0,No,No,0.5980903184473384,Medium Risk
+1432,51,Female,0,47.43,Month-to-Month,DSL,0.0,No,No,0.2483523743078287,Low Risk
+1433,52,Male,72,76.37,Month-to-Month,Fiber Optic,5498.64,No,Yes,0.2763898684010713,Low Risk
+1434,35,Male,6,73.67,Month-to-Month,Fiber Optic,442.02,No,No,0.632369974899344,Medium Risk
+1435,39,Male,26,67.04,Two-Year,Fiber Optic,1743.04,No,No,0.12248967554098275,Low Risk
+1436,45,Male,43,87.14,Two-Year,Fiber Optic,3747.02,Yes,No,0.049953610448110176,Low Risk
+1437,39,Male,19,61.03,Two-Year,DSL,1159.57,Yes,No,0.02231707156635215,Low Risk
+1438,61,Male,3,93.06,Month-to-Month,Fiber Optic,279.18,Yes,No,0.44181140727430784,Medium Risk
+1439,47,Male,31,90.19,Month-to-Month,Fiber Optic,2795.89,Yes,No,0.4245227152570566,Medium Risk
+1440,50,Male,22,44.24,Month-to-Month,None,973.28,Yes,No,0.15828540455077897,Low Risk
+1441,49,Male,31,41.5,Month-to-Month,None,1286.5,No,Yes,0.6765314913958919,Medium Risk
+1442,56,Male,35,67.79,Month-to-Month,Fiber Optic,2372.65,No,No,0.46197098504279366,Medium Risk
+1443,44,Female,72,55.3,Two-Year,DSL,3981.6,No,No,0.02571125640396699,Low Risk
+1444,26,Female,20,58.28,Month-to-Month,DSL,1165.6,No,No,0.3091424482791123,Low Risk
+1445,46,Female,10,52.6,Month-to-Month,DSL,526.0,No,Yes,0.5415720666305148,Medium Risk
+1446,34,Female,25,83.15,Month-to-Month,Fiber Optic,2078.75,No,No,0.4971076345525077,Medium Risk
+1447,35,Male,1,41.18,Two-Year,DSL,41.18,No,No,0.465014198302241,Medium Risk
+1448,49,Female,54,83.02,One-Year,Fiber Optic,4483.08,Yes,No,0.07934298840588483,Low Risk
+1449,56,Female,3,46.51,One-Year,DSL,139.53,No,No,0.28982364349384854,Low Risk
+1450,42,Male,9,28.85,Two-Year,None,259.65,No,No,0.04395314885846474,Low Risk
+1451,45,Female,40,64.43,Month-to-Month,DSL,2577.2,Yes,No,0.09257357723485772,Low Risk
+1452,62,Female,21,30.56,One-Year,None,641.76,No,No,0.2573217879843576,Low Risk
+1453,44,Male,12,29.07,Month-to-Month,None,348.84,No,Yes,0.4774668394242559,Medium Risk
+1454,73,Male,15,87.6,Month-to-Month,Fiber Optic,1314.0,Yes,Yes,0.7663552469524187,High Risk
+1455,48,Male,46,69.25,Two-Year,Fiber Optic,3185.5,No,No,0.23277154292533098,Low Risk
+1456,20,Female,9,84.22,One-Year,Fiber Optic,757.98,Yes,Yes,0.19108319325958253,Low Risk
+1457,51,Female,48,84.56,Month-to-Month,Fiber Optic,4058.88,Yes,No,0.08496912168012695,Low Risk
+1458,46,Male,2,69.01,Month-to-Month,DSL,138.02,No,No,0.49851988276500026,Medium Risk
+1459,57,Male,35,52.56,Month-to-Month,DSL,1839.6,No,Yes,0.5417597994422192,Medium Risk
+1460,50,Female,45,63.91,Month-to-Month,Fiber Optic,2875.95,No,Yes,0.6123482284071939,Medium Risk
+1461,40,Male,4,70.79,Month-to-Month,Fiber Optic,283.16,No,No,0.7749378195819134,High Risk
+1462,27,Female,13,83.66,Month-to-Month,Fiber Optic,1087.58,Yes,No,0.3576081692145855,Low Risk
+1463,39,Male,4,59.13,Month-to-Month,DSL,236.52,No,Yes,0.8120948529310007,High Risk
+1464,31,Male,29,68.95,Two-Year,Fiber Optic,1999.55,No,No,0.10878848625664686,Low Risk
+1465,35,Female,18,56.99,Month-to-Month,DSL,1025.82,No,No,0.4556306623814644,Medium Risk
+1466,49,Male,24,68.15,Month-to-Month,DSL,1635.6,Yes,Yes,0.5924935464910057,Medium Risk
+1467,62,Male,5,53.6,Month-to-Month,DSL,268.0,No,Yes,0.6454803111574694,Medium Risk
+1468,46,Male,5,47.83,Two-Year,DSL,239.15,No,No,0.16692277313145026,Low Risk
+1469,27,Female,1,54.59,Month-to-Month,DSL,54.59,No,Yes,0.7622404659189231,High Risk
+1470,47,Male,9,34.18,Month-to-Month,None,307.62,No,Yes,0.29099209125205405,Low Risk
+1471,56,Male,19,71.68,Month-to-Month,DSL,1361.92,Yes,No,0.3484226003069088,Low Risk
+1472,34,Male,46,73.63,One-Year,Fiber Optic,3386.98,No,No,0.02043384877806,Low Risk
+1473,40,Male,26,54.62,One-Year,DSL,1420.12,No,Yes,0.5863840249181284,Medium Risk
+1474,42,Male,13,44.48,Two-Year,None,578.24,Yes,No,0.031597187157010716,Low Risk
+1475,32,Male,72,68.8,Two-Year,Fiber Optic,4953.6,No,No,0.13296435074743504,Low Risk
+1476,49,Female,30,53.95,One-Year,DSL,1618.5,No,Yes,0.5677832125022614,Medium Risk
+1477,40,Female,63,76.9,One-Year,Fiber Optic,4844.7,No,No,0.05857989239172177,Low Risk
+1478,47,Male,17,71.67,Month-to-Month,Fiber Optic,1218.39,No,Yes,0.7350887596228524,Medium Risk
+1479,31,Female,7,85.72,Month-to-Month,Fiber Optic,600.04,Yes,Yes,0.6801528557668661,Medium Risk
+1480,36,Female,1,44.16,Two-Year,DSL,44.16,No,No,0.056896565399318574,Low Risk
+1481,50,Male,31,30.91,Month-to-Month,None,958.21,No,Yes,0.8670447391921514,High Risk
+1482,37,Female,3,80.73,Month-to-Month,Fiber Optic,242.19,Yes,Yes,0.6714082620189931,Medium Risk
+1483,62,Female,8,68.7,One-Year,DSL,549.6,Yes,No,0.10905363506407512,Low Risk
+1484,37,Female,18,89.45,Month-to-Month,Fiber Optic,1610.1,Yes,No,0.6018411074832365,Medium Risk
+1485,44,Female,19,76.64,One-Year,Fiber Optic,1456.16,No,No,0.5011174359617794,Medium Risk
+1486,53,Female,22,25.31,One-Year,None,556.82,No,No,0.2980175960652881,Low Risk
+1487,24,Female,4,73.98,Month-to-Month,Fiber Optic,295.92,No,No,0.6267996532272214,Medium Risk
+1488,20,Female,11,72.55,Two-Year,Fiber Optic,798.05,No,No,0.11266130733248865,Low Risk
+1489,23,Female,23,61.92,Month-to-Month,DSL,1424.16,No,No,0.33047212490129413,Low Risk
+1490,57,Male,72,41.6,Month-to-Month,None,2995.2,Yes,No,0.12023959265999594,Low Risk
+1491,35,Male,31,75.91,Month-to-Month,Fiber Optic,2353.21,No,Yes,0.7622171218320766,High Risk
+1492,72,Female,61,53.65,One-Year,DSL,3272.65,No,No,0.07550470105408155,Low Risk
+1493,35,Female,34,54.02,One-Year,DSL,1836.68,No,No,0.24702060525008523,Low Risk
+1494,44,Male,21,53.69,Month-to-Month,DSL,1127.49,No,No,0.38895179423621584,Low Risk
+1495,60,Female,5,34.59,One-Year,None,172.95,No,No,0.2255797570130207,Low Risk
+1496,66,Female,26,45.55,Month-to-Month,DSL,1184.3,No,No,0.40913147772636616,Medium Risk
+1497,66,Male,23,79.1,Two-Year,Fiber Optic,1819.3,Yes,No,0.22441218589199885,Low Risk
+1498,56,Male,22,57.24,Month-to-Month,DSL,1259.28,No,No,0.47478471965139507,Medium Risk
+1499,54,Male,16,87.67,One-Year,Fiber Optic,1402.72,Yes,No,0.25570737741088034,Low Risk
+1500,49,Female,18,96.76,Month-to-Month,Fiber Optic,1741.68,Yes,No,0.29431258223032397,Low Risk
+1501,51,Female,9,35.99,Month-to-Month,None,323.91,No,No,0.24199611209886918,Low Risk
+1502,35,Male,17,88.57,Month-to-Month,Fiber Optic,1505.69,Yes,No,0.554098412839723,Medium Risk
+1503,32,Male,5,46.35,Two-Year,None,231.75,Yes,No,0.06413332399319549,Low Risk
+1504,41,Female,39,86.43,Month-to-Month,Fiber Optic,3370.77,Yes,No,0.3018201407245727,Low Risk
+1505,39,Male,4,53.69,Two-Year,DSL,214.76,No,Yes,0.6410019764796456,Medium Risk
+1506,36,Female,2,64.05,Month-to-Month,DSL,128.1,No,No,0.596156128894034,Medium Risk
+1507,50,Female,13,81.07,Month-to-Month,Fiber Optic,1053.91,No,Yes,0.4956264629583845,Medium Risk
+1508,53,Male,25,45.53,Month-to-Month,None,1138.25,Yes,No,0.18582656888513724,Low Risk
+1509,43,Male,13,25.51,Two-Year,None,331.63,No,No,0.015719254564040448,Low Risk
+1510,59,Female,7,47.36,Month-to-Month,DSL,331.52,No,No,0.29437123536225024,Low Risk
+1511,28,Male,19,64.4,Two-Year,DSL,1223.6,Yes,No,0.03538693258364143,Low Risk
+1512,39,Male,10,44.48,Two-Year,DSL,444.8,No,No,0.04578516100232473,Low Risk
+1513,33,Male,64,23.43,Two-Year,None,1499.52,No,No,0.048226036990595286,Low Risk
+1514,19,Male,61,39.05,Month-to-Month,None,2382.05,Yes,No,0.11784505548888508,Low Risk
+1515,41,Female,16,69.06,One-Year,Fiber Optic,1104.96,No,No,0.51557905125608,Medium Risk
+1516,40,Female,9,71.12,One-Year,Fiber Optic,640.08,No,No,0.521769931442349,Medium Risk
+1517,60,Female,32,91.37,Month-to-Month,Fiber Optic,2923.84,Yes,No,0.40908303007666724,Medium Risk
+1518,49,Female,0,82.65,One-Year,Fiber Optic,0.0,Yes,No,0.22619393010140432,Low Risk
+1519,29,Male,15,75.35,Month-to-Month,DSL,1130.25,Yes,No,0.27523624259029134,Low Risk
+1520,64,Male,9,88.96,Month-to-Month,Fiber Optic,800.64,Yes,Yes,0.6898804900202002,Medium Risk
+1521,56,Female,60,51.06,Month-to-Month,DSL,3063.6,No,No,0.10822596398084866,Low Risk
+1522,48,Female,0,56.13,Month-to-Month,DSL,0.0,No,Yes,0.7024877932401432,Medium Risk
+1523,39,Male,19,54.82,Month-to-Month,None,1041.58,Yes,No,0.20615401367503355,Low Risk
+1524,30,Female,32,76.68,Month-to-Month,Fiber Optic,2453.76,No,Yes,0.7621744793535974,High Risk
+1525,37,Female,15,83.78,One-Year,Fiber Optic,1256.7,Yes,No,0.11551755327670023,Low Risk
+1526,55,Male,2,82.36,Month-to-Month,Fiber Optic,164.72,Yes,No,0.3614448224863374,Low Risk
+1527,64,Female,72,88.9,Month-to-Month,Fiber Optic,6400.8,Yes,No,0.28440611860498516,Low Risk
+1528,60,Male,17,76.17,Month-to-Month,Fiber Optic,1294.89,No,No,0.6036222856464439,Medium Risk
+1529,36,Male,22,69.41,One-Year,Fiber Optic,1527.02,No,No,0.37159450685188733,Low Risk
+1530,28,Female,6,77.59,One-Year,Fiber Optic,465.54,Yes,No,0.21558008618411073,Low Risk
+1531,43,Male,15,81.46,One-Year,Fiber Optic,1221.9,Yes,No,0.1355206725345678,Low Risk
+1532,20,Female,13,59.16,One-Year,DSL,769.08,No,No,0.21992175400127412,Low Risk
+1533,45,Male,1,62.17,Month-to-Month,DSL,62.17,No,No,0.5781038007249493,Medium Risk
+1534,40,Female,2,81.29,One-Year,Fiber Optic,162.58,Yes,No,0.09319968229132926,Low Risk
+1535,36,Female,43,73.36,Month-to-Month,DSL,3154.48,Yes,No,0.023351947335174282,Low Risk
+1536,22,Female,6,69.11,Month-to-Month,Fiber Optic,414.66,No,Yes,0.6249588062428257,Medium Risk
+1537,48,Male,5,58.92,One-Year,DSL,294.6,No,No,0.48711157893621404,Medium Risk
+1538,35,Male,16,71.23,Month-to-Month,DSL,1139.68,Yes,No,0.28508432733505623,Low Risk
+1539,27,Female,35,75.76,One-Year,Fiber Optic,2651.6,No,Yes,0.6313510962874742,Medium Risk
+1540,18,Male,1,20.35,One-Year,None,20.35,No,Yes,0.5990539002848931,Medium Risk
+1541,41,Female,20,58.39,Month-to-Month,DSL,1167.8,No,No,0.47189545239882463,Medium Risk
+1542,63,Female,3,74.96,Month-to-Month,Fiber Optic,224.88,No,No,0.49278240627779313,Medium Risk
+1543,61,Male,0,79.26,Month-to-Month,Fiber Optic,0.0,No,Yes,0.7470883577468499,Medium Risk
+1544,36,Female,1,53.62,Two-Year,DSL,53.62,No,No,0.11593569028802113,Low Risk
+1545,34,Male,43,85.81,One-Year,Fiber Optic,3689.83,Yes,No,0.02556677906279826,Low Risk
+1546,47,Female,3,87.0,Month-to-Month,Fiber Optic,261.0,Yes,Yes,0.6752102478519818,Medium Risk
+1547,30,Male,1,78.9,Month-to-Month,Fiber Optic,78.9,No,No,0.6538057068779985,Medium Risk
+1548,45,Female,13,42.46,One-Year,None,551.98,Yes,No,0.056372095459977845,Low Risk
+1549,51,Female,44,45.57,Two-Year,DSL,2005.08,No,No,0.03840823965518027,Low Risk
+1550,56,Male,7,50.4,Month-to-Month,DSL,352.8,No,Yes,0.3441192593167329,Low Risk
+1551,40,Female,13,22.61,Month-to-Month,None,293.93,No,No,0.24117476626727796,Low Risk
+1552,39,Female,0,65.2,Two-Year,Fiber Optic,0.0,No,Yes,0.48082506069892444,Medium Risk
+1553,31,Male,14,95.51,Month-to-Month,Fiber Optic,1337.14,Yes,Yes,0.6313965609631738,Medium Risk
+1554,32,Female,20,75.89,Month-to-Month,Fiber Optic,1517.8,No,No,0.6562143802141481,Medium Risk
+1555,39,Male,20,47.12,Two-Year,DSL,942.4,No,No,0.019583232111639124,Low Risk
+1556,46,Female,9,89.32,One-Year,Fiber Optic,803.88,Yes,No,0.2567862695883268,Low Risk
+1557,52,Male,9,50.84,Month-to-Month,DSL,457.56,No,No,0.3169376068102545,Low Risk
+1558,32,Female,2,70.48,Month-to-Month,DSL,140.96,Yes,No,0.2518213436788121,Low Risk
+1559,59,Female,10,54.1,Month-to-Month,DSL,541.0,No,Yes,0.6170524649062021,Medium Risk
+1560,38,Female,2,33.9,Month-to-Month,None,67.8,No,Yes,0.6245559522432077,Medium Risk
+1561,41,Male,34,55.9,Two-Year,DSL,1900.6,Yes,No,0.014675796705156164,Low Risk
+1562,33,Male,72,70.75,Month-to-Month,Fiber Optic,5094.0,No,No,0.13467168953957157,Low Risk
+1563,18,Male,72,20.72,One-Year,None,1491.84,No,No,0.16134077557605614,Low Risk
+1564,52,Male,48,79.83,Two-Year,Fiber Optic,3831.84,Yes,No,0.0665464944746012,Low Risk
+1565,50,Female,22,96.06,Month-to-Month,Fiber Optic,2113.32,Yes,No,0.3200960553918008,Low Risk
+1566,38,Female,28,72.47,Month-to-Month,Fiber Optic,2029.16,No,No,0.5920533531650107,Medium Risk
+1567,42,Male,8,52.45,Month-to-Month,DSL,419.6,No,No,0.3902298856958145,Low Risk
+1568,48,Male,23,71.42,Two-Year,Fiber Optic,1642.66,No,No,0.05152836208337904,Low Risk
+1569,23,Male,14,72.31,Two-Year,Fiber Optic,1012.34,No,No,0.20105472166438737,Low Risk
+1570,35,Female,15,29.56,Month-to-Month,None,443.4,No,No,0.21917401625122068,Low Risk
+1571,51,Male,34,31.75,One-Year,None,1079.5,No,Yes,0.617680651762847,Medium Risk
+1572,26,Male,7,23.38,One-Year,None,163.66,No,No,0.18693061321725435,Low Risk
+1573,45,Female,9,33.2,Two-Year,None,298.8,No,No,0.03749393263918658,Low Risk
+1574,25,Female,62,100.74,Month-to-Month,Fiber Optic,6245.88,Yes,No,0.49237056601704565,Medium Risk
+1575,47,Male,1,92.61,Month-to-Month,Fiber Optic,92.61,Yes,No,0.27269898137225823,Low Risk
+1576,41,Female,15,20.0,Two-Year,None,300.0,No,No,0.054750737877594116,Low Risk
+1577,22,Male,58,87.21,Month-to-Month,Fiber Optic,5058.18,Yes,No,0.06846273260351228,Low Risk
+1578,55,Female,22,33.06,Month-to-Month,None,727.32,No,Yes,0.6054955196128505,Medium Risk
+1579,33,Male,18,72.89,Month-to-Month,Fiber Optic,1312.02,No,Yes,0.7324712452465911,Medium Risk
+1580,32,Male,6,96.36,Month-to-Month,Fiber Optic,578.16,Yes,No,0.5243286937745486,Medium Risk
+1581,44,Male,10,77.94,Month-to-Month,Fiber Optic,779.4,No,No,0.5564172845106836,Medium Risk
+1582,55,Male,45,23.82,Two-Year,None,1071.9,No,No,0.053395819799163136,Low Risk
+1583,29,Female,19,55.16,Month-to-Month,DSL,1048.04,No,No,0.293541153996741,Low Risk
+1584,42,Female,17,85.53,Month-to-Month,Fiber Optic,1454.01,Yes,Yes,0.5081416469158305,Medium Risk
+1585,47,Female,2,84.63,One-Year,Fiber Optic,169.26,Yes,Yes,0.13285676175263128,Low Risk
+1586,50,Female,0,52.23,Month-to-Month,DSL,0.0,No,No,0.3558795409986449,Low Risk
+1587,44,Male,72,80.87,Month-to-Month,Fiber Optic,5822.64,No,No,0.30295380516936404,Low Risk
+1588,37,Male,11,95.55,One-Year,Fiber Optic,1051.05,Yes,No,0.21087181752977863,Low Risk
+1589,32,Female,22,74.56,Two-Year,Fiber Optic,1640.32,Yes,No,0.12180855775217285,Low Risk
+1590,43,Female,1,43.11,One-Year,DSL,43.11,No,No,0.25457794715119636,Low Risk
+1591,29,Female,27,70.09,One-Year,Fiber Optic,1892.43,No,Yes,0.45498235533173925,Medium Risk
+1592,18,Female,64,67.41,Month-to-Month,Fiber Optic,4314.24,No,No,0.08470423687374726,Low Risk
+1593,47,Female,20,67.71,Two-Year,Fiber Optic,1354.2,No,No,0.1176492917215184,Low Risk
+1594,52,Male,3,58.74,Month-to-Month,DSL,176.22,No,No,0.5755160658786719,Medium Risk
+1595,18,Male,20,49.85,One-Year,None,997.0,Yes,No,0.0730872882956729,Low Risk
+1596,29,Male,34,76.01,Month-to-Month,Fiber Optic,2584.34,No,Yes,0.7072520526969907,Medium Risk
+1597,49,Female,12,80.13,Two-Year,Fiber Optic,961.56,Yes,No,0.04106731982561369,Low Risk
+1598,66,Female,50,61.85,One-Year,Fiber Optic,3092.5,No,No,0.14187377933026182,Low Risk
+1599,42,Female,25,71.37,One-Year,Fiber Optic,1784.25,No,No,0.45041787709289804,Medium Risk
+1600,33,Female,55,90.36,Month-to-Month,Fiber Optic,4969.8,Yes,No,0.1455886340281463,Low Risk
+1601,39,Male,23,78.19,Month-to-Month,Fiber Optic,1798.37,No,Yes,0.5477731965039646,Medium Risk
+1602,58,Male,3,67.88,One-Year,Fiber Optic,203.64,No,No,0.3995113285695623,Low Risk
+1603,34,Female,8,83.43,One-Year,Fiber Optic,667.44,Yes,No,0.16495114219588536,Low Risk
+1604,32,Male,5,67.61,Month-to-Month,Fiber Optic,338.05,No,Yes,0.7661211614264498,High Risk
+1605,36,Male,57,52.69,Two-Year,DSL,3003.33,Yes,No,0.01,Low Risk
+1606,30,Female,34,62.51,Two-Year,Fiber Optic,2125.34,No,No,0.14963999266373146,Low Risk
+1607,43,Female,27,47.15,Month-to-Month,DSL,1273.05,No,No,0.2344474872461322,Low Risk
+1608,61,Female,8,64.52,Two-Year,DSL,516.16,Yes,No,0.026413902635125188,Low Risk
+1609,45,Female,4,27.41,Month-to-Month,None,109.64,No,Yes,0.6745217273735782,Medium Risk
+1610,38,Female,33,87.31,Month-to-Month,Fiber Optic,2881.23,Yes,Yes,0.6125610969921538,Medium Risk
+1611,38,Female,15,70.08,Month-to-Month,Fiber Optic,1051.2,No,Yes,0.6411063678615058,Medium Risk
+1612,23,Male,6,55.9,One-Year,Fiber Optic,335.4,No,No,0.4335754681483542,Medium Risk
+1613,52,Male,23,49.91,One-Year,None,1147.93,Yes,No,0.09282372487895284,Low Risk
+1614,41,Female,0,85.0,Month-to-Month,Fiber Optic,0.0,Yes,No,0.4932148951678531,Medium Risk
+1615,39,Male,9,69.29,One-Year,Fiber Optic,623.61,No,Yes,0.6141629465179259,Medium Risk
+1616,80,Female,15,64.34,One-Year,Fiber Optic,965.1,No,Yes,0.6859862838876348,Medium Risk
+1617,45,Female,3,47.37,One-Year,None,142.11,Yes,No,0.07668740589690295,Low Risk
+1618,32,Female,72,30.72,Month-to-Month,None,2211.84,No,Yes,0.3414522025744162,Low Risk
+1619,36,Female,5,36.78,Two-Year,None,183.9,Yes,No,0.03670581494167336,Low Risk
+1620,55,Male,3,68.04,Month-to-Month,DSL,204.12,Yes,No,0.47535911275503034,Medium Risk
+1621,43,Female,5,63.39,Month-to-Month,DSL,316.95,No,No,0.5732030197569632,Medium Risk
+1622,24,Male,35,69.64,Month-to-Month,DSL,2437.4,Yes,Yes,0.7173672953351388,Medium Risk
+1623,53,Female,13,54.09,Month-to-Month,DSL,703.17,No,Yes,0.47383246808302554,Medium Risk
+1624,33,Female,20,22.76,Two-Year,None,455.2,No,No,0.1480121641804424,Low Risk
+1625,64,Female,0,45.53,Month-to-Month,DSL,0.0,No,No,0.23177781119348456,Low Risk
+1626,54,Male,0,51.49,One-Year,DSL,0.0,No,No,0.33392407297563836,Low Risk
+1627,36,Female,14,56.63,Month-to-Month,DSL,792.82,No,No,0.4817941289052735,Medium Risk
+1628,57,Female,40,60.5,Month-to-Month,DSL,2420.0,No,Yes,0.620880718382026,Medium Risk
+1629,42,Female,51,39.38,Two-Year,DSL,2008.38,No,No,0.01283287610900976,Low Risk
+1630,52,Male,2,65.91,One-Year,Fiber Optic,131.82,No,No,0.410859854202386,Medium Risk
+1631,47,Male,18,72.1,Month-to-Month,Fiber Optic,1297.8,No,No,0.6930403864326101,Medium Risk
+1632,31,Male,58,69.98,Month-to-Month,DSL,4058.84,Yes,No,0.06262914822652098,Low Risk
+1633,34,Female,11,74.27,Month-to-Month,Fiber Optic,816.97,No,No,0.582107729210051,Medium Risk
+1634,54,Male,42,74.39,Month-to-Month,Fiber Optic,3124.38,No,No,0.1932253270671097,Low Risk
+1635,37,Female,3,54.19,One-Year,DSL,162.57,No,Yes,0.6563953965163651,Medium Risk
+1636,37,Male,65,66.96,One-Year,Fiber Optic,4352.4,No,No,0.02846749534150049,Low Risk
+1637,30,Male,33,79.67,Month-to-Month,Fiber Optic,2629.11,No,Yes,0.662132334230284,Medium Risk
+1638,47,Female,68,69.45,Two-Year,Fiber Optic,4722.6,No,No,0.1771151408199682,Low Risk
+1639,66,Male,27,83.98,One-Year,Fiber Optic,2267.46,Yes,No,0.22380464735822478,Low Risk
+1640,29,Female,10,63.0,Month-to-Month,DSL,630.0,No,No,0.4773475275185002,Medium Risk
+1641,42,Female,66,52.78,Month-to-Month,None,3483.48,Yes,No,0.02313843580553018,Low Risk
+1642,58,Male,7,32.93,One-Year,None,230.51,No,No,0.24948638580316015,Low Risk
+1643,41,Female,9,20.0,One-Year,None,180.0,No,Yes,0.6116115437421474,Medium Risk
+1644,47,Female,28,77.89,Month-to-Month,DSL,2180.92,Yes,No,0.25220993921736595,Low Risk
+1645,29,Male,34,48.97,Month-to-Month,None,1664.98,Yes,Yes,0.5519982984873737,Medium Risk
+1646,47,Male,63,40.03,Month-to-Month,None,2521.89,No,No,0.3483879265928401,Low Risk
+1647,39,Female,5,46.07,Two-Year,None,230.35,Yes,No,0.023073443443777236,Low Risk
+1648,53,Male,38,77.89,Month-to-Month,DSL,2959.82,Yes,No,0.13676935581848867,Low Risk
+1649,56,Female,32,79.39,Month-to-Month,Fiber Optic,2540.48,No,Yes,0.6027170550543156,Medium Risk
+1650,73,Female,1,49.16,One-Year,None,49.16,Yes,No,0.11863817588498785,Low Risk
+1651,48,Male,11,76.47,Two-Year,Fiber Optic,841.17,No,No,0.06887893551723538,Low Risk
+1652,45,Male,7,68.47,Two-Year,Fiber Optic,479.29,No,No,0.11147837397739535,Low Risk
+1653,44,Male,8,37.14,Month-to-Month,None,297.12,Yes,Yes,0.562976035999288,Medium Risk
+1654,37,Male,72,88.46,Month-to-Month,Fiber Optic,6369.12,Yes,No,0.1737394028597553,Low Risk
+1655,46,Female,24,76.95,Month-to-Month,Fiber Optic,1846.8,No,No,0.5846259670261711,Medium Risk
+1656,38,Female,30,75.37,Month-to-Month,Fiber Optic,2261.1,No,Yes,0.7328588383427845,Medium Risk
+1657,44,Male,72,21.39,Two-Year,None,1540.08,No,No,0.017760022882760875,Low Risk
+1658,57,Male,11,46.84,Month-to-Month,DSL,515.24,No,No,0.3977115571992844,Low Risk
+1659,29,Female,38,71.29,Month-to-Month,Fiber Optic,2709.02,No,No,0.4161344000957621,Medium Risk
+1660,55,Female,13,94.04,Month-to-Month,Fiber Optic,1222.52,Yes,No,0.32738866267380623,Low Risk
+1661,57,Female,48,97.9,Month-to-Month,Fiber Optic,4699.2,Yes,No,0.19898174290222342,Low Risk
+1662,40,Female,4,89.85,One-Year,Fiber Optic,359.4,Yes,No,0.1713012536382145,Low Risk
+1663,18,Male,70,50.29,Month-to-Month,None,3520.3,Yes,Yes,0.15424282565000225,Low Risk
+1664,34,Female,5,29.6,Month-to-Month,None,148.0,No,No,0.27038368198183216,Low Risk
+1665,57,Female,9,46.29,Month-to-Month,DSL,416.61,No,Yes,0.5081569322151617,Medium Risk
+1666,41,Male,33,87.72,Month-to-Month,Fiber Optic,2894.76,Yes,No,0.410316917754339,Medium Risk
+1667,30,Female,12,53.71,Month-to-Month,DSL,644.52,No,No,0.340412887142903,Low Risk
+1668,35,Female,22,64.14,One-Year,DSL,1411.08,Yes,No,0.03609626405671387,Low Risk
+1669,52,Male,14,71.51,One-Year,Fiber Optic,1001.14,No,Yes,0.6901568846228711,Medium Risk
+1670,48,Male,32,30.6,One-Year,None,979.2,No,No,0.4057705008154484,Medium Risk
+1671,39,Male,6,30.84,Two-Year,None,185.04,No,No,0.14248921980675353,Low Risk
+1672,37,Female,1,48.25,Two-Year,DSL,48.25,No,No,0.07062585536128432,Low Risk
+1673,37,Female,8,54.43,Two-Year,DSL,435.44,Yes,No,0.026726621187528887,Low Risk
+1674,30,Male,15,72.59,Month-to-Month,Fiber Optic,1088.85,No,No,0.6291158402981712,Medium Risk
+1675,61,Male,4,75.22,Month-to-Month,Fiber Optic,300.88,No,No,0.5868966217125572,Medium Risk
+1676,38,Female,10,61.11,Month-to-Month,DSL,611.1,No,Yes,0.6138317632903726,Medium Risk
+1677,56,Male,12,24.44,Two-Year,None,293.28,No,No,0.019495487893648522,Low Risk
+1678,60,Male,1,29.31,Two-Year,None,29.31,No,No,0.44964424472136727,Medium Risk
+1679,53,Male,21,68.81,Two-Year,Fiber Optic,1445.01,No,No,0.1460482683363462,Low Risk
+1680,36,Female,51,30.22,Month-to-Month,None,1541.22,No,No,0.17469917836721266,Low Risk
+1681,46,Female,3,85.19,Two-Year,Fiber Optic,255.57,Yes,No,0.18106850883759648,Low Risk
+1682,41,Female,21,71.7,Month-to-Month,Fiber Optic,1505.7,No,No,0.6332306289092279,Medium Risk
+1683,31,Female,26,72.12,Month-to-Month,Fiber Optic,1875.12,No,Yes,0.5860381542254838,Medium Risk
+1684,45,Female,13,54.94,Month-to-Month,DSL,714.22,No,No,0.48626681455578513,Medium Risk
+1685,27,Female,28,41.8,Month-to-Month,None,1170.4,Yes,No,0.25560032381294656,Low Risk
+1686,56,Male,12,77.54,Month-to-Month,Fiber Optic,930.48,No,Yes,0.6006224008902677,Medium Risk
+1687,36,Female,16,86.43,Month-to-Month,Fiber Optic,1382.88,Yes,Yes,0.6411515494705102,Medium Risk
+1688,44,Female,0,76.13,Month-to-Month,Fiber Optic,0.0,No,No,0.6147275590144047,Medium Risk
+1689,45,Male,28,51.77,One-Year,DSL,1449.56,No,No,0.22458955399477049,Low Risk
+1690,38,Female,25,50.47,Two-Year,DSL,1261.75,No,No,0.02074623819221324,Low Risk
+1691,49,Female,0,69.07,One-Year,Fiber Optic,0.0,No,Yes,0.8967731492763147,High Risk
+1692,36,Male,11,88.3,Month-to-Month,Fiber Optic,971.3,Yes,No,0.475919772702925,Medium Risk
+1693,52,Male,72,63.43,Two-Year,DSL,4566.96,Yes,No,0.03372701342304489,Low Risk
+1694,25,Male,13,68.41,Two-Year,Fiber Optic,889.33,No,Yes,0.5093629588323613,Medium Risk
+1695,43,Female,16,89.98,Month-to-Month,Fiber Optic,1439.68,Yes,Yes,0.6409854306798631,Medium Risk
+1696,65,Male,57,83.53,Month-to-Month,Fiber Optic,4761.21,No,No,0.14268615646456065,Low Risk
+1697,29,Female,30,85.05,Month-to-Month,Fiber Optic,2551.5,Yes,No,0.3543927686254626,Low Risk
+1698,33,Female,20,29.68,Month-to-Month,None,593.6,No,No,0.3414885555821395,Low Risk
+1699,48,Female,38,63.78,One-Year,Fiber Optic,2423.64,No,No,0.4086986194163246,Medium Risk
+1700,44,Female,47,82.67,Two-Year,Fiber Optic,3885.49,Yes,No,0.02646767696140927,Low Risk
+1701,46,Male,14,64.42,Month-to-Month,DSL,901.88,Yes,No,0.3300919936612912,Low Risk
+1702,47,Male,15,48.25,Two-Year,DSL,723.75,No,No,0.020671609008762925,Low Risk
+1703,49,Female,11,47.83,Two-Year,DSL,526.13,No,No,0.027382436389178224,Low Risk
+1704,55,Male,72,68.76,Two-Year,Fiber Optic,4950.72,No,No,0.2885358096952112,Low Risk
+1705,46,Female,28,52.24,Month-to-Month,DSL,1462.72,No,No,0.25271236299306077,Low Risk
+1706,39,Female,2,46.82,Two-Year,DSL,93.64,No,No,0.10581503874096669,Low Risk
+1707,50,Female,47,97.18,Month-to-Month,Fiber Optic,4567.46,Yes,No,0.15726590724489908,Low Risk
+1708,64,Male,15,53.6,One-Year,DSL,804.0,No,No,0.3357375364953847,Low Risk
+1709,40,Female,1,67.19,Month-to-Month,DSL,67.19,Yes,No,0.31622537825622327,Low Risk
+1710,30,Female,19,68.75,Month-to-Month,DSL,1306.25,Yes,No,0.2454495421585108,Low Risk
+1711,55,Male,12,79.07,One-Year,Fiber Optic,948.84,No,No,0.3525319386002718,Low Risk
+1712,40,Male,50,68.82,Month-to-Month,DSL,3441.0,Yes,No,0.03248286228255086,Low Risk
+1713,18,Male,5,86.55,Month-to-Month,Fiber Optic,432.75,Yes,No,0.6013742654602485,Medium Risk
+1714,52,Male,42,86.58,Month-to-Month,Fiber Optic,3636.36,Yes,No,0.20890086152415127,Low Risk
+1715,35,Female,19,68.64,One-Year,Fiber Optic,1304.16,No,No,0.497799177441139,Medium Risk
+1716,40,Male,1,72.03,Month-to-Month,Fiber Optic,72.03,No,Yes,0.8536805862050331,High Risk
+1717,45,Female,72,21.24,Two-Year,None,1529.28,No,No,0.05240383188683787,Low Risk
+1718,44,Male,17,49.38,Month-to-Month,DSL,839.46,No,No,0.3832455703854691,Low Risk
+1719,50,Male,8,50.85,Month-to-Month,DSL,406.8,No,No,0.28623268697610227,Low Risk
+1720,36,Male,15,72.96,Month-to-Month,DSL,1094.4,Yes,No,0.2538655489622621,Low Risk
+1721,48,Male,46,53.09,Month-to-Month,DSL,2442.14,No,Yes,0.5477868316587476,Medium Risk
+1722,38,Male,8,68.96,Month-to-Month,DSL,551.68,Yes,No,0.35900742990846707,Low Risk
+1723,50,Male,5,76.35,Month-to-Month,DSL,381.75,Yes,Yes,0.6343714581571274,Medium Risk
+1724,49,Female,3,86.83,Two-Year,Fiber Optic,260.49,Yes,No,0.2974468882648567,Low Risk
+1725,30,Male,8,69.91,One-Year,Fiber Optic,559.28,No,No,0.4682930196008214,Medium Risk
+1726,55,Male,36,86.85,Month-to-Month,Fiber Optic,3126.6,Yes,Yes,0.540583306291838,Medium Risk
+1727,35,Male,15,85.68,Month-to-Month,Fiber Optic,1285.2,Yes,Yes,0.604091847829963,Medium Risk
+1728,51,Male,6,66.12,Two-Year,DSL,396.72,Yes,No,0.06794860958427057,Low Risk
+1729,46,Female,4,68.98,Month-to-Month,DSL,275.92,Yes,No,0.4520253393466385,Medium Risk
+1730,64,Male,9,73.07,Month-to-Month,Fiber Optic,657.63,No,Yes,0.6465539570531873,Medium Risk
+1731,39,Male,67,48.39,One-Year,DSL,3242.13,No,No,0.03543553339976496,Low Risk
+1732,37,Male,10,48.59,One-Year,DSL,485.9,No,No,0.24262477239564745,Low Risk
+1733,41,Male,72,87.02,One-Year,Fiber Optic,6265.44,Yes,No,0.1439089800331061,Low Risk
+1734,38,Female,15,38.42,Month-to-Month,None,576.3,Yes,No,0.09409382302975723,Low Risk
+1735,51,Male,4,79.97,Month-to-Month,Fiber Optic,319.88,No,Yes,0.7259592912738314,Medium Risk
+1736,22,Female,53,63.96,One-Year,DSL,3389.88,Yes,No,0.0360322917141961,Low Risk
+1737,29,Male,14,29.25,Month-to-Month,None,409.5,No,No,0.23273029893196193,Low Risk
+1738,29,Female,29,83.32,Month-to-Month,Fiber Optic,2416.28,Yes,No,0.3426506072175709,Low Risk
+1739,53,Female,72,74.94,Month-to-Month,Fiber Optic,5395.68,No,No,0.22708135128051926,Low Risk
+1740,62,Male,1,43.36,Month-to-Month,None,43.36,Yes,No,0.23195385128963128,Low Risk
+1741,40,Male,2,67.27,Two-Year,Fiber Optic,134.54,No,Yes,0.6018293696738345,Medium Risk
+1742,39,Female,30,56.12,Two-Year,DSL,1683.6,No,No,0.0754361258010141,Low Risk
+1743,42,Female,7,72.09,One-Year,Fiber Optic,504.63,No,No,0.4311529964359116,Medium Risk
+1744,55,Male,4,86.03,Month-to-Month,Fiber Optic,344.12,Yes,No,0.43044739728328174,Medium Risk
+1745,30,Female,0,71.44,Month-to-Month,Fiber Optic,0.0,No,No,0.706165339402698,Medium Risk
+1746,44,Female,0,77.98,Month-to-Month,Fiber Optic,0.0,No,No,0.598748033566799,Medium Risk
+1747,53,Female,35,51.49,Month-to-Month,None,1802.15,Yes,Yes,0.6212234018517965,Medium Risk
+1748,48,Male,3,41.77,Two-Year,None,125.31,Yes,No,0.08168221293439054,Low Risk
+1749,44,Female,15,33.44,Month-to-Month,None,501.6,No,No,0.27941563577610834,Low Risk
+1750,54,Female,22,48.05,Month-to-Month,None,1057.1,Yes,No,0.1538228036397587,Low Risk
+1751,18,Female,13,37.1,Month-to-Month,None,482.3,No,No,0.10683165409587575,Low Risk
+1752,50,Male,0,57.24,One-Year,DSL,0.0,Yes,No,0.20404875579884282,Low Risk
+1753,34,Male,36,58.34,Month-to-Month,DSL,2100.24,No,No,0.31550296494901436,Low Risk
+1754,20,Female,0,94.92,Month-to-Month,Fiber Optic,0.0,Yes,Yes,0.6090538861602802,Medium Risk
+1755,48,Male,34,23.31,Month-to-Month,None,792.54,No,No,0.35968789007215657,Low Risk
+1756,58,Female,53,77.01,Two-Year,Fiber Optic,4081.53,Yes,No,0.07008950178364326,Low Risk
+1757,40,Male,13,85.75,Month-to-Month,Fiber Optic,1114.75,Yes,Yes,0.4855674366190218,Medium Risk
+1758,53,Male,18,59.72,Two-Year,DSL,1074.96,Yes,No,0.017641437577079314,Low Risk
+1759,61,Female,15,47.33,Two-Year,DSL,709.95,No,No,0.010394042972658044,Low Risk
+1760,57,Male,11,91.21,Month-to-Month,Fiber Optic,1003.31,Yes,No,0.38141767949238997,Low Risk
+1761,61,Male,52,56.36,One-Year,DSL,2930.72,No,No,0.1478417839278941,Low Risk
+1762,50,Male,53,95.41,Month-to-Month,Fiber Optic,5056.73,Yes,No,0.21200689201404693,Low Risk
+1763,42,Female,9,59.23,Two-Year,DSL,533.07,Yes,No,0.026422795908384842,Low Risk
+1764,22,Male,22,50.78,Month-to-Month,DSL,1117.16,No,No,0.1735423618105666,Low Risk
+1765,39,Male,62,81.58,Month-to-Month,Fiber Optic,5057.96,No,No,0.1672756602251338,Low Risk
+1766,31,Female,72,78.23,Month-to-Month,Fiber Optic,5632.56,No,Yes,0.7048767364853868,Medium Risk
+1767,68,Male,17,75.41,Month-to-Month,Fiber Optic,1281.97,No,No,0.5237576969098331,Medium Risk
+1768,39,Male,14,51.63,Two-Year,DSL,722.82,No,No,0.03313105340693225,Low Risk
+1769,43,Male,7,29.85,Month-to-Month,None,208.95,No,No,0.32131080076514756,Low Risk
+1770,48,Male,72,73.74,One-Year,Fiber Optic,5309.28,No,No,0.037765741030091476,Low Risk
+1771,42,Male,3,88.32,Month-to-Month,Fiber Optic,264.96,Yes,Yes,0.6659504218619959,Medium Risk
+1772,62,Female,20,68.71,Two-Year,Fiber Optic,1374.2,No,Yes,0.5065382426276195,Medium Risk
+1773,34,Female,7,47.45,Month-to-Month,DSL,332.15,No,No,0.2736510414726005,Low Risk
+1774,44,Male,7,26.56,Month-to-Month,None,185.92,No,No,0.25464965151902746,Low Risk
+1775,33,Male,12,86.61,Month-to-Month,Fiber Optic,1039.32,Yes,No,0.47793825523389594,Medium Risk
+1776,26,Male,72,83.72,One-Year,Fiber Optic,6027.84,Yes,No,0.04416668126699147,Low Risk
+1777,34,Female,1,50.37,Month-to-Month,DSL,50.37,No,No,0.45522735054731606,Medium Risk
+1778,41,Female,20,42.33,Month-to-Month,None,846.6,Yes,No,0.08768410568028288,Low Risk
+1779,36,Male,2,67.43,Month-to-Month,Fiber Optic,134.86,No,No,0.7532647506961129,High Risk
+1780,33,Male,4,69.11,One-Year,DSL,276.44,Yes,No,0.10407719120940395,Low Risk
+1781,25,Female,13,54.59,Month-to-Month,DSL,709.67,No,No,0.30463046765995067,Low Risk
+1782,41,Male,17,34.65,One-Year,None,589.05,Yes,No,0.13929944694213944,Low Risk
+1783,23,Female,7,70.83,Month-to-Month,Fiber Optic,495.81,No,Yes,0.7223626272197541,Medium Risk
+1784,51,Female,9,82.51,Two-Year,Fiber Optic,742.59,Yes,No,0.1452420114653386,Low Risk
+1785,42,Male,2,65.06,Two-Year,Fiber Optic,130.12,No,No,0.41255570414841986,Medium Risk
+1786,24,Female,8,71.52,Month-to-Month,Fiber Optic,572.16,No,No,0.6308563791341739,Medium Risk
+1787,38,Male,72,89.63,Month-to-Month,Fiber Optic,6453.36,Yes,No,0.16949293094125029,Low Risk
+1788,32,Male,69,56.72,Month-to-Month,DSL,3913.68,No,Yes,0.562950839238423,Medium Risk
+1789,45,Male,9,82.82,Month-to-Month,Fiber Optic,745.38,Yes,No,0.49452330117877075,Medium Risk
+1790,58,Male,20,47.75,Month-to-Month,None,955.0,Yes,No,0.1943892603907626,Low Risk
+1791,19,Male,57,48.45,One-Year,DSL,2761.65,No,No,0.12163800538466303,Low Risk
+1792,43,Male,0,74.91,Month-to-Month,Fiber Optic,0.0,No,Yes,0.8071660104754409,High Risk
+1793,40,Female,39,80.84,Two-Year,Fiber Optic,3152.76,Yes,No,0.054523441939648754,Low Risk
+1794,50,Female,71,87.36,Month-to-Month,Fiber Optic,6202.56,Yes,No,0.15528381184690962,Low Risk
+1795,44,Female,2,37.89,One-Year,None,75.78,Yes,No,0.07400530222951654,Low Risk
+1796,32,Female,4,73.57,Month-to-Month,Fiber Optic,294.28,No,Yes,0.5936401266647104,Medium Risk
+1797,38,Male,72,78.13,Month-to-Month,DSL,5625.36,Yes,No,0.0656191941719223,Low Risk
+1798,32,Female,18,23.19,Month-to-Month,None,417.42,No,No,0.2138576624344742,Low Risk
+1799,54,Female,0,83.46,Month-to-Month,Fiber Optic,0.0,No,Yes,0.49263672777039,Medium Risk
+1800,42,Female,7,43.7,Month-to-Month,None,305.9,Yes,No,0.09773450902763639,Low Risk
+1801,64,Male,14,85.67,One-Year,Fiber Optic,1199.38,Yes,No,0.24976317273599918,Low Risk
+1802,41,Female,28,22.11,Two-Year,None,619.08,No,Yes,0.5150330971031926,Medium Risk
+1803,33,Male,31,66.14,Month-to-Month,DSL,2050.34,Yes,No,0.51285337288668,Medium Risk
+1804,23,Female,72,67.49,Month-to-Month,DSL,4859.28,Yes,No,0.07170627912358545,Low Risk
+1805,20,Male,8,39.77,Month-to-Month,None,318.16,Yes,No,0.4239679791003956,Medium Risk
+1806,22,Male,18,53.96,Month-to-Month,DSL,971.28,No,No,0.29751028226833304,Low Risk
+1807,45,Female,18,52.96,Month-to-Month,DSL,953.28,No,No,0.351170664779783,Low Risk
+1808,48,Male,12,94.29,One-Year,Fiber Optic,1131.48,Yes,No,0.31736398539932936,Low Risk
+1809,23,Male,4,35.25,Two-Year,None,141.0,Yes,No,0.0885242437954591,Low Risk
+1810,52,Female,72,49.96,Two-Year,DSL,3597.12,No,No,0.02472853060982545,Low Risk
+1811,36,Female,46,31.24,Month-to-Month,None,1437.04,No,No,0.1863026155453101,Low Risk
+1812,43,Female,16,62.68,Two-Year,Fiber Optic,1002.88,No,No,0.08098162103890169,Low Risk
+1813,61,Male,22,74.51,One-Year,Fiber Optic,1639.22,No,No,0.25776360408286925,Low Risk
+1814,52,Male,6,28.01,Month-to-Month,None,168.06,No,No,0.24780565507699862,Low Risk
+1815,38,Male,18,62.54,Month-to-Month,Fiber Optic,1125.72,No,Yes,0.679434790636973,Medium Risk
+1816,31,Female,28,65.97,Two-Year,DSL,1847.16,Yes,No,0.10005771765953288,Low Risk
+1817,18,Male,17,64.42,Month-to-Month,DSL,1095.14,Yes,Yes,0.45584798334516824,Medium Risk
+1818,33,Male,72,69.76,Month-to-Month,Fiber Optic,5022.72,No,No,0.14678635373204985,Low Risk
+1819,39,Male,22,78.44,Month-to-Month,Fiber Optic,1725.68,No,No,0.5559734539566492,Medium Risk
+1820,30,Male,11,26.85,One-Year,None,295.35,No,Yes,0.5395126959376912,Medium Risk
+1821,40,Male,35,94.59,Month-to-Month,Fiber Optic,3310.65,Yes,No,0.3631485735301372,Low Risk
+1822,42,Male,4,72.95,Two-Year,Fiber Optic,291.8,No,Yes,0.3239277225401144,Low Risk
+1823,39,Male,11,68.19,One-Year,Fiber Optic,750.09,No,Yes,0.5638318613014636,Medium Risk
+1824,34,Female,10,70.27,One-Year,DSL,702.7,Yes,No,0.07105447073881799,Low Risk
+1825,44,Female,13,51.22,Month-to-Month,DSL,665.86,No,No,0.28559550362805797,Low Risk
+1826,47,Female,36,39.11,One-Year,None,1407.96,No,No,0.10677519681388485,Low Risk
+1827,28,Male,15,51.54,Month-to-Month,DSL,773.1,No,Yes,0.2839693052541441,Low Risk
+1828,58,Male,37,60.13,Month-to-Month,DSL,2224.81,No,No,0.2726547948373105,Low Risk
+1829,40,Female,20,79.22,Month-to-Month,Fiber Optic,1584.4,No,No,0.5423521724663071,Medium Risk
+1830,42,Male,10,76.58,Month-to-Month,Fiber Optic,765.8,No,Yes,0.6613701798675723,Medium Risk
+1831,50,Female,39,39.56,One-Year,None,1542.84,Yes,No,0.05755642549395151,Low Risk
+1832,44,Male,6,69.24,Month-to-Month,DSL,415.44,Yes,No,0.5204596686153216,Medium Risk
+1833,53,Male,6,44.23,Month-to-Month,DSL,265.38,No,No,0.37775755172587744,Low Risk
+1834,45,Female,16,56.12,Month-to-Month,DSL,897.92,No,Yes,0.6276704648921405,Medium Risk
+1835,34,Female,7,69.07,Two-Year,Fiber Optic,483.49,No,No,0.16198849277503619,Low Risk
+1836,46,Female,0,71.88,One-Year,Fiber Optic,0.0,No,Yes,0.8793300737354208,High Risk
+1837,28,Female,25,71.38,One-Year,Fiber Optic,1784.5,Yes,No,0.18426300021436293,Low Risk
+1838,43,Female,17,23.67,Month-to-Month,None,402.39,No,No,0.2057956648481446,Low Risk
+1839,41,Male,14,41.26,Month-to-Month,None,577.64,Yes,No,0.3035259105159703,Low Risk
+1840,39,Male,72,50.81,Two-Year,DSL,3658.32,No,No,0.0,Low Risk
+1841,40,Male,20,76.45,Month-to-Month,Fiber Optic,1529.0,No,No,0.6297762406385319,Medium Risk
+1842,19,Female,47,74.15,Month-to-Month,Fiber Optic,3485.05,No,No,0.06570289316989285,Low Risk
+1843,35,Female,3,45.77,One-Year,None,137.31,Yes,No,0.04061646208199573,Low Risk
+1844,43,Female,20,39.87,Month-to-Month,None,797.4,Yes,No,0.12242114102917405,Low Risk
+1845,43,Female,48,52.25,Two-Year,DSL,2508.0,No,No,0.019021086956343886,Low Risk
+1846,29,Female,20,77.37,Month-to-Month,Fiber Optic,1547.4,No,No,0.5479492675955246,Medium Risk
+1847,57,Female,30,76.89,Month-to-Month,Fiber Optic,2306.7,No,No,0.5413863226381863,Medium Risk
+1848,31,Male,11,69.09,Month-to-Month,DSL,759.99,Yes,No,0.3936494177708235,Low Risk
+1849,53,Male,2,64.15,Month-to-Month,DSL,128.3,No,No,0.46007551343291675,Medium Risk
+1850,47,Male,14,69.72,Two-Year,Fiber Optic,976.08,No,No,0.10478622307740582,Low Risk
+1851,34,Male,12,80.9,One-Year,Fiber Optic,970.8,Yes,No,0.12236793950231149,Low Risk
+1852,63,Male,48,56.24,Month-to-Month,DSL,2699.52,No,No,0.15311585995775934,Low Risk
+1853,27,Female,6,93.76,Month-to-Month,Fiber Optic,562.56,Yes,Yes,0.7336298557703453,Medium Risk
+1854,53,Female,72,49.46,One-Year,DSL,3561.12,No,No,0.06292748225169519,Low Risk
+1855,54,Female,72,76.42,One-Year,Fiber Optic,5502.24,No,No,0.10013493820318732,Low Risk
+1856,33,Female,6,56.91,Month-to-Month,DSL,341.46,No,No,0.4206340297756473,Medium Risk
+1857,58,Female,10,43.29,Month-to-Month,DSL,432.9,No,No,0.4240312948538049,Medium Risk
+1858,38,Female,54,76.5,Month-to-Month,Fiber Optic,4131.0,No,Yes,0.4705995100395956,Medium Risk
+1859,45,Male,72,64.57,One-Year,DSL,4649.04,Yes,No,0.03703361360929353,Low Risk
+1860,45,Female,14,69.92,Two-Year,Fiber Optic,978.88,No,No,0.032314088903820676,Low Risk
+1861,40,Female,9,59.72,Month-to-Month,DSL,537.48,No,No,0.5669459996340983,Medium Risk
+1862,51,Female,17,86.43,One-Year,Fiber Optic,1469.31,Yes,No,0.19171600764222127,Low Risk
+1863,51,Female,27,78.33,Month-to-Month,DSL,2114.91,Yes,No,0.19697647958268497,Low Risk
+1864,21,Male,7,74.11,Month-to-Month,Fiber Optic,518.77,No,Yes,0.7463477652817861,Medium Risk
+1865,57,Male,32,93.12,Month-to-Month,Fiber Optic,2979.84,Yes,Yes,0.6342505264376402,Medium Risk
+1866,22,Female,1,66.62,Two-Year,DSL,66.62,Yes,No,0.04186820735444331,Low Risk
+1867,54,Male,1,74.51,Month-to-Month,Fiber Optic,74.51,No,No,0.5378445106882274,Medium Risk
+1868,55,Male,11,73.89,Month-to-Month,DSL,812.79,Yes,No,0.43298088689040876,Medium Risk
+1869,28,Female,10,72.03,Month-to-Month,Fiber Optic,720.3,No,No,0.5572531605059505,Medium Risk
+1870,37,Female,9,67.89,Month-to-Month,DSL,611.01,Yes,No,0.3680675130305511,Low Risk
+1871,28,Female,16,68.44,Month-to-Month,Fiber Optic,1095.04,No,No,0.5965616359381106,Medium Risk
+1872,39,Female,9,72.4,One-Year,Fiber Optic,651.6,No,No,0.4734395641428983,Medium Risk
+1873,38,Female,5,31.63,Month-to-Month,None,158.15,No,No,0.35728177029213426,Low Risk
+1874,51,Male,8,91.1,One-Year,Fiber Optic,728.8,Yes,No,0.35099454839797667,Low Risk
+1875,57,Female,72,78.96,Month-to-Month,Fiber Optic,5685.12,No,Yes,0.6937483100948146,Medium Risk
+1876,58,Female,12,73.58,Month-to-Month,Fiber Optic,882.96,No,No,0.5286121117849882,Medium Risk
+1877,35,Female,14,24.11,Month-to-Month,None,337.54,No,No,0.20433417526633002,Low Risk
+1878,39,Male,20,92.16,Month-to-Month,Fiber Optic,1843.2,Yes,No,0.49070690753059837,Medium Risk
+1879,21,Female,72,75.55,Month-to-Month,DSL,5439.6,Yes,No,0.10727716977083208,Low Risk
+1880,32,Female,6,33.78,Month-to-Month,None,202.68,No,No,0.18291428336553378,Low Risk
+1881,53,Female,27,90.65,One-Year,Fiber Optic,2447.55,Yes,No,0.3403693810823537,Low Risk
+1882,61,Male,30,27.49,One-Year,None,824.7,No,No,0.505926915988476,Medium Risk
+1883,27,Female,22,42.67,Month-to-Month,None,938.74,Yes,No,0.0996562853401388,Low Risk
+1884,34,Female,2,51.32,Month-to-Month,DSL,102.64,No,Yes,0.5734915884777294,Medium Risk
+1885,41,Female,27,74.72,Month-to-Month,Fiber Optic,2017.44,No,Yes,0.6391162672948145,Medium Risk
+1886,45,Male,1,54.61,Month-to-Month,DSL,54.61,No,Yes,0.7543366773268508,High Risk
+1887,32,Female,21,56.03,Month-to-Month,DSL,1176.63,No,Yes,0.5482589381136155,Medium Risk
+1888,47,Female,32,48.92,Two-Year,DSL,1565.44,No,No,0.01281888181854721,Low Risk
+1889,36,Female,5,74.33,Month-to-Month,Fiber Optic,371.65,No,No,0.541224846041896,Medium Risk
+1890,41,Male,44,51.12,Month-to-Month,DSL,2249.28,No,No,0.2645777625618785,Low Risk
+1891,48,Female,0,59.71,Month-to-Month,DSL,0.0,No,Yes,0.6610037972398151,Medium Risk
+1892,42,Female,44,75.38,Month-to-Month,Fiber Optic,3316.72,No,No,0.14935142297133663,Low Risk
+1893,36,Female,14,65.67,One-Year,DSL,919.38,Yes,No,0.04375017972479003,Low Risk
+1894,40,Male,5,51.26,Month-to-Month,DSL,256.3,No,Yes,0.6379380223124859,Medium Risk
+1895,40,Male,3,63.34,Month-to-Month,DSL,190.02,Yes,No,0.3207213772913584,Low Risk
+1896,37,Female,72,77.46,One-Year,Fiber Optic,5577.12,No,No,0.07655271497982503,Low Risk
+1897,38,Male,1,77.77,Month-to-Month,Fiber Optic,77.77,No,Yes,0.8119897427841534,High Risk
+1898,61,Male,5,44.54,One-Year,DSL,222.7,No,Yes,0.6432521208670817,Medium Risk
+1899,48,Male,10,32.12,One-Year,None,321.2,No,No,0.19421703530945789,Low Risk
+1900,38,Female,23,79.61,Month-to-Month,Fiber Optic,1831.03,No,Yes,0.6353717495152226,Medium Risk
+1901,50,Female,18,67.09,One-Year,DSL,1207.62,Yes,No,0.06781817787904083,Low Risk
+1902,37,Male,3,62.99,Month-to-Month,DSL,188.97,No,No,0.6030237183854892,Medium Risk
+1903,56,Male,8,91.08,Month-to-Month,Fiber Optic,728.64,Yes,Yes,0.48677442956804734,Medium Risk
+1904,46,Male,6,67.92,Month-to-Month,Fiber Optic,407.52,No,No,0.5752526706629526,Medium Risk
+1905,40,Female,5,71.83,Month-to-Month,DSL,359.15,Yes,No,0.3850879127210724,Low Risk
+1906,47,Female,12,67.66,One-Year,DSL,811.92,Yes,No,0.13454912944611855,Low Risk
+1907,23,Male,29,24.29,Two-Year,None,704.41,No,No,0.17497038633399137,Low Risk
+1908,28,Male,5,65.58,Two-Year,DSL,327.9,Yes,No,0.04496959510732028,Low Risk
+1909,27,Male,10,63.33,One-Year,Fiber Optic,633.3,No,No,0.37367883485941994,Low Risk
+1910,43,Male,11,49.95,Month-to-Month,None,549.45,Yes,No,0.22012213767174757,Low Risk
+1911,62,Female,72,70.61,Month-to-Month,Fiber Optic,5083.92,No,No,0.13483325226320125,Low Risk
+1912,68,Male,72,50.08,Month-to-Month,DSL,3605.76,No,No,0.09281136915519361,Low Risk
+1913,49,Female,38,89.43,Month-to-Month,Fiber Optic,3398.34,Yes,No,0.3221292149572335,Low Risk
+1914,48,Male,6,72.16,Month-to-Month,DSL,432.96,Yes,No,0.41675636247814074,Medium Risk
+1915,20,Male,1,68.24,Two-Year,Fiber Optic,68.24,No,No,0.44891882357132523,Medium Risk
+1916,35,Male,9,86.29,Month-to-Month,Fiber Optic,776.61,Yes,Yes,0.6138511881084078,Medium Risk
+1917,32,Male,7,27.47,Month-to-Month,None,192.29,No,No,0.1906263532528843,Low Risk
+1918,34,Male,16,39.33,Month-to-Month,None,629.28,Yes,No,0.24183617633456925,Low Risk
+1919,39,Female,36,39.49,Two-Year,None,1421.64,Yes,No,0.022987540687017017,Low Risk
+1920,36,Male,46,33.61,One-Year,None,1546.06,No,No,0.1233087860363999,Low Risk
+1921,18,Male,44,85.48,One-Year,Fiber Optic,3761.12,Yes,No,0.02783786266131549,Low Risk
+1922,50,Male,10,79.3,Month-to-Month,Fiber Optic,793.0,No,No,0.5247801952438846,Medium Risk
+1923,29,Female,27,87.55,Two-Year,Fiber Optic,2363.85,Yes,Yes,0.6678224890459336,Medium Risk
+1924,44,Female,9,87.06,Month-to-Month,Fiber Optic,783.54,Yes,No,0.5695225425959851,Medium Risk
+1925,66,Female,1,26.16,Two-Year,None,26.16,No,No,0.19874703801946633,Low Risk
+1926,30,Female,29,65.86,Month-to-Month,DSL,1909.94,No,No,0.36437685917714974,Low Risk
+1927,18,Male,0,37.22,Month-to-Month,None,0.0,No,No,0.44702725410953403,Medium Risk
+1928,38,Male,12,36.64,Month-to-Month,None,439.68,Yes,No,0.40340828704174525,Medium Risk
+1929,55,Male,9,30.34,One-Year,None,273.06,No,Yes,0.2680064252525611,Low Risk
+1930,65,Female,28,30.0,Month-to-Month,None,840.0,No,Yes,0.7398424149771253,Medium Risk
+1931,27,Male,34,66.72,Two-Year,DSL,2268.48,Yes,No,0.08965028560182133,Low Risk
+1932,47,Male,8,51.28,Month-to-Month,DSL,410.24,No,No,0.26678418531248577,Low Risk
+1933,36,Female,40,50.8,Month-to-Month,DSL,2032.0,No,No,0.08882750135545671,Low Risk
+1934,40,Female,8,66.62,Month-to-Month,DSL,532.96,Yes,No,0.3610474443307153,Low Risk
+1935,73,Female,14,72.14,Month-to-Month,Fiber Optic,1009.96,No,No,0.4516498275014434,Medium Risk
+1936,23,Male,31,34.08,Month-to-Month,None,1056.48,No,No,0.2906499621263525,Low Risk
+1937,45,Male,28,39.09,Month-to-Month,None,1094.52,Yes,Yes,0.3034838933159405,Low Risk
+1938,47,Female,72,68.29,One-Year,Fiber Optic,4916.88,No,No,0.027700913734575755,Low Risk
+1939,55,Male,6,61.05,Month-to-Month,DSL,366.3,Yes,Yes,0.6547494285968741,Medium Risk
+1940,43,Female,26,54.03,Two-Year,DSL,1404.78,No,No,0.02136136343331798,Low Risk
+1941,45,Female,22,58.29,One-Year,DSL,1282.38,No,Yes,0.5376081479598497,Medium Risk
+1942,37,Male,59,66.03,Two-Year,Fiber Optic,3895.77,No,No,0.21602523644952018,Low Risk
+1943,45,Female,4,73.51,Month-to-Month,Fiber Optic,294.04,No,No,0.6543480316843735,Medium Risk
+1944,37,Female,33,72.27,Month-to-Month,DSL,2384.91,Yes,No,0.3375837885303982,Low Risk
+1945,49,Female,20,62.37,Month-to-Month,DSL,1247.4,No,Yes,0.638649531111658,Medium Risk
+1946,37,Male,7,54.19,One-Year,DSL,379.33,No,No,0.4896845660910793,Medium Risk
+1947,46,Female,15,64.36,Two-Year,Fiber Optic,965.4,No,No,0.11793495641569923,Low Risk
+1948,41,Female,9,66.91,Month-to-Month,Fiber Optic,602.19,No,No,0.6037209715003601,Medium Risk
+1949,55,Female,20,84.42,Month-to-Month,Fiber Optic,1688.4,Yes,Yes,0.44088088935004804,Medium Risk
+1950,41,Female,52,81.33,Two-Year,Fiber Optic,4229.16,Yes,No,0.027155883251204212,Low Risk
+1951,20,Female,20,41.72,Month-to-Month,None,834.4,Yes,No,0.09313236139841496,Low Risk
+1952,57,Female,23,53.18,One-Year,DSL,1223.14,No,No,0.3132116266463844,Low Risk
+1953,31,Female,17,87.24,Month-to-Month,Fiber Optic,1483.08,Yes,No,0.5460110191730169,Medium Risk
+1954,34,Male,1,62.74,Two-Year,Fiber Optic,62.74,No,No,0.48502958178779465,Medium Risk
+1955,34,Male,6,69.11,Month-to-Month,Fiber Optic,414.66,No,No,0.5824066895064685,Medium Risk
+1956,58,Female,16,52.81,Month-to-Month,None,844.96,Yes,Yes,0.2845301937728091,Low Risk
+1957,18,Male,8,75.47,One-Year,Fiber Optic,603.76,No,Yes,0.6964599090703633,Medium Risk
+1958,79,Male,4,75.29,Two-Year,Fiber Optic,301.16,No,Yes,0.7098058773154606,Medium Risk
+1959,54,Female,16,57.7,Month-to-Month,DSL,923.2,No,No,0.478075514620237,Medium Risk
+1960,44,Male,9,87.85,Month-to-Month,Fiber Optic,790.65,Yes,No,0.512483806083263,Medium Risk
+1961,41,Female,7,72.79,One-Year,DSL,509.53,Yes,No,0.08641842570329433,Low Risk
+1962,45,Female,14,62.85,Two-Year,DSL,879.9,Yes,No,0.028764305613053192,Low Risk
+1963,48,Female,3,81.99,Two-Year,Fiber Optic,245.97,Yes,Yes,0.46392761535330246,Medium Risk
+1964,49,Female,63,67.31,Two-Year,Fiber Optic,4240.53,No,Yes,0.49979489805580535,Medium Risk
+1965,48,Female,48,40.27,Month-to-Month,DSL,1932.96,No,No,0.2014235678714832,Low Risk
+1966,43,Male,29,98.02,Month-to-Month,Fiber Optic,2842.58,Yes,Yes,0.350219986631347,Low Risk
+1967,39,Female,2,73.58,One-Year,Fiber Optic,147.16,No,No,0.4696830207228067,Medium Risk
+1968,40,Male,35,50.98,Two-Year,DSL,1784.3,No,No,0.02154976123126825,Low Risk
+1969,39,Female,39,89.69,Month-to-Month,Fiber Optic,3497.91,Yes,Yes,0.5245165076869724,Medium Risk
+1970,55,Female,35,90.82,Month-to-Month,Fiber Optic,3178.7,Yes,No,0.4077203614637849,Medium Risk
+1971,49,Female,2,68.41,One-Year,Fiber Optic,136.82,No,Yes,0.7129361400996131,Medium Risk
+1972,18,Male,24,78.08,Month-to-Month,Fiber Optic,1873.92,No,No,0.5086819581699179,Medium Risk
+1973,49,Female,43,48.46,Month-to-Month,DSL,2083.78,No,No,0.19876202449738198,Low Risk
+1974,44,Female,20,90.93,Month-to-Month,Fiber Optic,1818.6,Yes,Yes,0.6261616396072422,Medium Risk
+1975,41,Female,24,45.42,One-Year,None,1090.08,Yes,No,0.01395006132838824,Low Risk
+1976,37,Female,14,84.56,One-Year,Fiber Optic,1183.84,Yes,No,0.11551755327670023,Low Risk
+1977,55,Male,18,56.85,Month-to-Month,DSL,1023.3,No,No,0.46217459872296585,Medium Risk
+1978,53,Female,0,66.54,One-Year,Fiber Optic,0.0,No,Yes,0.7955912715771498,High Risk
+1979,32,Male,24,38.16,One-Year,None,915.84,Yes,No,0.11825032109112116,Low Risk
+1980,46,Female,2,56.18,Month-to-Month,DSL,112.36,No,No,0.5074295054996234,Medium Risk
+1981,30,Male,13,31.72,One-Year,None,412.36,No,No,0.2115458082714676,Low Risk
+1982,25,Male,8,20.63,Month-to-Month,None,165.04,No,No,0.21136678158636502,Low Risk
+1983,34,Female,18,57.61,Month-to-Month,DSL,1036.98,No,No,0.43065889204678326,Medium Risk
+1984,52,Female,3,42.28,Month-to-Month,None,126.84,Yes,No,0.09504368980593635,Low Risk
+1985,53,Male,28,74.04,Month-to-Month,Fiber Optic,2073.12,No,No,0.3801302251609762,Low Risk
+1986,48,Female,38,38.3,Month-to-Month,None,1455.4,Yes,No,0.08623328761568166,Low Risk
+1987,50,Female,4,77.17,Two-Year,Fiber Optic,308.68,Yes,No,0.055131505848774624,Low Risk
+1988,48,Female,2,75.84,One-Year,Fiber Optic,151.68,No,No,0.4251887904826014,Medium Risk
+1989,34,Male,3,71.41,One-Year,Fiber Optic,214.23,No,No,0.5454591098415479,Medium Risk
+1990,47,Female,50,73.09,Month-to-Month,Fiber Optic,3654.5,No,No,0.13861754804716614,Low Risk
+1991,51,Female,18,54.42,Month-to-Month,DSL,979.56,No,No,0.3780522592961446,Low Risk
+1992,51,Female,15,77.45,Month-to-Month,Fiber Optic,1161.75,No,No,0.504372544974431,Medium Risk
+1993,56,Male,2,57.2,Month-to-Month,DSL,114.4,No,Yes,0.658494804200275,Medium Risk
+1994,50,Female,25,69.62,Month-to-Month,DSL,1740.5,Yes,No,0.38452867673079877,Low Risk
+1995,46,Male,48,57.44,One-Year,DSL,2757.12,No,No,0.12245424493659123,Low Risk
+1996,54,Female,42,71.87,Two-Year,Fiber Optic,3018.54,No,No,0.0917296456865723,Low Risk
+1997,41,Male,23,57.07,Month-to-Month,DSL,1312.61,No,No,0.5512918707578978,Medium Risk
+1998,31,Female,1,55.27,Month-to-Month,DSL,55.27,No,Yes,0.6984043219769117,Medium Risk
+1999,40,Female,2,55.37,One-Year,DSL,110.74,No,No,0.529785933981929,Medium Risk
+2000,33,Male,1,56.57,Month-to-Month,DSL,56.57,No,No,0.5544960017055396,Medium Risk

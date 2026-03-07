@@ -1,0 +1,27 @@
+============================================================
+CUSTOMER CHURN ANALYTICS - BUSINESS INSIGHTS
+============================================================
+
+📊 KEY METRICS
+• Total Customers: 2,000
+• Churn Rate: 22.4%
+• Avg Monthly Charges: $63.14
+
+⚠️ RISK SEGMENTATION
+• High Risk: 54 (2.7%)
+• Medium Risk: 734
+• Low Risk: 1,212
+• Monthly Revenue at Risk: $3,426.16
+
+🔍 TOP CHURN DRIVERS
+• MonthlyCharges: 0.2192
+• TotalCharges: 0.2065
+• Tenure: 0.1725
+• Age: 0.1714
+• ContractType_Two-Year: 0.0791
+
+💡 RECOMMENDATIONS
+1. Focus retention efforts on high-risk customers
+2. Incentivize month-to-month customers to switch to annual contracts
+3. Implement proactive support outreach for at-risk segments
+4. Review pricing strategy for high-churn segments
